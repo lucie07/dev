@@ -30,7 +30,7 @@ defineOgImageComponent('About', {
         {{ aboutPage.title }}
       </h1>
 
-      <NuxtImg
+      <img
         src="/lucie-mingmei-hao.jpg"
         width="200"
         height="200"
