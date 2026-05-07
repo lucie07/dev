@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Global links styling for markdown and blog content */
+.prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: #664700;
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-decoration-color: #FFD77A;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.2em;
+
+  transition:
+    text-decoration-thickness 160ms ease,
+    text-underline-offset 160ms ease;
+}
+
+.prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):hover,
+.prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):focus-visible {
+  color: #664700;
+  text-decoration-color: #FFD77A;
+  text-decoration-thickness: 2.5px;
+}
