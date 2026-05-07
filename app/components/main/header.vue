@@ -56,7 +56,7 @@ watch(
 
 <template>
   <div
-    class="sticky top-0 z-50 py-5 border-b font-semibold transition-all duration-300 ease-out"
+    class="py-5 border-b font-semibold transition-all duration-300 ease-out"
     :class="
       isOverHero
         ? 'bg-transparent border-transparent text-white'
