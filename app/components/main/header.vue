@@ -13,9 +13,10 @@ function isActive(path: string) {
   return route.path.startsWith(path)
 }
 
-const isOverHero = ref(false)
-
 const isHomePage = computed(() => route.path === '/')
+
+// start with a transparent header on landing page
+const isOverHero = ref(isHomePage.value)
 
 function updateHeaderState() {
   if (!import.meta.client) return
@@ -29,7 +30,6 @@ function updateHeaderState() {
 
   const heroRect = hero.getBoundingClientRect()
 
-  // Change back to yellow once the hero has moved above the header area
   isOverHero.value = heroRect.bottom > 80
 }
 
@@ -48,6 +48,8 @@ onUnmounted(() => {
 watch(
   () => route.path,
   async () => {
+    isOverHero.value = route.path === '/'
+
     await nextTick()
     updateHeaderState()
   }
