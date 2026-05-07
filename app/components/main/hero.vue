@@ -5,9 +5,12 @@ import { homePage } from '~/data'
 <template>
   <div class="container mx-auto px-6">
     <!-- HERO WRAPPER -->
-    <div class="relative overflow-hidden rounded-none
+    <div
+      id="home-hero"
+      class="relative overflow-hidden rounded-none
              w-screen max-w-none
-             left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
+             left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]"
+    >
       <!-- Background image -->
       <img
         src="/feature-image.png"
