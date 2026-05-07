@@ -25,7 +25,7 @@ import { homePage } from '~/data'
           {{ homePage.title }}
         </h1>
 
-        <h3 class="mt-3 text-white/90 font-medium text-xl md:text-2xl">
+        <h3 class="mt-6 text-white/90 font-medium text-xl md:text-2xl">
           {{ homePage.description }}
         </h3>
       </div>
