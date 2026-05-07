@@ -25,7 +25,7 @@ withDefaults(defineProps<Props>(), {
     <h1 class="text-xl dark:text-zinc-300 md:text-3xl lg:text-4xl m-7 font-bold text-center">
       {{ title || '' }}
     </h1>
-    <img
+    <NuxtImg
       :src="image || ''"
       :alt="alt || ''"
       width="600"
