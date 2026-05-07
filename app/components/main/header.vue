@@ -15,16 +15,21 @@ function isActive(path: string) {
 
 const isHomePage = computed(() => route.path === '/')
 
-// start with a transparent header on landing page
+// start transparent immediately on homepage
 const isOverHero = ref(isHomePage.value)
 
 function updateHeaderState() {
   if (!import.meta.client) return
 
+  if (!isHomePage.value) {
+    isOverHero.value = false
+    return
+  }
+
   const hero = document.getElementById('home-hero')
 
-  if (!isHomePage.value || !hero) {
-    isOverHero.value = false
+  if (!hero) {
+    isOverHero.value = true
     return
   }
 
@@ -52,6 +57,10 @@ watch(
 
     await nextTick()
     updateHeaderState()
+
+    window.setTimeout(() => {
+      updateHeaderState()
+    }, 50)
   }
 )
 </script>
