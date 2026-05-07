@@ -28,7 +28,7 @@ defineOgImageComponent('About', {
 
     <!-- Keep the rest constrained -->
     <main class="container max-w-5xl mx-auto text-zinc-600">
-    <!-- <MainRecent /> -->
+      <MainRecent />
     <!-- <MainTrending /> -->
     </main>
   </div>
