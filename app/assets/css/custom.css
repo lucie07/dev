@@ -8,6 +8,8 @@
   text-underline-offset: 0.2em;
 
   transition:
+    color 160ms ease,
+    text-decoration-color 160ms ease,
     text-decoration-thickness 160ms ease,
     text-underline-offset 160ms ease;
 }
@@ -15,6 +17,19 @@
 .prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):hover,
 .prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):focus-visible {
   color: #664700;
+  text-decoration-color: #FFD77A;
+  text-decoration-thickness: 3px;
+}
+
+/* Dark mode links */
+.dark .prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: #FFECC7;
+  text-decoration-color: #FFD77A;
+}
+
+.dark .prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):hover,
+.dark .prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):focus-visible {
+  color: #FFF4D6;
   text-decoration-color: #FFD77A;
   text-decoration-thickness: 3px;
 }
