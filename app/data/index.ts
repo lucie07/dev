@@ -24,7 +24,7 @@ export const blogsPage = {
 
 export const categoryPage = {
   title: 'Categories',
-  description: 'description: 'Explore categories created from tags across all projects.',
+  description: 'Explore categories created from tags across all projects.',
 }
 
 export const aboutPage = {
