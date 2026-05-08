@@ -5,12 +5,14 @@ const path = computed(() => route.fullPath.replace('/', ''))
 </script>
 
 <template>
-  <footer class="mt-10 border-t border-[#FFD77A]/60 dark:border-[#FFD77A]/30">
+  <footer class="mt-10">
     <div class="px-6 container max-w-5xl mx-auto">
-      <div class="py-9 md:py-10 flex items-center justify-center text-center">
-        <p class="text-base font-medium text-zinc-700 dark:text-zinc-300">
-          © 2026 Lucie Mingmei Hao
-        </p>
+      <div class="border-t-2 border-[#FFD77A]/60 dark:border-[#FFD77A]/30">
+        <div class="py-9 md:py-10 flex items-center justify-center text-center">
+          <p class="text-base font-medium text-zinc-700 dark:text-zinc-300">
+            © 2026 Lucie Mingmei Hao
+          </p>
+        </div>
       </div>
     </div>
   </footer>
