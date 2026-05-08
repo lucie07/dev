@@ -4,11 +4,11 @@ export const navbarData = {
 
 export const footerData = {
   author: 'Lucie Mingmei Hao',
-  aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at FieldNation LLC.',
+  aboutAuthor: 'Hi! I am Lucie, a Research IT Developer at the University of Exeter.',
   authorInterest:
-    "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
+    "Web, research and design",
   aboutTheSite:
-    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
+    "This is a site about the work I do.",
 }
 
 export const homePage = {
@@ -18,13 +18,13 @@ export const homePage = {
 }
 
 export const blogsPage = {
-  title: 'All Blogs',
-  description: 'Here you will find all the blog posts I have written & published on this site.',
+  title: 'Projects',
+  description: 'This is a collection of projects I have worked on over time, spanning digital humanities, research software, interactive prototypes, games, film and music work, and creative digital practice.',
 }
 
 export const categoryPage = {
   title: 'Categories',
-  description: 'Blow this category is generated from all the tags are mentioned in the different blog post',
+  description: 'description: 'Explore categories created from tags across all projects.',
 }
 
 export const aboutPage = {
@@ -39,20 +39,19 @@ export const aboutPage = {
 
 export const seoData = {
   title: `Lucie Mingmei Hao`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Riyad. A Software Engineer at FieldNation, with over 3.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
-  twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
-  image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
+  ogTitle: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
+  description: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
+  twitterDescription: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
+  image: 'https://lucie07.github.io/dev/_ipx/q_70&s_400x400/lucie-mingmei-hao.jpg',
+  mySite: 'https://lucie07.github.io/dev/',
   twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+  mailAddress: 'luciemmh@gmail.com',
 }
 
 export const socialLinks = {
-  githubLink: 'https://github.com/nurRiyad',
-  linkedinLink: 'https://www.linkedin.com/in/nur-riyad/',
-  twitterLink: 'https://twitter.com/qdnvubp',
-  stackoverflowLink: 'https://stackoverflow.com/users/16781395/nur-riyad',
+  githubLink: 'https://github.com/lucie07',
+  linkedinLink: 'https://www.linkedin.com/in/lucie-mingmei/',
+  twitterLink: 'https://x.com/lucienhlm',
 }
 
 export const siteMetaData = [
