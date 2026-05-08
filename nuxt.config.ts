@@ -4,6 +4,8 @@ import { seoData } from './app/data'
 export default defineNuxtConfig({
   compatibilityDate: '2024-09-30',
 
+  css: ['~/app/assets/css/custom.css'],
+
   modules: [
     'nuxt-llms',
     '@nuxt/icon',
