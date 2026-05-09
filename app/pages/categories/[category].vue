@@ -50,12 +50,22 @@ const formattedData = computed(() => {
   }) || []
 })
 
-const pageTitle = computed(() => {
+const displayCategory = computed(() => {
+  const posts = data.value || []
+
+  for (const article of posts) {
+    const meta = article.meta as unknown as BlogPost
+    const tags = meta.tags || []
+
+    const matchedTag = tags.find((tag) => slugify(tag) === category.value)
+
+    if (matchedTag) return matchedTag
+  }
+
   return category.value
-    .split('-')
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ')
 })
+
+const pageTitle = computed(() => displayCategory.value)
 
 useHead({
   title: pageTitle.value,
