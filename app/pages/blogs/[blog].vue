@@ -52,20 +52,6 @@ const data = computed<BlogPost>(() => {
   }
 })
 
-// Calculate reading time based on word count (average 200 words per minute)
-const readingTime = computed(() => {
-  const article = articles.value as ContentItem | null
-  const body = article?.body
-  if (!body) return '1 min read'
-
-  // More stable word count calculation
-  const text = JSON.stringify(body)
-  const wordCount = text.split(/\s+/).length
-  const minutes = Math.ceil(wordCount / 200)
-
-  return `${minutes} min read`
-})
-
 const tocLinks = computed(() => (articles.value as ContentItem | null)?.body?.toc?.links || [])
 
 useHead({
@@ -126,7 +112,7 @@ useHead({
 // Generate OG Image
 const article = articles.value as ContentItem | null
 defineOgImageComponent('Test', {
-  headline: 'Riyads Blog 👋',
+  headline: 'Lucie',
   title: article?.seo?.title || '',
   description: article?.seo?.description || '',
   link: data.value.ogImage,
@@ -144,7 +130,6 @@ defineOgImageComponent('Test', {
           :date="data.date"
           :description="data.description"
           :tags="data.tags"
-          :reading-time="readingTime"
         />
         <div
           class="prose prose-pre:max-w-xs sm:prose-pre:max-w-full prose-sm sm:prose-base md:prose-lg prose-h1:no-underline max-w-5xl mx-auto prose-zinc dark:prose-invert prose-img:rounded-lg"
