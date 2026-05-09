@@ -6,6 +6,7 @@
   text-decoration-color: #FFD77A;
   text-decoration-thickness: 2px;
   text-underline-offset: 0.2em;
+  text-decoration-skip-ink: none;
 
   transition:
     color 160ms ease,
