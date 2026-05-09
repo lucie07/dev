@@ -131,7 +131,7 @@ watch(
                   class="absolute inset-0 flex items-center justify-center hover:scale-110 transition-all ease-out hover:cursor-pointer"
                   @click="onClick('dark')"
                 >
-                  <Icon name="icon-park:moon" size="20" />
+                  <Icon name="lucide:moon" size="20" />
                 </button>
 
                 <button
@@ -142,7 +142,7 @@ watch(
                   class="absolute inset-0 flex items-center justify-center hover:scale-110 transition-all ease-out hover:cursor-pointer"
                   @click="onClick('light')"
                 >
-                  <Icon name="noto:sun" size="20" />
+                  <Icon name="lucide:sun" size="20" />
                 </button>
               </Transition>
             </div>
