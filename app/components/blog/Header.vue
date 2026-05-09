@@ -54,7 +54,7 @@ const slugify = (value: string) =>
           <p>{{ date || '' }}</p>
         </div>
 
-        <div class="flex items-center gap-x-2 gap-y-3 flex-wrap my-5">
+        <div class="flex items-center gap-x-2 gap-y-4 flex-wrap my-5">
           <LogoTag />
 
           <template v-for="tag in tags" :key="tag">
