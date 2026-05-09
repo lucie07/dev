@@ -54,13 +54,13 @@ const slugify = (value: string) =>
           <p>{{ date || '' }}</p>
         </div>
 
-        <div class="flex items-center gap-2 flex-wrap my-5">
+        <div class="flex items-center gap-x-2 gap-y-3 flex-wrap my-5">
           <LogoTag />
 
           <template v-for="tag in tags" :key="tag">
             <NuxtLink :to="`/categories/${slugify(tag)}`">
               <span
-                class="bg-[#FFECC7] text-[#5C3D00] dark:bg-[#996B00] dark:text-[#FFF4D6] rounded-md px-2 py-1 font-semibold hover:bg-[#FFE0A3] dark:hover:bg-[#664700] transition-colors duration-200"
+                class="bg-[#FFECC7] text-[#664700] dark:bg-[#996B00] dark:text-[#FFF4D6] rounded-md px-2 py-1 font-semibold hover:bg-[#FFE0A3] dark:hover:bg-[#664700] transition-colors duration-200"
               >
                 {{ tag }}
               </span>
