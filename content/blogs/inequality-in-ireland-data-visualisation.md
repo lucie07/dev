@@ -5,7 +5,7 @@ description: Inequality in Ireland is an interactive data visualisation develope
 image: /blogs-img/datavis-feature-image.png
 alt: View of Dublin
 ogImage: /blogs-img/datavis-feature-image.png
-tags: ['Data Visualisation', 'Interactive Map', 'Census', 'Deprivation Index', 'Social Science', 'Trinity College Dublin', 'Dublin', 'Ireland']
+tags: ['Data Visualisation', 'Interactive Map', 'Census', 'Deprivation Index', 'Storytelling', 'Social Science', 'Trinity College Dublin', 'Dublin', 'Ireland']
 published: true
 ---
 
