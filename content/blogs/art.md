@@ -1,11 +1,11 @@
 ---
 title: Art
-date: 19th Sep 2022
+date: 19th Sep 2012
 description: Some artwork I created 
 image: /blogs-img/mongolian-woman-with-a-camel_feature-image.jpg
 alt: Some artwork I created 
 ogImage: /blogs-img/mongolian-woman-with-a-camel_feature-image.jpg
-tags: ['art', 'sketch', 'Inner Mongolian']
+tags: ['art', 'sketch', 'Inner Mongolia']
 published: true
 ---
 
