@@ -31,6 +31,8 @@ Women’s Screen Work in the Archives Made Visible will seek to address the ofte
 
 ### Technical Insights
 
+![at Exeter DH lab](blogs-img/wsw-at-exeter-dh-lab.jpg)
+
 As part of the WSW team, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSW project also involves the creation of an Omeka S site - the project's main database for the Oral Histories, recorded interviews and data visualisations that add to BFI and BDCM catalogues. My work includes the design, build and integration of the items within the Omeka S framework.  
 
 Working based on the standard scholarly approaches to archival research, I am building up ontologies using Dublin Core and constructing item records to set up the network links and the different media types through bespoke digital humanities methods. By building controlled vocabularies, metadata, and other entities that need to connect together, I follow best practices for the oral history records and structure them in line as recommended by the Oral History Society.
