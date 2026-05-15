@@ -28,3 +28,4 @@ The ultimate goal of the project is to achieve a better and more sustainable fut
 ### Project links
 
 - [Project URL](https://inequality-ireland.scss.tcd.ie/register.html)
+- [GitHub Repository](https://github.com/lucie07/inequality-in-ireland)
