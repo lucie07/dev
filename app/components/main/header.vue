@@ -71,7 +71,7 @@ watch(
     :class="
       isOverHero
         ? 'bg-transparent border-transparent text-white'
-        : 'bg-[#FFD77A] dark:bg-zinc-900 border-[#FFD77A]/60 dark:border-gray-800 text-zinc-950 dark:text-zinc-100 shadow-sm'
+        : 'bg-[#FFD77A] dark:bg-zinc-900 border-[#FFD77A]/60 dark:border-[#5E5E5E] text-zinc-950 dark:text-zinc-100 shadow-sm'
     "
   >
     <div class="flex px-6 container max-w-5xl justify-between mx-auto items-baseline">
