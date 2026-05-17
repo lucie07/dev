@@ -119,7 +119,7 @@ defineOgImage({
         v-model="searchTest"
         placeholder="Search"
         type="text"
-        class="block w-full bg-[#F1F2F4] dark:bg-slate-900 dark:placeholder-zinc-500 text-zinc-300 rounded-md border-gray-300 dark:border-gray-800 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+        class="block w-full bg-[#F1F2F4] dark:bg-[#2E2E2E] dark:placeholder-zinc-500 text-zinc-300 rounded-md border-gray-300 dark:border-[#5E5E5E] shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
       />
     </div>
 
