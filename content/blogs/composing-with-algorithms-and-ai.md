@@ -2,10 +2,10 @@
 title: Composing with Algorithms and AI
 date: 5th Sep 2020
 description: Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices
-image: /blogs-img/research_paper--feature-image.jpg
+image: /blogs-img/cla_feature-image.png
 alt: Research Proposal Draft
-ogImage: /blogs-img/research_paper--feature-image.jpg
-tags: ['computer music', 'machine creativity', 'algorithmic composition', 'AI', 'MSc Interactive Digital Media', 'Trinity College Dublin']
+ogImage: /blogs-img/cla_feature-image.png
+tags: ['computer music', 'machine creativity', 'algorithmic composition', 'ai', 'MSc Interactive Digital Media', 'Trinity College Dublin']
 published: true
 ---
 
