@@ -2,9 +2,9 @@
 title: Inequality in Ireland – Data Visualisation
 date: 15th Jan 2026
 description: Inequality in Ireland is an interactive data visualisation developed within a team at Trinity College Dublin. The aim of the project is to raise awareness about socio-economic inequality in Ireland.
-image: /blogs-img/datavis-feature-image.png
+image: /blogs-img/datavis-feature-image.jpg
 alt: View of Dublin
-ogImage: /blogs-img/datavis-feature-image.png
+ogImage: /blogs-img/datavis-feature-image.jpg
 tags: ['Data Visualisation', 'Interactive Map', 'Census', 'Deprivation Index', 'Storytelling', 'Social Science', 'Trinity College Dublin', 'Dublin', 'Ireland']
 published: true
 ---
@@ -15,7 +15,7 @@ Inequality in Ireland is an interactive data visualisation developed within a te
 
 ### Context
 
-![View of Dublin](blogs-img/datavis-feature-image.png)
+![View of Dublin](blogs-img/datavis-feature-image.jpg)
 
 View of Dublin
 
