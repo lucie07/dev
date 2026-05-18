@@ -2,9 +2,9 @@
 title: Inner Mongolia collection
 date: 1st Aug 2014
 description: Inner Mongolia in images
-image: /blogs-img/mountain_hero-image.png
+image: /blogs-img/mountain_feature-image.png
 alt: mountain
-ogImage: /blogs-img/mountain_hero-image.png
+ogImage: /blogs-img/mountain_feature-image.png
 tags: ['Inner Mongolia', 'photography']
 published: true
 ---
@@ -13,6 +13,6 @@ published: true
 
 Inner Mongolia in images.
 
-![Mountain](blogs-img/mountain_hero-image.png){.media-medium}
+![Mountain](blogs-img/mountain_feature-image.png){.media-medium}
 
 Mountain
