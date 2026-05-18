@@ -10,7 +10,7 @@ import { homePage } from '~/data'
   >
     <!-- Background image -->
     <img
-      src="/feature-image.png"
+      src="/mountain_hero-image.png"
       alt="landing page feature image"
       class="w-full h-[320px] sm:h-[420px] md:h-[520px] object-cover"
     />
