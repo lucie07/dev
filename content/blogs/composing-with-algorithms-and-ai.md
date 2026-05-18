@@ -15,7 +15,7 @@ Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music 
 
 ### Context
 
-![Research Proposal Draft](blogs-img/research_paper--research-proposal-draft.jpg)
+![Research Proposal Draft](blogs-img/research_paper--research-proposal-draft.jpg){.media-medium}
 
 Research Proposal Draft
 

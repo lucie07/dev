@@ -1,6 +1,6 @@
 ---
 title: Rediscovering the Tudor Domesday
-date: 26th Feb 2026
+date: 11th March 2026
 description: National project launched to rediscover Henry VIII’s long-forgotten ‘Tudor Domesday Book’
 image: /blogs-img/tudor_domesday--feature-image.jpg
 alt: Valor Ecclesiasticus
