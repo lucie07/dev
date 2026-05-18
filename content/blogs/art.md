@@ -13,7 +13,7 @@ published: true
 
 A small selection of artwork I created during an early part of my creative journey. These works capture a time when I was exploring various art forms with my pen.
 
-### Ink sketch of trees
+### Botanic garden in Bugthot
 
 [Botanic garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
 
