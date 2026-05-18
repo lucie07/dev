@@ -1,6 +1,6 @@
 ---
 title: Web Project in Trinity
-date: 1st Mar 2023
+date: 6th July 2022
 description: Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022
 image: /blogs-img/web-project-in-trinity-feature-image.png
 alt: Trinity Biomedical Sciences Institute (TBSI), Trinity College Dublin

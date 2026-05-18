@@ -1,6 +1,6 @@
 ---
 title: Connecting Late Antiquities
-date: 8th May 2026
+date: 15th May 2026
 description: The digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press. This three-volume reference work is being...
 image: /blogs-img/cla_feature-image.png
 alt: Connecting Late Antiquities

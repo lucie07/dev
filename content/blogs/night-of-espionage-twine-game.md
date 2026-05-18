@@ -1,6 +1,6 @@
 ---
 title: Night of Espionage - Twine game
-date: 9th May 2023
+date: 10th May 2020
 description: Night of Espionage is a web based game created by Twine, an interactive story framework, using HTML, CSS and JavaScript. 
 image: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
 alt: Orange city light at night

@@ -1,6 +1,6 @@
 ---
 title: Sokoban
-date: 18th Sep 2024
+date: 18th Feb 2020
 description: Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse
 image: /blogs-img/sokoban-background-light_feature-image.png
 alt: Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse
