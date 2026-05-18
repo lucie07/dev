@@ -15,7 +15,7 @@ A small selection of artwork I created during an early part of my creative journ
 
 ### Botanic garden in Bugthot
 
-[Botanic garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
+![Botanic garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
 
 Botanic garden in Bugthot, 2007
 
@@ -31,7 +31,7 @@ I created this ink drawing of a Mongolian woman with a camel in 2007, in Inner M
 
 ### Teen Portrait
 
-[Teen Portrait](blogs-img/teen-portrait.jpg)
+![Teen Portrait](blogs-img/teen-portrait.jpg)
 
 Teen Portrait, 2012
 
@@ -39,7 +39,7 @@ I created this charcoal sketch of a young man in 2012, during my first year of h
 
 ### Ceramics and Fruit
 
-[Ceramics and Fruit](blogs-img/ceramics-and-fruit.jpg)
+![Ceramics and Fruit](blogs-img/ceramics-and-fruit.jpg)
 
 Ceramics and Fruit, 2012-2013
 
