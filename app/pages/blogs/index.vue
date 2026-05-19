@@ -17,7 +17,7 @@ const { data } = await useAsyncData('all-blog-post', () =>
     .all()
 )
 
-const elementPerPage = ref(10)
+const elementPerPage = ref(15)
 const pageNumber = ref(1)
 const searchTest = ref('')
 
