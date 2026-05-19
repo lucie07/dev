@@ -4,7 +4,7 @@ date: 26th Feb 2026
 description: Women’s Screen Work in the Archives Made Visible will seek to address the often-hidden histories of women in filmmaking
 image: /blogs-img/womens-screen-work_feature-image.png
 alt: Continuity Supervisor Pamela Davies sits taking notes
-ogImage: /blogs-img/datavis-feature-image.png
+ogImage: /blogs-img/womens-screen-work_feature-image.png
 tags: ['film', 'archives', 'British film industry', 'Omeka S', 'Data Visualisation', 'AHRC', 'University of Exeter']
 published: true
 ---
