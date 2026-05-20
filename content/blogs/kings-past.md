@@ -2,9 +2,9 @@
 title: King's Past
 date: 10th Feb 2024
 description: The King’s Past project explores the history of King’s College London and its national and global connections
-image: /blogs-img/kings_past--feature-image.webp
+image: /blogs-img/kings_past--feature-image.jpg
 alt: King’s Past
-ogImage: /blogs-img/kings_past--feature-image.webp
+ogImage: /blogs-img/kings_past--feature-image.jpg
 tags: ['Prosopography', 'history', 'colonial history', 'Digital Humanities', 'London', 'King’s College London']
 published: true
 ---
@@ -15,7 +15,7 @@ I worked on the research project King’s Past during my time at King’s Digita
 
 ### Context
 
-![King’s Past](blogs-img/kings_past--feature-image.webp)
+![King’s Past](blogs-img/kings_past--feature-image.jpg)
 
 King’s Past
 
