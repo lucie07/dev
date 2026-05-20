@@ -19,7 +19,7 @@ I worked on the research project Connecting Late Antiquities at the University o
 
 ![A group of late antiquite people](blogs-img/cla_feature-image.png)
 
-*A group of late antiquite people.*
+A group of late antiquite people.
 
 The digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press. This three-volume reference work is being updated with addenda and corrigenda and will be transformed into a searchable online resource, complete with internal cross-references and the marking up of places, dates and other personal names, as well as textual, epigraphic and papyrological sources. The Digital Prosopography of the Later Roman Empire will be made openly available on the Cambridge Core platform and will be a very useful resource for scholars in its own right, as well as providing the foundation for our larger project.
 
