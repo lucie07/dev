@@ -114,41 +114,57 @@ defineOgImage({
   <main class="container max-w-5xl mx-auto text-zinc-600">
     <ArchiveHero />
 
-    <div class="px-6">
-      <input
-        v-model="searchTest"
-        placeholder="Search"
-        type="text"
-        class="block w-full bg-[#F1F2F4] dark:bg-[#2E2E2E] dark:placeholder-zinc-500 text-zinc-300 rounded-md border-gray-300 dark:border-[#5E5E5E] shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
-      />
-    </div>
-
-    <div v-auto-animate class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-      <template v-for="post in paginatedData" :key="post.title">
-        <ArchiveCard
-          :path="post.path"
-          :title="post.title"
-          :date="post.date"
-          :description="post.description"
-          :image="post.image"
-          :alt="post.alt"
-          :og-image="post.ogImage"
-          :tags="post.tags"
-          :published="post.published"
+    <div class="px-4 pb-10">
+      <div class="mb-6">
+        <input
+          v-model="searchTest"
+          placeholder="Search"
+          type="text"
+          class="block w-full bg-[#F1F2F4] dark:bg-[#2E2E2E] dark:placeholder-zinc-500 text-zinc-600 dark:text-zinc-300 rounded-md border-gray-300 dark:border-[#5E5E5E] shadow-sm focus:border-[#996B00] focus:ring focus:ring-[#FFD77A] focus:ring-opacity-50"
         />
-      </template>
+      </div>
 
-      <ArchiveCard v-if="paginatedData.length <= 0" title="No Post Found" image="/not-found.jpg" />
-    </div>
+      <div v-auto-animate class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+        <template v-for="post in paginatedData" :key="post.title">
+          <ArchiveCard
+            :path="post.path"
+            :title="post.title"
+            :date="post.date"
+            :description="post.description"
+            :image="post.image"
+            :alt="post.alt"
+            :og-image="post.ogImage"
+            :tags="post.tags"
+            :published="post.published"
+          />
+        </template>
 
-    <div class="flex justify-center items-center space-x-6">
-      <button :disabled="pageNumber <= 1" @click="onPreviousPageClick">
-        <Icon name="mdi:code-less-than" size="30" :class="{ 'text-[#755200] dark:text-[#755200]': pageNumber > 1 }" />
-      </button>
-      <p>{{ pageNumber }} / {{ totalPage }}</p>
-      <button :disabled="pageNumber >= totalPage" @click="onNextPageClick">
-        <Icon name="mdi:code-greater-than" size="30" :class="{ 'text-[#755200] dark:text-[#755200]': pageNumber < totalPage }" />
-      </button>
+        <ArchiveCard
+          v-if="paginatedData.length <= 0"
+          title="No Post Found"
+          image="/not-found.jpg"
+        />
+      </div>
+
+      <div class="flex justify-center items-center space-x-6 mt-8">
+        <button :disabled="pageNumber <= 1" @click="onPreviousPageClick">
+          <Icon
+            name="mdi:code-less-than"
+            size="30"
+            :class="{ 'text-[#755200] dark:text-[#FFD77A]': pageNumber > 1 }"
+          />
+        </button>
+
+        <p>{{ pageNumber }} / {{ totalPage }}</p>
+
+        <button :disabled="pageNumber >= totalPage" @click="onNextPageClick">
+          <Icon
+            name="mdi:code-greater-than"
+            size="30"
+            :class="{ 'text-[#755200] dark:text-[#FFD77A]': pageNumber < totalPage }"
+          />
+        </button>
+      </div>
     </div>
   </main>
 </template>
