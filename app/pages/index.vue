@@ -34,7 +34,7 @@ defineOgImageComponent('About', {
       <div class="px-4 mt-[-1rem] mb-12 text-left">
         <NuxtLink
           to="/blogs"
-          class="inline-block text-[#664700] dark:text-[#FFD77A] hover:underline hover:decoration-[#FFD77A] underline-offset-4 transition-colors duration-200"
+          class="text-2xl font-semibold text-black dark:text-[#FFD77A] hover:underline hover:decoration-[#FFD77A] underline-offset-4 transition-colors duration-200"
         >
           All Projects
         </NuxtLink>
