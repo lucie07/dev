@@ -35,7 +35,7 @@ withDefaults(defineProps<Props>(), {
       />
       <div class="px-4 pb-4">
         <h2
-          class="text-xl font-semibold text-black dark:text-zinc-300 pt-4 pb-1 group-hover:text-[#996B00] dark:group-hover:text-[#996B00]"
+          class="text-xl font-semibold text-black dark:text-zinc-300 pt-4 pb-1 group-hover:text-[#996B00] dark:group-hover:text-[#FFD77A]"
         >
           {{ title }}
         </h2>
@@ -61,7 +61,7 @@ withDefaults(defineProps<Props>(), {
           </div>
         </div>
 
-        <div class="flex group-hover:underline text-[#996B00] dark:text-[#996B00] items-center pt-2">
+        <div class="flex text-[#996B00] dark:text-zinc-300 group-hover:text-[#996B00] dark:group-hover:text-[#FFD77A] group-hover:underline items-center pt-2">
           <p>Read More</p>
           <LogoArrow />
         </div>
