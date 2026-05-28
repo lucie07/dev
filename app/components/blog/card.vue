@@ -64,7 +64,7 @@ withDefaults(defineProps<Props>(), {
           </div>
         </div>
 
-        <div class="flex text-[#996B00] dark:text-zinc-300 group-hover:text-[#664700] dark:group-hover:text-[#FFD77A] group-hover:underline items-center pt-2 transition-colors duration-300">
+        <div class="flex text-[#996B00] dark:text-zinc-300 group-hover:text-[#996B00] dark:group-hover:text-[#FFD77A] group-hover:underline items-center pt-2">
           <p>Read More</p>
           <LogoArrow />
         </div>
