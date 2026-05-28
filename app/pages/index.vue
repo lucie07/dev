@@ -31,10 +31,10 @@ defineOgImageComponent('About', {
       <!-- <MainTrending /> -->
 
       <!-- All Projects section -->
-      <div class="px-4 mt-[-1rem] mb-12 text-left">
+      <div class="px-4 mt-0 mb-12 text-left">
         <NuxtLink
           to="/blogs"
-          class="text-2xl font-semibold text-black dark:text-[#FFD77A] hover:underline hover:decoration-[#FFD77A] underline-offset-4 transition-colors duration-200"
+          class="inline-block font-medium text-[#664700] underline decoration-[#FFD77A] decoration-2 underline-offset-[0.2em] transition-all duration-150 ease-in-out hover:text-[#664700] hover:decoration-[#FFD77A] hover:decoration-[3px] focus-visible:text-[#664700] focus-visible:decoration-[#FFD77A] focus-visible:decoration-[3px] dark:text-[#FFECC7] dark:hover:text-[#FFF4D6] dark:focus-visible:text-[#FFF4D6]"
         >
           All Projects
         </NuxtLink>
