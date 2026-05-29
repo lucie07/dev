@@ -15,11 +15,13 @@ Role: Developer
 
 Funded by the Arts and Humanities Research Council, the value of the four-year project is £1.49m. It will bring together archivists, curators, film directors and scholars to develop ways to make women’s work in film more discoverable and visible, whether in museums or archives.
 
-It is being led by the University of Exeter in partnership with the BFI (British Film Institute), the Universities of Southampton and Swansea, and the [Bill Douglas Cinema Museum](https://www.bdcmuseum.org.uk/).
+It is being led by the University of Exeter in partnership with the [British Film Institute](https://www.bfi.org.uk/), the Universities of Southampton and Swansea, and the [Bill Douglas Cinema Museum](https://www.bdcmuseum.org.uk/).
 
 ### Context
 
-![View of Dublin](blogs-img/womens-screen-work_feature-image.png)
+![DH lab, UoE](blogs-img/womens-screen-work_feature-image.png)
+
+DH lab, UoE
 
 Continuity Supervisor Pamela Davies sits taking notes during the shooting of I Could Go on Singing (dir. Ronald Neame) Judy Garland is in the foreground with her back to the camera. Photo credit Bob Willoughby.  Image from the Pamela Davies collection and courtesy of the Bill Douglas Cinema Museum
 
@@ -33,7 +35,7 @@ Women’s Screen Work in the Archives Made Visible will seek to address the ofte
 
 ![at Exeter DH lab](blogs-img/wsw-at-exeter-dh-lab.jpg)
 
-As part of the WSWIA team, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSWIA project also involves the creation of an Omeka S site - the project's main database for the Oral Histories with archivists, curators and filmmakers, recorded interviews and data visualisations that share the research data that we are collecting on the project, and add value and insights in understanding the collections that the team are working with at the [British Film Institute](https://www.bfi.org.uk/) and the [Bill Douglas Cinema Museum](https://www.bdcmuseum.org.uk/). My work includes the design, build and integration of the items within the Omeka S framework.
+As part of the WSWIA team, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSWIA project also involves the creation of an Omeka S site - the project's main database for the Oral Histories with archivists, curators and filmmakers, recorded interviews and data visualisations that share the research data that we are collecting on the project, and add value and insights in understanding the collections that the team are working with at the British Film Institute and the Bill Douglas Cinema Museum. My work includes the design, build and integration of the items within the Omeka S framework.
 
 For the Oral Histories resource my work is based on the standard scholarly approaches to archival research, I am building up ontologies using Dublin Core and constructing item records to set up the network links and the different media types through bespoke digital humanities methods. By building controlled vocabularies, metadata, and other entities that need to connect together, I follow best practices for the oral history records and structure them in line as recommended by the [Oral History Society](https://ohs.org.uk/).
 
