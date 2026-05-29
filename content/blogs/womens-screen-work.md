@@ -9,7 +9,7 @@ tags: ['film', 'archives', 'British film industry', 'Omeka S', 'Data Visualisati
 published: true
 ---
 
-## Overview
+### Overview
 
 Role: Developer
 
@@ -19,9 +19,7 @@ It is being led by the University of Exeter in partnership with the [British Fil
 
 ### Context
 
-![DH lab, UoE](blogs-img/womens-screen-work_feature-image.png)
-
-DH lab, UoE
+![Continuity Supervisor Pamela Davies sits taking notes](blogs-img/womens-screen-work_feature-image.png)
 
 Continuity Supervisor Pamela Davies sits taking notes during the shooting of I Could Go on Singing (dir. Ronald Neame) Judy Garland is in the foreground with her back to the camera. Photo credit Bob Willoughby.  Image from the Pamela Davies collection and courtesy of the Bill Douglas Cinema Museum
 
@@ -34,6 +32,8 @@ Women’s Screen Work in the Archives Made Visible will seek to address the ofte
 ### Technical Insights
 
 ![at Exeter DH lab](blogs-img/wsw-at-exeter-dh-lab.jpg)
+
+At Exeter DH lab
 
 As part of the WSWIA team, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSWIA project also involves the creation of an Omeka S site - the project's main database for the Oral Histories with archivists, curators and filmmakers, recorded interviews and data visualisations that share the research data that we are collecting on the project, and add value and insights in understanding the collections that the team are working with at the British Film Institute and the Bill Douglas Cinema Museum. My work includes the design, build and integration of the items within the Omeka S framework.
 
