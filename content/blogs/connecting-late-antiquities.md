@@ -22,7 +22,7 @@ I worked on the research project Connecting Late Antiquities at the University o
 A group of late antiquite people.
 
 <figure>
-  <img src="blogs-img/cla1.jpg" alt="A group of late antiquite people">
+  <img src="blogs-img/cla_feature-image.png" alt="A group of late antiquite people">
   <figcaption>A group of late antiquite people.</figcaption>
 </figure>
 
