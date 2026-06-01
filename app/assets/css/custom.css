@@ -51,6 +51,12 @@
   border-radius: 0;
 }
 
+@media (min-width: 768px) {
+  .prose p:has(img) img {
+    width: 80%;
+  }
+}
+
 .prose p:has(img) + p {
   text-align: center;
   font-style: normal;
