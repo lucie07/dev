@@ -56,7 +56,7 @@ useHead({
 </script>
 
 <template>
-  <div class="pb-10 px-4">
+  <div class="pb-6 px-4">
     <div class="flex flex-row items-center space-x-3 pt-5 pb-3">
       <h2 class="text-3xl font-semibold text-black dark:text-zinc-300">Featured Projects</h2>
     </div>
