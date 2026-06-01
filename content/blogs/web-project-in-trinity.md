@@ -5,17 +5,17 @@ description: Aligning with Trinity Strategic Plan 2020-2025, I worked on a large
 image: /blogs-img/web-project-in-trinity-feature-image.png
 alt: Trinity Biomedical Sciences Institute (TBSI), Trinity College Dublin
 ogImage: /blogs-img/web-project-in-trinity-feature-image.png
-tags: ['School of Medicine', 'Trinity College Dublin']
+tags: ['accessibility', 'Siteimprove', 'School of Medicine', 'Trinity College Dublin']
 published: true
 ---
 
 ### Overview
 
-Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the IT department at Trinity College Dublin.
+Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the [central IT department](https://www.tcd.ie/itservices/) and the Digital team at Trinity College Dublin.
 
 ### Context
 
-![The landing page of the new SoM site](blogs-img/old-som-landing-page.png)
+![The landing page of the old SoM site](blogs-img/old-som-landing-page.png)
 
 The landing page of the old SoM site
 
