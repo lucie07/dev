@@ -31,3 +31,4 @@ Through this process, I contributed to improving accessible design and developme
 
 - [Project URL](https://thornton.kdl.kcl.ac.uk/)
 - [Project’s accessibility statement page](https://thornton.kdl.kcl.ac.uk/accessibility/)
+- [GitHub Repository](https://github.com/kingsdigitallab/alice-thornton)
