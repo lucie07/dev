@@ -27,6 +27,10 @@ I reviewed the interface against WCAG AA standards, identified accessibility iss
 
 Through this process, I contributed to improving accessible design and development practices within the project, embedding them more actively into the project lifecycle. The findings were documented and published on the project’s Accessibility Statement page.
 
+![Alice Thornton Accessibility Statement page](blogs-img/alice_thornton--accessibility-statement-page.png) 
+
+Alice Thornton Accessibility Statement page
+
 ### Project links
 
 - [Project URL](https://thornton.kdl.kcl.ac.uk/)
