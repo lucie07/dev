@@ -22,12 +22,12 @@ const slugify = (value: string) =>
     .toString()
     .trim()
     .toLowerCase()
+    .replace(/[’']/g, '')
     .replace(/&/g, 'and')
     .replace(/\//g, '-')
-    .replace(/\s+/g, '-')
-    .replace(/[^a-z0-9-]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
     .replace(/-+/g, '-')
-    .replace(/^-|-$/g, '')
+    .replace(/^-+|-+$/g, '')
 </script>
 
 <template>
