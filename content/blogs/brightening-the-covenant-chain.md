@@ -5,7 +5,7 @@ description: Brightening the Covenant Chain investigates the cultures of diploma
 image: /blogs-img/bcc--feature-image.jpg
 alt: Brightening the Covenant map
 ogImage: /blogs-img/bcc--feature-image.jpg
-tags: ['Interactive Map', 'history', 'colonial history', 'North America', 'Digital Humanities', 'AHRC', 'King’s College London']
+tags: ['Interactive Map', 'history', 'colonial history', 'North America', 'Digital Humanities', 'AHRC', "King’s College London"]
 published: true
 ---
 
