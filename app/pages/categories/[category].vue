@@ -8,13 +8,16 @@ const slugify = (value: string) =>
     .toString()
     .trim()
     .toLowerCase()
-    .replace(/\s+/g, '-')
+    .replace(/[’']/g, '')
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
 
 const category = computed(() => {
   const name = route.params.category || ''
   const strName = Array.isArray(name) ? name.at(0) || '' : name
 
-  return strName.toString().trim().toLowerCase()
+  return slugify(strName)
 })
 
 const { data } = await useAsyncData(`category-data-${category.value}`, () =>
