@@ -5,7 +5,7 @@ description: The King’s Past project explores the history of King’s College 
 image: /blogs-img/kings_past--feature-image.jpg
 alt: King’s Past
 ogImage: /blogs-img/kings_past--feature-image.jpg
-tags: ['Prosopography', 'history', 'colonial history', 'Digital Humanities', 'London', 'King’s College London']
+tags: ['Prosopography', 'history', 'colonial history', 'decolonization', 'Digital Humanities', 'London', 'King’s College London']
 published: true
 ---
 
