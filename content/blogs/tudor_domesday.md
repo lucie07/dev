@@ -5,7 +5,7 @@ description: National project launched to rediscover Henry VIII’s long-forgott
 image: /blogs-img/tudor_domesday--feature-image.jpg
 alt: Valor Ecclesiasticus
 ogImage: /blogs-img/tudor_domesday--feature-image.jpg
-tags: ['eXist-db', 'XML', 'manuscript', 'Digital Humanities', 'archaeology', 'history', 'classics', 'AHRC', 'University of Exeter']
+tags: ['eXist-db', 'XML', 'TEI', 'manuscript', 'UX/UI', 'archaeology', 'history', 'classics', 'Digital Humanities', 'AHRC', 'University of Exeter']
 published: true
 ---
 
