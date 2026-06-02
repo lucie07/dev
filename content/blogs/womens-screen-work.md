@@ -1,5 +1,5 @@
 ---
-title: Women's Screen Work in the Archives Made Visible
+title: "Women's Screen Work in the Archives Made Visible"
 date: 26th Feb 2026
 description: Women’s Screen Work in the Archives Made Visible will seek to address the often-hidden histories of women in filmmaking
 image: /blogs-img/womens-screen-work_feature-image.png
