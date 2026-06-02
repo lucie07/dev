@@ -5,7 +5,7 @@ description: Aligning with Trinity Strategic Plan 2020-2025, I worked on a large
 image: /blogs-img/web-project-in-trinity-feature-image.png
 alt: Trinity Biomedical Sciences Institute (TBSI), Trinity College Dublin
 ogImage: /blogs-img/web-project-in-trinity-feature-image.png
-tags: ['accessibility', 'Siteimprove', 'School of Medicine', 'Trinity College Dublin']
+tags: ['accessibility', 'WCAG', 'Siteimprove', 'School of Medicine', 'Trinity College Dublin']
 published: true
 ---
 

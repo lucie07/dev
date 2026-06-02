@@ -5,7 +5,7 @@ description: Women’s Screen Work in the Archives Made Visible will seek to add
 image: /blogs-img/womens-screen-work_feature-image.png
 alt: Continuity Supervisor Pamela Davies sits taking notes
 ogImage: /blogs-img/womens-screen-work_feature-image.png
-tags: ['film', 'archives', 'British film industry', 'Omeka S', 'Data Visualisation', 'AHRC', 'University of Exeter']
+tags: ['film', 'archives', 'British film industry', 'Omeka S', 'Data Visualisation', 'UX/UI', 'AHRC', 'University of Exeter']
 published: true
 ---
 
