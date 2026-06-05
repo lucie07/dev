@@ -1,11 +1,30 @@
 <script setup>
 import { siteMetaData } from './data'
 
+const googleAnalyticsId = 'G-2QHG33MEYY'
+
 useHead({
   htmlAttrs: {
     lang: 'en',
   },
   meta: () => siteMetaData,
+
+  // Google tag (gtag.js)
+  script: [
+    {
+      src: `https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`,
+      async: true,
+    },
+    {
+      innerHTML: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '${googleAnalyticsId}');
+      `,
+    },
+  ],
 })
 </script>
 
