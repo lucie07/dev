@@ -63,7 +63,7 @@ export default defineNuxtConfig({
 
   site: {
     url: seoData.mySite,
-    name: 'Al Asad Nur Riyad',
+    name: 'Lucie Mingmei Hao',
   },
 
   typescript: {
