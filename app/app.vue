@@ -20,7 +20,7 @@ useHead({
 
 <style>
 .reading-progress .nuxt-loading-indicator {
-  /* Reuse Nuxt's built-in loading bar as a reading progress bar on blog pages */
+  /* Reuse Nuxt's built-in loading bar as a reading progress bar on project pages */
   opacity: 1 !important;
   transform: scaleX(var(--reading-progress, 0%)) !important;
 }
