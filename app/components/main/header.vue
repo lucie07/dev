@@ -90,9 +90,9 @@ watch(
       <ul class="flex items-center space-x-3 sm:space-x-6 text-sm sm:text-lg">
         <li>
           <NuxtLink
-            to="/blogs"
+            to="/projects"
             class="transition-colors duration-300"
-            :class="{ underline: isActive('/blogs') }"
+            :class="{ underline: isActive('/projects') }"
           >
             Projects
           </NuxtLink>

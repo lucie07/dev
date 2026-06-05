@@ -11,7 +11,7 @@ interface Props {
   published?: boolean
 }
 
-withDefaults(defineProps<Props>(), {
+const props = withDefaults(defineProps<Props>(), {
   path: '/',
   title: 'no-title',
   date: 'no-date',
@@ -22,11 +22,15 @@ withDefaults(defineProps<Props>(), {
   tags: () => [],
   published: false,
 })
+
+const publicPath = computed(() =>
+  props.path.replace(/^\/blogs/, '/projects')
+)
 </script>
 
 <template>
   <article class="group border dark:border-[#5E5E5E] m-2 overflow-hidden rounded-2xl shadow-sm text-zinc-700 dark:text-zinc-300">
-    <NuxtLink :to="path">
+    <NuxtLink :to="publicPath">
       <NuxtImg
         class="lg:h-48 md:h-36 w-full object-cover object-center rounded-t-2xl shadow-lg group-hover:scale-[1.02] transition-all duration-500"
         width="300"

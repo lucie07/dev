@@ -10,13 +10,21 @@ interface Props {
 }
 
 defineProps<Props>()
+
+function toPublicProjectPath(path: string): string {
+  return path.replace(/^\/blogs/, '/projects')
+}
 </script>
 
 <template>
-  <nav v-if="previousPost || nextPost" class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-12 mb-8" aria-label="Blog post navigation">
+  <nav
+    v-if="previousPost || nextPost"
+    class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-12 mb-8"
+    aria-label="Project navigation"
+  >
     <NuxtLink
       v-if="previousPost"
-      :to="previousPost.path"
+      :to="toPublicProjectPath(previousPost.path)"
       class="group flex items-center gap-3 p-5 rounded-lg border dark:border-[#5E5E5E] bg-white/90 backdrop-blur-sm dark:bg-[#2E2E2E] hover:shadow-lg hover:border-[#996B00] dark:hover:border-[#FFD77A] transition-all duration-300"
     >
       <Icon
@@ -24,8 +32,12 @@ defineProps<Props>()
         size="28"
         class="text-[#996B00] dark:text-[#FFD77A] group-hover:-translate-x-1 transition-transform duration-300 flex-shrink-0"
       />
+
       <div class="flex-1 min-w-0">
-        <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 uppercase tracking-wide mb-1">Previous</p>
+        <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 uppercase tracking-wide mb-1">
+          Previous
+        </p>
+
         <p
           class="text-sm font-semibold text-zinc-700 dark:text-zinc-300 group-hover:text-[#996B00] dark:group-hover:text-[#FFD77A] line-clamp-2 transition-colors duration-300"
         >
@@ -38,18 +50,22 @@ defineProps<Props>()
 
     <NuxtLink
       v-if="nextPost"
-      :to="nextPost.path"
+      :to="toPublicProjectPath(nextPost.path)"
       class="group flex items-center gap-3 p-5 rounded-lg border dark:border-[#5E5E5E] bg-white/90 backdrop-blur-sm dark:bg-[#2E2E2E] hover:shadow-lg hover:border-[#996B00] dark:hover:border-[#FFD77A] transition-all duration-300"
       :class="{ 'md:col-start-2': !previousPost }"
     >
       <div class="flex-1 text-right min-w-0">
-        <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 uppercase tracking-wide mb-1">Next</p>
+        <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 uppercase tracking-wide mb-1">
+          Next
+        </p>
+
         <p
           class="text-sm font-semibold text-zinc-700 dark:text-zinc-300 group-hover:text-[#996B00] dark:group-hover:text-[#FFD77A] line-clamp-2 transition-colors duration-300"
         >
           {{ nextPost.title }}
         </p>
       </div>
+
       <Icon
         name="mdi:arrow-right"
         size="28"

@@ -9,8 +9,8 @@ function parseCustomDate(dateStr: string): Date {
   return new Date(cleanDateStr)
 }
 
-// Get the lastest 3 publish project from the project content/blog directory by dates
-const { data } = await useAsyncData('recent-post', () =>
+// Get the latest 3 published projects from the internal content/blogs directory by date
+const { data } = await useAsyncData('featured-projects', () =>
   queryCollection('content')
     .where('path', 'LIKE', '/blogs/%')
     .all()
@@ -29,8 +29,9 @@ const { data } = await useAsyncData('recent-post', () =>
 const formattedData = computed(() => {
   return data.value?.map((articles) => {
     const meta = articles.meta as unknown as BlogPost
+
     return {
-      path: articles.path,
+      path: articles.path?.replace(/^\/blogs/, '/projects'),
       title: articles.title || 'no-title available',
       description: articles.description || 'no-description available',
       image: meta.image || '/not-found.jpg',
@@ -49,7 +50,7 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Explore selected projects by Lucie, including web development, UX/UI design, digital humanities, research software, Vue, Nuxt, and creative digital work.',
     },
   ],
 })
@@ -75,6 +76,7 @@ useHead({
           :published="post.published"
         />
       </template>
+
       <template v-if="data?.length === 0">
         <BlogEmpty />
       </template>
