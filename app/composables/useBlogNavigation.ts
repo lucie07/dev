@@ -8,6 +8,10 @@ function normalizePath(path?: string): string {
     .replace(/\/$/, '')
 }
 
+function toPublicProjectPath(path?: string): string {
+  return normalizePath(path).replace(/^\/blogs/, '/projects')
+}
+
 function parseCustomDate(dateStr?: string): Date {
   if (!dateStr) return new Date(0)
 
@@ -48,7 +52,8 @@ export const useBlogNavigation = async (currentPath: string) => {
       .sort(sortBlogsByDateDesc)
   })
 
-  // Find current post index in the canonical blog list
+  // Find current post index in the canonical blog list.
+  // This still uses internal /blogs/... paths because content still lives under content/blogs.
   const currentPostIndex = computed(() => {
     const blogs = allBlogs.value as ContentItem[] | null
     if (!blogs) return -1
@@ -58,7 +63,8 @@ export const useBlogNavigation = async (currentPath: string) => {
     })
   })
 
-  // Previous post means the item before the current post in the canonical list
+  // Previous post means the item before the current post in the canonical list.
+  // Returned path is converted to public /projects/... URL.
   const previousPost = computed(() => {
     const blogs = allBlogs.value as ContentItem[] | null
 
@@ -68,12 +74,13 @@ export const useBlogNavigation = async (currentPath: string) => {
     if (!post) return null
 
     return {
-      path: normalizePath(post.path),
-      title: post.title || 'Previous Post',
+      path: toPublicProjectPath(post.path),
+      title: post.title || 'Previous Project',
     }
   })
 
-  // Next post means the item after the current post in the canonical list
+  // Next post means the item after the current post in the canonical list.
+  // Returned path is converted to public /projects/... URL.
   const nextPost = computed(() => {
     const blogs = allBlogs.value as ContentItem[] | null
 
@@ -89,8 +96,8 @@ export const useBlogNavigation = async (currentPath: string) => {
     if (!post) return null
 
     return {
-      path: normalizePath(post.path),
-      title: post.title || 'Next Post',
+      path: toPublicProjectPath(post.path),
+      title: post.title || 'Next Project',
     }
   })
 
