@@ -148,25 +148,39 @@ defineOgImage({
         />
       </div>
 
-      <div class="flex justify-center items-center space-x-6 mt-8">
-        <button :disabled="pageNumber <= 1" @click="onPreviousPageClick">
-          <Icon
-            name="mdi:code-less-than"
-            size="30"
-            :class="{ 'text-[#755200] dark:text-[#FFD77A]': pageNumber > 1 }"
-          />
-        </button>
+        <div class="flex justify-center items-center space-x-6 mt-8">
+          <button
+            :disabled="pageNumber <= 1"
+            :class="{ 'cursor-not-allowed': pageNumber <= 1 }"
+            @click="onPreviousPageClick"
+          >
+            <Icon
+              name="mdi:code-less-than"
+              size="30"
+              :class="pageNumber > 1
+                ? 'text-[#755200] dark:text-[#FFD77A]'
+                : 'text-[#996B00]/40 dark:text-[#FFECC7]/60'"
+            />
+          </button>
 
-        <p>{{ pageNumber }} / {{ totalPage }}</p>
+          <p class="font-medium text-[#664700] dark:text-[#FFECC7]">
+            {{ pageNumber }} / {{ totalPage }}
+          </p>
 
-        <button :disabled="pageNumber >= totalPage" @click="onNextPageClick">
-          <Icon
-            name="mdi:code-greater-than"
-            size="30"
-            :class="{ 'text-[#755200] dark:text-[#FFD77A]': pageNumber < totalPage }"
-          />
-        </button>
-      </div>
+          <button
+            :disabled="pageNumber >= totalPage"
+            :class="{ 'cursor-not-allowed': pageNumber >= totalPage }"
+            @click="onNextPageClick"
+          >
+            <Icon
+              name="mdi:code-greater-than"
+              size="30"
+              :class="pageNumber < totalPage
+                ? 'text-[#755200] dark:text-[#FFD77A]'
+                : 'text-[#996B00]/40 dark:text-[#FFECC7]/60'"
+            />
+          </button>
+        </div>
     </div>
   </main>
 </template>
