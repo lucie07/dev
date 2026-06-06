@@ -17,7 +17,7 @@ const { data } = await useAsyncData('all-project-posts', () =>
     .all()
 )
 
-const elementPerPage = ref(15)
+const elementPerPage = ref(12)
 const pageNumber = ref(1)
 const searchTest = ref('')
 
