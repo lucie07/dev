@@ -9,9 +9,9 @@ tags: ['eXist-db', 'XML', 'TEI', 'geojson data', 'mapping', 'UX/UI', 'manuscript
 published: true
 ---
 
-### Overview
+**Role:** Developer
 
-Role: Developer
+### Overview
 
 Learning Anglo-French: French Language-Learning Manuscripts in Britain, c.1200–c.1500 is an ERC/UKRI-funded research project based at the University of Exeter. Learning Anglo-French (LAF) will operate over a five-year period (2023-28), and will offer the first sustained response to the question of how the French language was learned in Britain between the 13th and 16th centuries.
 
@@ -25,7 +25,7 @@ French in medieval Britain was both a language of culture and power and a second
 
 ### Technologies and Processes
 
-I currently work as the developer on the Learning Anglo-French project. Building on the pioneering editorial work of the ‘Learning French in Medieval England’ project, my work involves the creation of the eXist-db database and interface and the processing of manuscript images and their constituent texts within the framework. I will explore innovative ways to integrate the project’s results into an open-access database, presenting data in interactive, searchable, and reusable formats.
+As part of the project team, I currently work as the developer on the Learning Anglo-French project. Building on the pioneering editorial work of the ‘Learning French in Medieval England’ project, my work involves the creation of the eXist-db database and interface and the processing of manuscript images and their constituent texts within the framework. I am exploring innovative ways to integrate the project’s results into an open-access database, presenting data in interactive, searchable, and reusable formats. This work involves thinking carefully about how manuscript materials, textual data, metadata, and user-facing interfaces can be brought together in a clear and sustainable digital resource.
 
 Alongside the database and editions, I will also produce a mapping tool, built on GIS technologies, that will visualise the origins and provenance of specific texts and manuscripts. This tool will offer new ways to understand how these materials were produced, transmitted, and studied across medieval Britain.
 
