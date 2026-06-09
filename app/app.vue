@@ -1,8 +1,6 @@
 <script setup>
 import { siteMetaData } from './data'
 
-const googleAnalyticsId = 'G-2QHG33MEYY'
-
 useHead({
   htmlAttrs: {
     lang: 'en',
@@ -12,16 +10,16 @@ useHead({
   // Google tag (gtag.js)
   script: [
     {
-      src: `https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`,
       async: true,
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-2QHG33MEYY',
     },
     {
-      innerHTML: `
+      children: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', '${googleAnalyticsId}');
+        gtag('config', 'G-2QHG33MEYY');
       `,
     },
   ],
