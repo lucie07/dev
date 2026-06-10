@@ -50,7 +50,7 @@ useHead({
     {
       name: 'description',
       content:
-        'Explore selected projects by Lucie, including web development, UX/UI design, digital humanities, research software, Vue, Nuxt, and creative digital work.',
+        'Explore a collection of projects I have worked on over time, spanning digital humanities, research software, interactive prototypes, games, film and music work, and creative digital practice...',
     },
   ],
 })
