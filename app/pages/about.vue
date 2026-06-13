@@ -16,9 +16,9 @@ useHead({
 })
 
 defineOgImageComponent('About', {
-  headline: 'Greetings 👋',
+  headline: 'Hello',
   title: navbarData.homeTitle,
-  description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
+  description: 'Explore a collection of projects I have worked on over time, spanning digital humanities, research software, interactive prototypes, games, film and music work, and creative digital practice',
   link: '/lucie-mingmei-hao.jpg',
 })
 </script>
