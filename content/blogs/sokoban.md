@@ -1,7 +1,7 @@
 ---
 title: Sokoban
 date: 18th Feb 2020
-description: Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse
+description: I made a small web-based version of Sokoban using HTML, CSS and JavaScript...
 image: /blogs-img/sokoban-background-light_feature-image.png
 alt: Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse
 ogImage: /blogs-img/sokoban-background-light_feature-image.png
@@ -11,11 +11,17 @@ published: true
 
 ### Overview
 
-[Sokoban](https://en.wikipedia.org/wiki/Sokoban) is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations. The game was designed in 1981 by Hiroyuki Imabayashi.
+[Sokoban](https://en.wikipedia.org/wiki/Sokoban) is a classic puzzle game where the player moves through a warehouse-style grid and pushes boxes onto designated storage locations. The rules are simple: the player can move around the space and push boxes, but cannot pull them back. This makes each move important, as one wrong push can easily block the path or make a level impossible to complete.
+
+The game was designed in 1981 by Hiroyuki Imabayashi. Although the concept is very minimal, Sokoban is a good example of how simple rules can create challenging puzzle gameplay.
 
 ### Context
 
-I made a web-based version using HTML, CSS and JavaScript. Designed the board layout, stored different levels, and mapped html elements to represent each component. Currently there are 3 levels to complete. The player can move one square at a time, either horizontally or vertically, onto an empty floor square. The objective of the puzzle is to push all boxes onto storage locations.
+I made a small web-based version of Sokoban using HTML, CSS and JavaScript. I wanted to recreate the core puzzle mechanics of the original game in a browser-based format, focusing on the board layout, player movement, box pushing logic and level progression.
+
+I designed the game board as a grid and mapped different HTML elements to represent each part of the puzzle, including the player, walls, floor spaces, boxes and storage locations. I also created and stored different level layouts, so the game can load more than one puzzle. Currently, there are three levels for the player to complete.
+
+For the game logic, I used JavaScript to control how the player moves through the board. The player can move one square at a time, either horizontally or vertically, onto an empty floor space. When the player moves into a box, the game checks whether the box can be pushed forward into the next square. If the space is clear, the box moves; if it is blocked by a wall or another box, the move is not allowed. The objective is to push all boxes onto the storage locations. Once every box is in the correct place, the level is complete.
 
 ### Project links
 
