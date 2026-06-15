@@ -13,14 +13,14 @@ published: true
 
 Inner Mongolia in images.
 
-![Mountain](blogs-img/mountain_feature-image.png){.media-medium}
+![Mountain](blogs-img/mountain_feature-image.png)
 
 Mountain
 
-![Canyon](blogs-img/sunlit-mountain-canyon.jpg){.media-medium}
+![Canyon](blogs-img/sunlit-mountain-canyon.jpg)
 
 Canyon
 
-![Mountain](blogs-img/white-yurt.jpg){.media-medium}
+![Mountain](blogs-img/white-yurt.jpg)
 
 Mongolian yurt
