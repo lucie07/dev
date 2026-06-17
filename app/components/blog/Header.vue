@@ -35,7 +35,7 @@ const slugify = (value: string) =>
     <h1 class="text-xl dark:text-zinc-300 md:text-3xl lg:text-4xl m-7 font-bold text-center">
       {{ title || '' }}
     </h1>
-
+<!--
     <NuxtImg
       :src="image || ''"
       :alt="alt || ''"
@@ -46,7 +46,7 @@ const slugify = (value: string) =>
     <p class="text-xs sm:text-sm my-3 max-w-xl mx-auto text-center text-zinc-600 dark:text-zinc-400">
       {{ description }}
     </p>
-
+-->
     <div class="flex w-full justify-center text-xs md:text-base my-8">
       <div class="md:flex text-black dark:text-zinc-300 content-center gap-8 text-xs sm:text-sm">
         <div class="flex items-center font-semibold">
