@@ -32,7 +32,7 @@ const slugify = (value: string) =>
 
 <template>
   <header>
-    <h1 class="max-w-4xl mx-auto px-7 mt-8 mb-6 text-2xl md:text-4xl lg:text-5xl font-bold text-left leading-tight text-zinc-900 dark:text-zinc-300">
+    <h1 class="max-w-4xl mx-auto mt-8 mb-6 text-3xl md:text-4xl lg:text-5xl font-bold text-left leading-tight text-zinc-900 dark:text-zinc-300">
       {{ title || '' }}
     </h1>
 <!--
@@ -47,7 +47,7 @@ const slugify = (value: string) =>
       {{ description }}
     </p>
 -->
-    <div class="flex w-full justify-center text-xs md:text-base my-4">
+    <div class="flex w-full justify-center text-xs md:text-base my-2">
       <div class="md:flex text-black dark:text-zinc-300 content-center gap-8 text-xs sm:text-sm">
         <div class="flex items-center font-semibold">
           <LogoDate />
