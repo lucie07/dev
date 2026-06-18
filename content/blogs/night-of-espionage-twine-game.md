@@ -16,6 +16,10 @@ CSS and JavaScript.
 
 ### Context
 
+![City lights](blogs-img/night-of-espionage-twine-game_feature-image.jpg)
+
+City lights
+
 This is an interactive story with multiple endings where users choose
 their own path. Developed with SugarCube JavaScript library. Edited content using
 variables and conditional statements.
