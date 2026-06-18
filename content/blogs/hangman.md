@@ -15,6 +15,10 @@ published: true
 
 ### Context
 
+![Hangman game blackboard drawing](blogs-img/hangman_game--blackboard-drawing.png)
+
+Hangman game blackboard drawing
+
 I made a small web-based version of Hangman using HTML, CSS and JavaScript. I wanted to recreate the core features of the traditional game in a browser-based format, while keeping the interface clear, playful and easy to use.
 
 For the game logic, I used JavaScript to handle the main interactions. I created a fruit-themed word library for the game to draw from, so the hidden word is always a type of fruit. I also recreated the visual hangman progression by using a sequence of images that change as the player makes incorrect guesses.
