@@ -40,7 +40,7 @@ export const aboutPage = {
 export const seoData = {
   title: `Lucie Mingmei Hao`,
   ogTitle: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
-  description: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
+  description: `Explore a collection of projects I have worked on over time, spanning digital humanities, research software, interactive prototypes, games, film and music work, and creative digital practice.`,
   twitterDescription: `Hi! I am Lucie, a Research IT Developer at the University of Exeter.`,
   image: 'https://lucie07.github.io/dev/_ipx/q_70&s_400x400/lucie-mingmei-hao.jpg',
   mySite: 'https://lucie07.github.io/dev',
