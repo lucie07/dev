@@ -15,6 +15,10 @@ Moore Street Website is a history research project. It traces Irish history back
 
 ### Context
 
+![A sketch of Moore Street Dublin](blogs-img/moore-street-dublin-feature-image.jpg)
+
+A sketch of Moore Street Dublin
+
 Moore Street – located in central Dublin and often overlooked in current times, despite its rich history in the context of the 1916 Rising. But what exactly makes this street so important, and how did the events that took place in it and inside its buildings shape Ireland’s future?
 
 ### The Rebellion and Hope – A brief history of the surrender
