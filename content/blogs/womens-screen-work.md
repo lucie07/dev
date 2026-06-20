@@ -9,9 +9,9 @@ tags: ['film', 'archives', 'British film industry', 'Omeka S', 'Data Visualisati
 published: true
 ---
 
-### Overview
+**Role:** Developer
 
-Role: Developer
+### Overview
 
 Funded by the Arts and Humanities Research Council, the value of the four-year project is £1.49m. It will bring together archivists, curators, film directors and scholars to develop ways to make women’s work in film more discoverable and visible, whether in museums or archives.
 
@@ -29,13 +29,13 @@ Women’s Screen Work in the Archives Made Visible will seek to address the ofte
 
 “Thousands of women have contributed to shaping British filmmaking and its vibrant history over the past century,” says Professor Helen Hanson, Project Lead and Associate Professor in Film History in Exeter’s Department of Communications, Drama and Film. “Their creative contributions, however, are largely absent from public knowledge of that history, because evidence documenting their work is often buried and invisible in major film-related archives and museums.”
 
-### Technical Insights
+### Technologies and Processes
 
 ![at Exeter DH lab](blogs-img/wsw-at-exeter-dh-lab.jpg)
 
 At Exeter DH lab
 
-As part of the WSWIA team, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSWIA project also involves the creation of an Omeka S site - the project's main database for the Oral Histories with archivists, curators and filmmakers, recorded interviews and data visualisations that share the research data that we are collecting on the project, and add value and insights in understanding the collections that the team are working with at the British Film Institute and the Bill Douglas Cinema Museum. My work includes the design, build and integration of the items within the Omeka S framework.
+As part of the WSWIA team, in my role as a developer, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the WSWIA project also involves the creation of an Omeka S site - the project's main database for the Oral Histories with archivists, curators and filmmakers, recorded interviews and data visualisations that share the research data that we are collecting on the project, and add value and insights in understanding the collections that the team are working with at the British Film Institute and the Bill Douglas Cinema Museum. My work includes the design, build and integration of the items within the Omeka S framework.
 
 For the Oral Histories resource my work is based on the standard scholarly approaches to archival research, I am building up ontologies using Dublin Core and constructing item records to set up the network links and the different media types through bespoke digital humanities methods. By building controlled vocabularies, metadata, and other entities that need to connect together, I follow best practices for the oral history records and structure them in line as recommended by the [Oral History Society](https://ohs.org.uk/).
 
