@@ -28,4 +28,4 @@ By extending an XML database framework (eXist-db, TEI/XML), I designed database 
 ### Project links
 
 - [Project URL](https://connectinglateantiquities.org/index.html)
-- [Project specification on UKRI site](https://gtr.ukri.org/projects?ref=AH%2FX002381%2F1)
+- [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FX002381%2F1)
