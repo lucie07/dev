@@ -23,4 +23,4 @@ Health related misinformation can have devastating effects on individuals, their
 
 ### Project links
 
-TRUSTMEDICOS Whitepaper is now published at Academia.edu. Please read more [here.](https://www.academia.edu/77852423/Tackling_health_misinformation_in_social_media_Understanding_the_role_of_psychological_and_technological_biases_in_content_moderation)
+- [TRUSTMEDICOS Whitepaper](https://www.academia.edu/77852423/Tackling_health_misinformation_in_social_media_Understanding_the_role_of_psychological_and_technological_biases_in_content_moderation)
