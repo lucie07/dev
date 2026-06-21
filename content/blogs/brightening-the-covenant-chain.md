@@ -26,5 +26,5 @@ Brightening the Covenant Chain investigates the cultures of diplomacy from 1677-
 ### Project links
 
 - [Project URL](https://bcc.kdl.kcl.ac.uk/)
-- [Project specification on UKRI site](https://gtr.ukri.org/projects?ref=AH%2FT006099%2F1)
+- [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FT006099%2F1)
 - [GitHub Repository](https://github.com/kingsdigitallab/bcc-11ty)
