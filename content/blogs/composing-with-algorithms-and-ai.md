@@ -17,9 +17,9 @@ The paper was supervised by [Dr Natasa Paterson-Paulberg](http://www.natasapaulb
 
 ### Context
 
-![Composing with algorithms and AI](blogs-img/research_paper--feature-image.jpg)
+![The digital audio creation process](blogs-img/research_paper--feature-image.jpg)
 
-Composing with algorithms and AI
+The digital audio creation process
 
 This research paper explores how algorithms, computer-assisted methods and AI have shaped modern music composition. It looks at how composers have used systems, rules, patterns and computational methods to support musical creativity, from early algorithmic ideas to more advanced forms of artificial intelligence.
 
