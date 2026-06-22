@@ -37,7 +37,7 @@ Within a decade or two, that landscape changed quickly. Computers, digital music
 
 ![Research Proposal Draft](blogs-img/research_paper--research-proposal-draft.jpg)
 
-Research Proposal Draft
+A stack of my research paper drafts and notes, 2019
 
 I started drafting the first version of my research proposal around September 2019 and completed it in November. With the support of my supervisor, Natasa, I was able to sit down, talk through early ideas, and explore the possible direction of the research. At this stage, I was interested in the relationship between music and Human-Computer Interaction, but the topic still needed a clearer focus. Through discussion, reading and planning, I gradually refined the research questions and shaped the direction of the finalised version of the proposal, the methodology, and the final paper that I developed the following year.
 
