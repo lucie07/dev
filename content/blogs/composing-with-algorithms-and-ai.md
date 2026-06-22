@@ -1,6 +1,6 @@
 ---
 title: Composing with Algorithms and AI
-date: 5th Sep 2020
+date: 1st Sep 2020
 description: Computer-Assisted Algorithmic Compositional Approaches - The Role of AI in Music Creative Practices
 image: /blogs-img/research_paper--feature-image.jpg
 alt: Research Proposal Draft
@@ -11,7 +11,9 @@ published: true
 
 ### Overview
 
-Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices
+Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices was a year-long research paper completed as part of my Masters, MSc Interactive Digital Media at [School of Computer Science and Statistics](https://www.tcd.ie/scss/), Trinity College Dublin, during 2019-2020.
+
+The paper was supervised by [Dr Natasa Paterson-Paulberg](http://www.natasapaulberg.com/), a composer based in Dublin and Los Angeles, whose compositions span the concert hall, television, film, advertising and gaming. It received a First Class Honours and was one of the best papers in the 2019 IDM class.
 
 ### Context
 
@@ -19,13 +21,29 @@ Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music 
 
 Composing with algorithms and AI
 
-Algorithm had rich precedents in music, and composers’ relationships with algorithms have been witnessed since ancient times. With the advent of computers, music was forced to go beyond the boundaries of the traditional musical languages. The mid-1950s was a transitional period between traditional and innovative modes of thoughts in compositional practices. Music technology stimulated the growth of music while altering musical forms. During the second half of the 20th century, the positive results from the musical experiments have demonstrated the flexibility and generality of computer-assisted compositional methods. This study offers a deep view of a wide range of approaches for algorithmic compositions. In the modern landscape of algorithmic music, the various approaches of algorithmic composition have opened new directions in music, including the stochastic method, rule-structured technique and Artificial Intelligence (AI) -based systems. The computer, as an assistant of the human composer, was designed to execute rules, learn rules and create rules.
+This research paper explores how algorithms, computer-assisted methods and AI have shaped modern music composition. It looks at how composers have used systems, rules, patterns and computational methods to support musical creativity, from early algorithmic ideas to more advanced forms of artificial intelligence.
+
+A group of industry professionals also provided insights into their creative practices, with selected musicians and their work featured in the paper. Through this study, I examined how AI and algorithms can extend compositional thinking, opening up new ways to experiment, generate ideas and rethink the boundaries of music-making.
+
+### Before the Research
+
+From my own early experience with music, when I was younger, I received musical education in a fairly traditional environment, where printed music sheets, handwritten scores and paper-based exercises were still central to the learning process. Intelligent assistant tools were not part of my world at that time, and software, digital tools or audio editors were not things I had easy access to. I only began experimenting with open-source tools such as Audacity many years later.
+
+From my own memories, I had never really read or played a piece from a digital score on a computer or touchscreen when I was learning music. Music still felt very physical to me, closely tied to pencils and erasers. When I first tried open-source music notation software in college, I think it was MuseScore, I remember being genuinely impressed. Even on a fairly lagging Windows laptop, I was pleased by the quality of the violin scores, the level of detail in the notation, and the smoothness of the overall experience. That small experience felt tangible to me and encouraged me to think beyond traditional music.
+
+Within a decade or two, that landscape changed quickly. Computers, digital music tools and algorithmic systems became increasingly present in how musicians write, test, arrange and produce music. This shift felt personally meaningful to me, because it connected my earlier music background with my later interest in Human-Computer Interaction and creative technologies. It made me want to look more closely at how technology enters the creative process, and how composers respond when computational tools become part of music-making.
+
+### Turning Ideas into a Proposal
 
 ![Research Proposal Draft](blogs-img/research_paper--research-proposal-draft.jpg)
 
 Research Proposal Draft
 
-This study focuses on the musical evolution from the topics of musical patterns, algorithms, AI, computational creativity to collaborative intelligence, by examining composer’s perspectives on what compositional technique they approach, and how they approach it. A number of musical works have demonstrated the power of human-AI interaction. Composers are seeking sophisticated, advanced and intelligent approaches to extend the potential of computer-assisted music. The implemented algorithm can represent composers’ creative processes, and algorithmic composition is considered as a mode of creativity. From the current millennium, there is a growing trend for composers to embrace state-of-art technologies and to infuse AI languages into music creative practices to complement their musical minds.
+I started drafting the first version of my research proposal around September 2019 and completed it in November. With the support of my supervisor, Natasa, I was able to sit down, talk through early ideas, and explore the possible direction of the research. At this stage, I was interested in the relationship between music and Human-Computer Interaction, but the topic still needed a clearer focus. Through discussion, reading and planning, I gradually refined the research questions and shaped the direction of the finalised version of the proposal, the methodology, and the final paper that I developed the following year.
+
+### Reflection
+
+Looking back, this paper helped me think more deeply about the increasing capabilities of computers, algorithms and AI continue to play an important role in musical discourse and creative practice. I was interested in how these technologies could support composers by helping them generate ideas, explore structures, extend patterns and rethink the boundaries of composition. It also made me consider how programmers and software developers could create more thoughtful tools when they are better attuned to composers’ working methods, creative needs and artistic processes.
 
 ### Project links
 
