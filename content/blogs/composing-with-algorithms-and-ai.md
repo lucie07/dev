@@ -1,7 +1,7 @@
 ---
 title: Composing with Algorithms and AI
 date: 1st Sep 2020
-description: Computer-Assisted Algorithmic Compositional Approaches - The Role of AI in Music Creative Practices
+description: Computer-Assisted Algorithmic Compositional Approaches - The Role of AI in Music Creative Practices was a year-long research paper completed as part of my Masters..
 image: /blogs-img/research_paper--feature-image.jpg
 alt: Research Proposal Draft
 ogImage: /blogs-img/research_paper--feature-image.jpg
