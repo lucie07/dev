@@ -41,7 +41,7 @@ Search and filtering have also been a major part of the development work. I impl
 
 The CLA site soft-launched in December 2025. In its current 2026 form, the digital edition of PLRE vol. 1, the first volume of the three-volume reference work, has been transformed into a central CLA resource. The TEI XML files will be made freely available to access and download on GitHub under a CC-BY licence. The data created by CLA will also be deposited in the University of Exeter’s publicly available institutional repository, Open Research Exeter (ORE), independently of CLA web interface. The final database serves as a new online infrastructure, opening up new ways to explore prosopographical material and social relationships across the late-antique world.
 
-### Project links
+### Project Links
 
 - [Project URL](https://connectinglateantiquities.org/index.html)
 - [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FX002381%2F1)
