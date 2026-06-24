@@ -9,11 +9,11 @@ tags: ['eXist-db', 'XML', 'TEI', 'geojson data', 'mapping', 'UX/UI', 'Prosopogra
 published: true
 ---
 
+**Role:** Developer
+
 ### Overview
 
-Role: Developer
-
-I worked on the research project Connecting Late Antiquities at the University of Exeter. It was funded by [Arts and Humanities Research Council UK](https://www.ukri.org/councils/ahrc) and [German Research Foundation](https://www.dfg.de/en), based at the University of Exeter and the University of Bonn.
+Connecting Late Antiquities (CLA) is a collaborative project to create open, digital prosopographical resources for the Roman and post-Roman territories between the third and seventh centuries AD. 
 
 ### Context
 
@@ -21,9 +21,11 @@ I worked on the research project Connecting Late Antiquities at the University o
 
 A group of late antiquite people.
 
-The digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press. This three-volume reference work is being updated with addenda and corrigenda and will be transformed into a searchable online resource, complete with internal cross-references and the marking up of places, dates and other personal names, as well as textual, epigraphic and papyrological sources. The Digital Prosopography of the Later Roman Empire will be made openly available on the Cambridge Core platform and will be a very useful resource for scholars in its own right, as well as providing the foundation for our larger project.
+The pilot phase of Connecting Late Antiquities commenced in 2023 with two years of funding from the UK’s Arts and Humanities Research Council and Germany’s Deutsche Forschungsgemeinschaft.  Its main aim is the digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press.
 
-By extending an XML database framework (eXist-db, TEI/XML), I designed database structures for people metadata using XQuery and draw raw data from decoded XML. In addition to main development, I also worked on the frontend in Figma, integrating UI/UX design into the web interface. The first release was in August 2025.
+Many of the resources used in the study of this ancient time involve prosopography – a form of research that brings together biographical information about particular individuals and groups in search of patterns and connections. But often, key texts, such as the Prosopography of the Later Roman Empire, have remained relatively inaccessible either as expensive print publications found in reference-only volumes in university libraries, or in the form of specialist databases.
+
+The need for a late-antique prosopography has long been recognised, with Theodor Mommsen planning such a project after the completion of the Prosopographia Imperii Romani. In the second half of the twentieth century, the Prosopography of the Later Roman Empire and the ongoing Prosopographie chrétienne du Bas-Empire have done much to realise this aim, although no electronic version is available for either of these invaluable reference works.
 
 ### Project links
 
