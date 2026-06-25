@@ -41,7 +41,7 @@ For the Oral Histories resource my work is based on the standard scholarly appro
 
 I am also exploring innovative ways to present the data and visualise the insights from the research, this includes collaborating with the team to develop ideas for infographic timelines, geo-tagging for StoryMaps, clusters and networks of activity, and career chronologies for women filmmakers in order to display and narrate women’s screen work through an open and searchable Omeka S site. These methods help open up the archive, allowing researchers to see patterns, relationships and histories that might otherwise remain hidden in catalogue records.
 
-### Project links
+### Project Links
 
 - [Project URL](https://womensscreenwork.exeter.ac.uk/)
 - [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FZ50595X%2F1#/tabOverview)

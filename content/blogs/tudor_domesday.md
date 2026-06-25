@@ -37,7 +37,7 @@ Working together with the project team and partners at The National Archives, I 
 
 I will also explore ways to present the material visually and support more interactive forms of discovery. This includes mapping and geotagging locations using GIS technologies, cross-referencing metadata and entities, and connecting the database records with additional resources and links. The final database will allow users to explore the material at a high level of detail and interaction, supporting both close reading and broader research into places, institutions, people and property recorded in the Tudor survey.
 
-### Project links
+### Project Links
 
 - [Project URL](https://valor1535.org/)
 - [UKRI Gateway to Research profile](https://gtr.ukri.org/project/4422AF5E-0BC7-4ED4-9141-956694159442#/tabOverview)

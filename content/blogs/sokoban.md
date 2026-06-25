@@ -27,7 +27,7 @@ I designed the game board as a grid and mapped different HTML elements to repres
 
 For the game logic, I used JavaScript to control how the player moves through the board. The player can move one square at a time, either horizontally or vertically, onto an empty floor space. When the player moves into a box, the game checks whether the box can be pushed forward into the next square. If the space is clear, the box moves; if it is blocked by a wall or another box, the move is not allowed. The objective is to push all boxes onto the storage locations. Once every box is in the correct place, the level is complete.
 
-### Project links
+### Project Links
 
 - [Project URL](https://lucie07.github.io/sokoban-game/)
 - [GitHub Repository](https://github.com/lucie07/sokoban-game)
