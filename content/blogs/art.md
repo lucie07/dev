@@ -44,3 +44,9 @@ I created this charcoal sketch of a young man in 2012, during my first year of h
 Ceramics and Fruit, 2012-2013
 
 I created this painting between 2012 and 2013 using opaque watercolour(gouache). The paint was dried to a matte finish. At the time, I was beginning to experiment with [still life](https://en.wikipedia.org/wiki/Still_life) and kitchen table paintings, exploring how everyday foods, ceramic objects and fabric could be depicted through colour, shade and form.
+
+### More to Come
+
+I think some of my earlier drawings were lost over time, through house moves and school years. I still have vague memories of pieces that are no longer with me, as well as pieces that somehow survived. I wish I had done a better job of digitising and archiving them before I went to college.
+
+I’ll keep adding more here as I dig them out, scan them, or find them hiding in old folders somewhere.
