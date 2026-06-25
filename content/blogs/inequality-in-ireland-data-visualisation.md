@@ -29,7 +29,7 @@ The project was developed from scratch, built and deployed within three months. 
 
 The ultimate goal of the project is to achieve a better and more sustainable future for us all, as a blueprint of sustainable development goals to reducing inequalities between countries and within countries by supporting the marginalised and disadvantaged.
 
-### Project links
+### Project Links
 
 - [Project URL](https://inequality-ireland.scss.tcd.ie/register.html)
 - [GitHub Repository](https://github.com/lucie07/inequality-in-ireland)

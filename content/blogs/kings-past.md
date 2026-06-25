@@ -21,7 +21,7 @@ King’s Past
 
 From its foundation, life at King’s has been entwined with political, social and economic power in the UK and across the world, and that creates a sometimes challenging legacy. 10% of the initial money given to found King’s came from the labour of enslaved people; throughout the nineteenth century King’s helped sustain an empire based on racial and social hierarchies. But King’s has been at the centre of leading major scientific advances, has been at the forefront of inclusive education from women’s education in the 1880s to widening participation now, and has been a site of coordination of voices against empire and racism from across the world. Throughout its beginning King’s has been intertwined with structures which made the modern world, from empire to the nation state, science, medicine and engineering technology to modern political and bureaucratic. King’s history shares the complex of those modern institutions and structures.
 
-### Project links
+### Project Links
 
 - [Project URL](https://kingspast.kcl.ac.uk/)
 - [GitHub Repository](https://github.com/kingsdigitallab/kings-past)

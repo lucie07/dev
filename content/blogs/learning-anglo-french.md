@@ -29,7 +29,7 @@ As part of the project team, I currently work as the developer on the Learning A
 
 Alongside the database and editions, I will also produce a mapping tool, built on GIS technologies, that will visualise the origins and provenance of specific texts and manuscripts. This tool will offer new ways to understand how these materials were produced, transmitted, and studied across medieval Britain.
 
-### Project links
+### Project Links
 
 - [Project website](https://sites.exeter.ac.uk/learninganglofrench/)
 - Project URL: Currently under development and will be added once publicly available.

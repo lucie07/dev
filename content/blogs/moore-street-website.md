@@ -29,7 +29,7 @@ On Easter Monday, 24 April 1916, a group of Irish nationalists proclaimed the es
 
 Within a week, the members of the Provisional Government made the final decision at No. 16 Moore Street. They have agreed to an unconditional surrender in order to prevent further bloodshed.
 
-### Project links
+### Project Links
 
 - [Project URL](https://lucie07.github.io/moore-street/index.html)
 - [The Rebellion and Hope – A brief history of the surrender](https://youtu.be/SCQMvkv53eY)

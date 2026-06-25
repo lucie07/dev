@@ -24,7 +24,7 @@ This is an interactive story with multiple endings where users choose
 their own path. Developed with SugarCube JavaScript library. Edited content using
 variables and conditional statements.
 
-### Project links
+### Project Links
 
 - [Project URL](https://lucie07.github.io/night-of-espionage-twine-story/)
 - [GitHub Repository](https://github.com/lucie07/night-of-espionage-twine-story)
