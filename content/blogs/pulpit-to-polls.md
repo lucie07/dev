@@ -5,7 +5,7 @@ description: Investigating individual and contextual role of religion in British
 image: /blogs-img/pulpit_to_polls--crowd-with-union-jack-flags.png
 alt: A blurred crowd gathers in a church hall decorated with Union Jack flags and a cross
 ogImage: /blogs-img/pulpit_to_polls--crowd-with-union-jack-flags.png
-tags: ['University of Exeter']
+tags: ['Data Visualisation', 'Omeka S', 'Social Science', 'Political Science', 'religion', 'British Election', 'Census', 'survey data', 'ESRC', 'University of Exeter']
 published: true
 ---
 
