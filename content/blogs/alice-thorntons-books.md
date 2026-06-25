@@ -31,7 +31,7 @@ Through this process, I contributed to improving accessible design and developme
 
 Alice Thornton Accessibility Statement page
 
-### Project links
+### Project Links
 
 - [Project URL](https://thornton.kdl.kcl.ac.uk/)
 - [Project’s accessibility statement page](https://thornton.kdl.kcl.ac.uk/accessibility/)

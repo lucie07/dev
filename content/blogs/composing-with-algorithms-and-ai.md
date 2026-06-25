@@ -45,7 +45,7 @@ I started drafting the first version of my research proposal around September 20
 
 Looking back, this paper helped me think more deeply about the increasing capabilities of computers, algorithms and AI continue to play an important role in musical discourse and creative practice. I was interested in how these technologies could support composers by helping them generate ideas, explore structures, extend patterns and rethink the boundaries of composition. It also made me consider how programmers and software developers could create more thoughtful tools when they are better attuned to composers’ working methods, creative needs and artistic processes.
 
-### Project links
+### Project Links
 
 - [Full paper published on SCSS site](https://www.scss.tcd.ie/publications/theses/diss/2020/TCD-SCSS-DISSERTATION-2020-006.pdf)
 - [Abstract](https://www.scss.tcd.ie/publications/theses/diss/2020/TCD-SCSS-DISSERTATION-2020-006-ABSTRACT.pdf)

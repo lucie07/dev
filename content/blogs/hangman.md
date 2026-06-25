@@ -25,7 +25,7 @@ For the game logic, I used JavaScript to handle the main interactions. I created
 
 To make the game more fun and accessible to play, I added support for both mouse clicks and keyboard input. The game can be played on both desktop screens and smaller screens. I also added sound effects for correct guesses, wrong guesses, winning and losing, so the game feels more responsive and satisfying as players move through each round.
 
-### Project links
+### Project Links
 
 - [Project URL](https://lucie07.github.io/hangman-game/)
 - [GitHub Repository](https://github.com/lucie07/hangman-game)
