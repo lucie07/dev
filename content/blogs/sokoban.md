@@ -30,4 +30,4 @@ For the game logic, I used JavaScript to control how the player moves through th
 ### Project Links
 
 - [Project URL](https://lucie07.github.io/sokoban-game/)
-- [GitHub Repository](https://github.com/lucie07/sokoban-game)
+- [GitHub repository](https://github.com/lucie07/sokoban-game)

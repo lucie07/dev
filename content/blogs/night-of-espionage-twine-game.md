@@ -27,4 +27,4 @@ variables and conditional statements.
 ### Project Links
 
 - [Project URL](https://lucie07.github.io/night-of-espionage-twine-story/)
-- [GitHub Repository](https://github.com/lucie07/night-of-espionage-twine-story)
+- [GitHub repository](https://github.com/lucie07/night-of-espionage-twine-story)
