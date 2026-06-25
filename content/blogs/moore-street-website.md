@@ -33,4 +33,4 @@ Within a week, the members of the Provisional Government made the final decision
 
 - [Project URL](https://lucie07.github.io/moore-street/index.html)
 - [The Rebellion and Hope – A brief history of the surrender](https://youtu.be/SCQMvkv53eY)
-- [GitHub Repository](https://github.com/lucie07/moore-street)
+- [GitHub repository](https://github.com/lucie07/moore-street)

@@ -28,4 +28,4 @@ To make the game more fun and accessible to play, I added support for both mouse
 ### Project Links
 
 - [Project URL](https://lucie07.github.io/hangman-game/)
-- [GitHub Repository](https://github.com/lucie07/hangman-game)
+- [GitHub repository](https://github.com/lucie07/hangman-game)

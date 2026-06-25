@@ -36,4 +36,4 @@ Alice Thornton Accessibility Statement page
 - [Project URL](https://thornton.kdl.kcl.ac.uk/)
 - [Project’s accessibility statement page](https://thornton.kdl.kcl.ac.uk/accessibility/)
 - [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FV012738%2F1)
-- [GitHub Repository](https://github.com/kingsdigitallab/alice-thornton)
+- [GitHub repository](https://github.com/kingsdigitallab/alice-thornton)

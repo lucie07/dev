@@ -24,4 +24,4 @@ From its foundation, life at King’s has been entwined with political, social a
 ### Project Links
 
 - [Project URL](https://kingspast.kcl.ac.uk/)
-- [GitHub Repository](https://github.com/kingsdigitallab/kings-past)
+- [GitHub repository](https://github.com/kingsdigitallab/kings-past)
