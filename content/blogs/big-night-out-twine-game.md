@@ -1,5 +1,5 @@
 ---
-title: Night of Espionage - Twine game
+title: Big Night Out - Twine game
 date: 10th May 2020
 description: Big Night Out is a web-based interactive story game I made based on Recon with Twine, an open-source tool for creating nonlinear and choice-based narratives.. 
 image: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
