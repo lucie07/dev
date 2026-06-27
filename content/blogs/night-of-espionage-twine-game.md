@@ -16,6 +16,10 @@ CSS and JavaScript.
 
 ### Context
 
+![Storyline bubbles](blogs-img/twine--storyline-bubbles.png)
+
+Storyline bubbles
+
 ![City lights](blogs-img/night-of-espionage-twine-game_feature-image.jpg)
 
 City lights
