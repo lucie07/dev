@@ -15,7 +15,7 @@ published: true
 
 City lights
 
-Big Night Out is a web-based interactive story game I made based on Recon with Twine, an open-source tool for creating nonlinear and choice-based narratives. It is a single-player game with multiple endings, where players make choices and follow their own paths through the story. 
+Big Night Out is a web-based interactive story game I made based on Recon with [Twine](https://twinery.org/), an open-source tool for creating nonlinear and choice-based narratives. It is a single-player game with multiple endings, where players make choices and follow their own paths through the story. 
 
 ![Storyline bubbles](blogs-img/twine--storyline-bubbles.png)
 
