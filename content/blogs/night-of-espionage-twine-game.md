@@ -31,5 +31,5 @@ I built the game using the SugarCube 2.37.3 story format, which allowed me to wo
 
 ### Project Links
 
-- [Project URL](https://lucie07.github.io/night-of-espionage-twine-story/)
-- [GitHub repository](https://github.com/lucie07/night-of-espionage-twine-story)
+- [Project URL](https://lucie07.github.io/big-night-out-twine-game/)
+- [GitHub repository](https://github.com/lucie07/big-night-out-twine-game)
