@@ -19,13 +19,13 @@ Big Night Out is a web-based interactive story game I made based on Recon with T
 
 ![Storyline bubbles](blogs-img/twine--storyline-bubbles.png)
 
-Storyline bubbles
+Big Night Out storyline bubbles
 
 ### Context
 
 ![Storytelling mapping](blogs-img/twine--storytelling-mapping.png)
 
-Storytelling mapping
+Big Night Out storytelling mapping
 
 I built the game using the SugarCube 2.37.3 story format, which allowed me to work with variables, conditional logic and interactive story states. The game runs as a web page, with custom HTML, CSS and JavaScript used to shape the interface, style the story passages, and add extra interactive features. As part of the game, I also added images and sound effects to create an immersive experience. 
 
