@@ -2,16 +2,16 @@
 title: Big Night Out - Twine game
 date: 10th May 2020
 description: Big Night Out is a web-based interactive story game I made based on Recon with Twine, an open-source tool for creating nonlinear and choice-based narratives.. 
-image: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
+image: /blogs-img/big_night_out_twine_game--city-lights.jpg
 alt: Orange city light at night
-ogImage: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
+ogImage: /blogs-img/big_night_out_twine_game--city-lights.jpg
 tags: ['Twine', 'game', 'interactive story']
 published: true
 ---
 
 ### Overview
 
-![City lights](blogs-img/night-of-espionage-twine-game_feature-image.jpg)
+![City lights](blogs-img/big_night_out_twine_game--city-lights.jpg)
 
 City lights
 
