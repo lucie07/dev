@@ -1,7 +1,7 @@
 ---
 title: Night of Espionage - Twine game
 date: 10th May 2020
-description: Night of Espionage is a web based game created by Twine, an interactive story framework, using HTML, CSS and JavaScript. 
+description: Big Night Out is a web-based interactive story game I made based on Recon with Twine, an open-source tool for creating nonlinear and choice-based narratives.. 
 image: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
 alt: Orange city light at night
 ogImage: /blogs-img/night-of-espionage-twine-game_feature-image.jpg
@@ -11,22 +11,23 @@ published: true
 
 ### Overview
 
-Night of Espionage is a web based game I made with Twine, an interactive story framework, using HTML,
-CSS and JavaScript. 
+![City lights](blogs-img/night-of-espionage-twine-game_feature-image.jpg)
 
-### Context
+City lights
+
+Big Night Out is a web-based interactive story game I made based on Recon with Twine, an open-source tool for creating nonlinear and choice-based narratives. It is a single-player game with multiple endings, where players make choices and follow their own paths through the story. 
 
 ![Storyline bubbles](blogs-img/twine--storyline-bubbles.png)
 
 Storyline bubbles
 
-![City lights](blogs-img/night-of-espionage-twine-game_feature-image.jpg)
+### Context
 
-City lights
+![Storytelling mapping](blogs-img/twine--storytelling-mapping.png)
 
-This is an interactive story with multiple endings where users choose
-their own path. Developed with SugarCube JavaScript library. Edited content using
-variables and conditional statements.
+Storytelling mapping
+
+I built the game using the SugarCube 2.37.3 story format, which allowed me to work with variables, conditional logic and interactive story states. The game runs as a web page, with custom HTML, CSS and JavaScript used to shape the interface, style the story passages, and add extra interactive features. As part of the game, I also added images and sound effects to create an immersive experience. 
 
 ### Project Links
 
