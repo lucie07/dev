@@ -13,8 +13,6 @@ published: true
 
 Inner Mongolia in images.
 
-### Spring
-
 ![Mountain](blogs-img/mountain_feature-image.png)
 
 Mountain
@@ -23,12 +21,6 @@ Mountain
 
 Canyon
 
-### Summer
-
 ![Mountain](blogs-img/white-yurt.jpg)
 
 Mongolian yurt
-
-### Autumn
-
-### Winter
