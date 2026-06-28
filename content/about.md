@@ -40,4 +40,4 @@ Originally from an arts background with a BA (Hons) in Film and Television Produ
 
 ### Links
 
-You can find me at UoE Profile, ORCID, Github, Linkedin, and Bluesky. 
+You can find me at [UoE Profile](https://experts.exeter.ac.uk/44743-lucie-mingmei-hao), [ORCID](https://orcid.org/0000-0002-3737-102X), [Github](https://github.com/lucie07), [Linkedin](https://www.linkedin.com/in/lucie-mingmei/), and [Bluesky](https://bsky.app/profile/luciemingmeihao.bsky.social). 
