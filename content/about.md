@@ -37,3 +37,7 @@ Beyond coding and software development, my wider research interests include Huma
 I completed an MSc Interactive Digital Media at the [School of Computer Science and Statistics](https://www.tcd.ie/scss/), Trinity College Dublin, Ireland. My thesis was titled ‘Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices’. My major project was a collaborative interactive data visualization research project that examined connections between data science and information visualization, creating an innovative way to explore interactive storytelling and data-driven results.
 
 Originally from an arts background with a BA (Hons) in Film and Television Production at the [School of Informatics and Creative Arts](https://www.dkit.ie/about/academic-schools/informatics-creative-arts) from the Dundalk Institute of Technology, my multimedia experience continues to shape my approach to digital work. I remain interested in the intersection of art and technology, and in how digital methods can open up new ways of understanding human history and culture. 
+
+### Links
+
+You can find me at UoE Profile, ORCID, Github, Linkedin, and Bluesky. 
