@@ -31,3 +31,9 @@ I am an advocate for the recognition and visibility of embedded Research Softwar
 ### Beyond the Code
 
 Beyond coding and software development, my wider research interests include Human-Computer Interaction (HCI) and user-centred design. I am interested in creating digital experiences that are shaped around the needs of the people who use them, and in designing software that feels clear, intuitive, thoughtful to engage with.
+
+### My Background
+
+I completed an MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin, Ireland. My thesis was titled ‘Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices’. My major project was a collaborative interactive data visualization research project that examined connections between data science and information visualization, creating an innovative way to explore interactive storytelling and data-driven results.
+
+Originally from an arts background with a BA (Hons) in Film and Television Production at the School of Informatics and Creative Arts from the Dundalk Institute of Technology, my multimedia experience continues to shape my approach to digital work. I remain interested in the intersection of art and technology, and in how digital methods can open up new ways of understanding human history and culture. 
