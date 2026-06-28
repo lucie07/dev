@@ -17,3 +17,17 @@ Before joining the University of Exeter, I was a Research Software UI/UX Designe
 ### What I Build 
 
 More recently, I have focused on collaborative computational projects for arts and cultural research that draw on DH methods and technologies. As a developer, I contribute to the design and development of software tools and digital platforms that support humanities research: This includes the creation of web resources and searchable databases, the production of digital editions of texts with TEI/XML and eXist-db, the development of custom mapping solutions with Leaflet JavaScript library, and the creation of websites for digital collections and metadata in Omeka. I care about how technology can deepen our understanding of the past, open up access to complex historical materials, and make research data more discoverable and meaningful for both specialists and public audiences. 
+
+### Current Projects
+
+At Exeter, I am currently the developer for the AHRC-funded project Women's Screen Work in the Archives Made Visible, with Prof. Helen M Hanson (PI) and the project team; the ERC/UKRI-funded research project Learning Anglo-French, with Thomas Hinton (PI) and the project team; and the AHRC-funded project Rediscovering the Tudor Domesday, with Prof. James Clark (PI) and Dr. Charlotte Tupman (Co-I). I have also been the developer for the AHRC/DFG-funded project Connecting Late Antiquities, with Prof. Richard Flower (PI), Prof. Julia Hillner (PI), Dr. Charlotte Tupman (Co-I) and Dr Gabriel Bodard (Co-I).
+
+### How I Work
+
+My skills include programming, software engineering, data management, UX/UI, design thinking, user requirements gathering, and software development lifecycle (SDLC). I am keen to keep expanding my skill set, while experimenting with open research components that are exploratory yet reproducible. I also care about making research outputs more transparent, accessible, and open to reuse and reinterpretation.
+
+I am an advocate for the recognition and visibility of embedded Research Software Engineers (RSEs) and Research & Technical Professionals (RTPs) as vital contributors to the research ecosystem. More broadly, I am interested in promoting the value of good software engineering practices, the adopted agile methodology in academic settings, and high standards in the design and development of computational methods across the arts, humanities, and cultural heritage.
+
+### Beyond the Code
+
+Beyond coding and software development, my wider research interests include Human-Computer Interaction (HCI) and user-centred design. I am interested in creating digital experiences that are shaped around the needs of the people who use them, and in designing software that feels clear, intuitive, thoughtful to engage with.
