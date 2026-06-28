@@ -12,7 +12,7 @@ I am a Research IT Developer in the Research IT team, based in the [Digital Huma
 
 ### Before Exeter 
 
-Before joining the University of Exeter, I was a Research Software UI/UX Designer at King's Digital Lab, King’s College London. In this role, I worked on several AHRC/KCL-funded projects, including Brightening the Covenant Chain and King’s Past. Previously, I worked at Trinity College Dublin 2021-2022 as a Web Admin & e-Learning Technologist in the School of Medicine. I spent the majority of my time there on a major Web Project centrally funded by the university. Alongside my university roles, I also spent time at iBreve, a digital health startup. During this period, I contributed to TRUSTMEDICOS, an innovative project funded by EU Horizon 2020. 
+Before joining the University of Exeter, I was a Research Software UI/UX Designer at [King's Digital Lab](https://kdl.kcl.ac.uk/), King’s College London. In this role, I worked on several AHRC/KCL-funded projects, including Brightening the Covenant Chain and King’s Past. Previously, I worked at Trinity College Dublin 2021-2022 as a Web Admin & e-Learning Technologist in the [School of Medicine](https://www.tcd.ie/medicine/). I spent the majority of my time there on a major Web Project centrally funded by the university. Alongside my university roles, I also spent time at [iBreve](https://www.ibreve.com/), a digital health startup. During this period, I contributed to TRUSTMEDICOS, an innovative project funded by EU Horizon 2020. 
 
 ### What I Build 
 
@@ -34,6 +34,6 @@ Beyond coding and software development, my wider research interests include Huma
 
 ### My Background
 
-I completed an MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin, Ireland. My thesis was titled ‘Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices’. My major project was a collaborative interactive data visualization research project that examined connections between data science and information visualization, creating an innovative way to explore interactive storytelling and data-driven results.
+I completed an MSc Interactive Digital Media at the [School of Computer Science and Statistics](https://www.tcd.ie/scss/), Trinity College Dublin, Ireland. My thesis was titled ‘Computer-Assisted Algorithmic Compositional Approaches: The Role of AI in Music Creative Practices’. My major project was a collaborative interactive data visualization research project that examined connections between data science and information visualization, creating an innovative way to explore interactive storytelling and data-driven results.
 
-Originally from an arts background with a BA (Hons) in Film and Television Production at the School of Informatics and Creative Arts from the Dundalk Institute of Technology, my multimedia experience continues to shape my approach to digital work. I remain interested in the intersection of art and technology, and in how digital methods can open up new ways of understanding human history and culture. 
+Originally from an arts background with a BA (Hons) in Film and Television Production at the [School of Informatics and Creative Arts](https://www.dkit.ie/about/academic-schools/informatics-creative-arts) from the Dundalk Institute of Technology, my multimedia experience continues to shape my approach to digital work. I remain interested in the intersection of art and technology, and in how digital methods can open up new ways of understanding human history and culture. 
