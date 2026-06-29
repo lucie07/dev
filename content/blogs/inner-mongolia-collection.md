@@ -15,7 +15,8 @@ Inner Mongolia in images.
 
 ![Mountain](blogs-img/mountain_feature-image.png)
 
-Rocky hillside. Late July, 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
+Rocky hillside. Late July, 2019. 
+I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
 
 ![Canyon](blogs-img/sunlit-mountain-canyon.jpg)
 
