@@ -13,7 +13,11 @@ published: true
 
 Inner Mongolia in images.
 
-![Mountain](blogs-img/mountain_feature-image.png)
+![Wind turbines on the prairie](blogs-img/wind-turbines-on-the-prairie.jpg)
+
+Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps one of my strongest impressions of the place: wind turbines, and then more wind turbines. I never knew when they were built, but they seemed to have been there for a while, quietly becoming part of the grassland.  
+
+![Rocky hillside](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
 
