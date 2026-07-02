@@ -31,6 +31,10 @@ The visualisation was based on data from the Pobal HP Deprivation Index and the 
 
 During the early background research stage of the project, I became interested in how urban and regional data can reveal broader social challenges. Many countries face growing questions around inequality, public services, housing, employment and the uneven distribution of resources. As I explored the available survey data and deprivation metrics, particularly in the years after 2010, I became increasingly aware of the quite visible social and economic differences across Ireland. This made the country a focused case study for exploring these issues through data, particularly at a local level where differences between neighbouring areas can be particularly revealing. The project used Ireland as an example to examine what it means to live in areas of relative affluence or deprivation, and how these conditions can shape people’s access to opportunities, services and quality of life.
 
+![Storytelling mode](blogs-img/datavis--storytelling-mode.png)
+
+Storytelling mode
+
 By translating statistical datasets into a visual and interactive format, the project sought to make patterns of inequality easier to see, compare and question. This context shaped both the design direction and the technical development of the project, laying the groundwork for decisions around data processing, mapping, user interaction and visual storytelling.
 
 More broadly, the project was connected to the aims of the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals), particularly the goal of reducing inequalities within and between countries. By focusing on affluence, deprivation and access to opportunity across Ireland, the project used data visualisation as a way to support public understanding of inequality and the conditions affecting marginalised and disadvantaged communities.
