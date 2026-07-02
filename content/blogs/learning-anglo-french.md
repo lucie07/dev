@@ -5,7 +5,7 @@ description: Learning Anglo-French, French Language-Learning Manuscripts in Brit
 image: /blogs-img/laf_manuscript.jpg
 alt: Learning Anglo-French manuscript
 ogImage: /blogs-img/laf_manuscript.jpg
-tags: ['eXist-db', 'XML', 'TEI', 'geojson data', 'mapping', 'UX/UI', 'manuscripts', 'history', 'codicology', 'languages', 'linguistics', 'archaeology', 'Digital Humanities', 'AHRC', 'University of Exeter']
+tags: ['eXist-db', 'XML', 'TEI', 'GeoJSON', 'mapping', 'UX/UI', 'manuscripts', 'history', 'codicology', 'languages', 'linguistics', 'archaeology', 'Digital Humanities', 'AHRC', 'University of Exeter']
 published: true
 ---
 
