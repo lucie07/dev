@@ -35,6 +35,18 @@ By translating statistical datasets into a visual and interactive format, the pr
 
 More broadly, the project was connected to the aims of the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals), particularly the goal of reducing inequalities within and between countries. By focusing on affluence, deprivation and access to opportunity across Ireland, the project used data visualisation as a way to support public understanding of inequality and the conditions affecting marginalised and disadvantaged communities.
 
+### Technologies and Processes
+
+As part of the Inequality in Ireland team, I worked as one of four developers, together with one designer contributing to the development and implementation of the interactive visualisation. The project was developed from scratch and built within three months, from early research and data gathering through to interface development and deployment. 
+
+The final data visualisation centred on an interactive dashboard, allowing users to explore inequality across different regions of Ireland. It included key statistics for each area, alongside several modes of interaction, including Storytelling, Exploration and Comparison. These modes were designed to support a more personalised and flexible user experience, giving users greater control over how they engaged with the data.
+
+The frontend of the project was developed using HTML, CSS and JavaScript. We used the Mapbox JavaScript library to render and control the interactive map, while D3.js was used to support data-driven visual elements and charts. We also worked with browser-based technologies such as the Geolocation API, local storage and cookies to support user interaction, preferences and personalised features. Node.js was used as part of the development workflow.
+
+A significant part of the development process involved preparing and transforming the datasets into a suitable geospatial format. We worked with data from the Pobal HP Deprivation Index and the CSO 2016 Census, cleaning, organising and analysing the raw data before connecting it to regional mapping boundaries. The data was first processed in Excel and then prepared for mapping, with the relevant statistical values joined to geographical features and exported as GeoJSON. To make the map data suitable for the visualisation, we used Tippecanoe to convert the GeoJSON into MBTiles. These tiles were then uploaded to Mapbox Studio as a tileset, allowing the project to display large geospatial datasets more efficiently within the interactive map interface. This workflow transformed statistical and spatial data into a browser-based visualisation that was easier to load, style and explore interactively.
+
+Through this process, the project combined interaction design, data processing and web-based geospatial visualisation. Large datasets were transformed into usable map formats, supporting an interface where complex social data could be explored, compared and understood more intuitively.
+
 ### Project Links
 
 - [Project URL](https://inequality-ireland.scss.tcd.ie/register.html)
