@@ -11,13 +11,17 @@ published: true
 
 ### Overview
 
-Inequality in Ireland is an interactive data visualisation developed within a team at Trinity College Dublin. The aim of the project is to raise awareness about socio-economic inequality in Ireland. By showing regional differences on metrics such as unemployment, education, housing, changes in population, social status and health, the project intends to highlight these inequalities and help people to better understand the contributing factors. It addresses poverty from a local, regional and national point of view. We aim to embrace Data Science and Information Visualization and focus on new ways to understand data-driven results.
-
-### Context
-
 ![View of Dublin](blogs-img/datavis-feature-image.jpg)
 
 View of Dublin
+
+Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master,  MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin. 
+
+The project was an interactive data visualisation developed collaboratively by a team of five. Its aim was to make complex social and demographic data more accessible, helping users understand how inequality can vary across local, regional and national contexts. The visualisation focused on indicators such as unemployment, education, housing, population change, social status and health. By presenting these datasets through an interactive interface, the project highlighted regional patterns of affluence and deprivation, and invited users to explore the factors that contribute to poverty and inequality in different parts of Ireland.
+
+At its core, the project brought together interaction design, data science and information visualisation. It created a more engaging and intuitive way for users to explore data-driven results and reflect on the lived realities behind them.
+
+### Context
 
 The visualisation is based on data from the Pobal HP deprivation index and [CSO](https://www.cso.ie/en/databases/) 2016 census. The Pobal index is Ireland’s most widely used social gradient metric, which scores each small area in terms of affluence or disadvantage. During the background research, I found out that many countries around the world are facing acute challenges in terms of the efficiency of urban operation. This project utilized Ireland as an example, successfully demonstrated what it means to live in an area of extreme affluence or deprivation and, just how divided the Irish society has become.
 
