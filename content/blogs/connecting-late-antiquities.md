@@ -5,7 +5,7 @@ description: The digitisation of the Prosopography of the Later Roman Empire, wi
 image: /blogs-img/cla_feature-image.png
 alt: Connecting Late Antiquities
 ogImage: /blogs-img/cla_feature-image.png
-tags: ['eXist-db', 'XML', 'TEI', 'geojson data', 'mapping', 'UX/UI', 'Prosopography', 'colonial history', 'history', 'classics', 'Digital Humanities', 'AHRC', 'University of Exeter']
+tags: ['eXist-db', 'XML', 'TEI', 'GeoJSON', 'mapping', 'geospatial data', 'UX/UI', 'Prosopography', 'colonial history', 'history', 'classics', 'Digital Humanities', 'AHRC', 'University of Exeter']
 published: true
 ---
 
