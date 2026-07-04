@@ -21,13 +21,9 @@ Alice Thornton's Books: Remembrances of a Woman's Life in the Seventeenth Centur
 
 A presumed missing volume by 17th century Yorkshire woman Alice Thornton has been found at Durham Cathedral Picture.
 
-Role: Digital accessibility specialist
+Alice Thornton was a seventeenth-century woman writer whose life writing offers rich insight into women’s lives, family history, religious experience, memory, illness, childbirth, and social networks in early modern England. To date, knowledge of Thornton’s life has largely been dependent on a nineteenth-century edition by Charles C. Jackson that selected materials from some of those manuscript Books to produce a single, chronological narrative of her life.
 
-I worked on research project Alice Thornton’s Books during my time at King’s Digital Lab, King’s College London, with a focus on digital accessibility. My work involved carrying out accessibility audits across the site, using tools such as Siteimprove and its browser plugin alongside manual checks on multiple devices, browsers, and user environments. 
-
-I reviewed the interface against WCAG AA standards, identified accessibility issues, and worked closely with the Senior Research Software Engineer to discuss practical, technically feasible solutions. This included considering areas such as colour contrast, keyboard navigation, screen reader compatibility, responsive behaviour, and the clarity of interactive elements. 
-
-Through this process, I contributed to improving accessible design and development practices within the project, embedding them more actively into the project lifecycle. The findings were documented and published on the project’s Accessibility Statement page.
+By returning to the four manuscript Books themselves, the project makes it possible to explore Thornton’s writings in a fuller and more complex form. The digital edition provides access to the texts as distinct but connected works, supporting new ways of reading, searching and studying Thornton’s autobiographical writing.
 
 ![Alice Thornton Accessibility Statement page](blogs-img/alice_thornton--accessibility-statement-page.png) 
 
