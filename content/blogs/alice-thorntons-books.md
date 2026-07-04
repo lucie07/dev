@@ -13,13 +13,13 @@ published: true
 
 ### Overview
 
+Alice Thornton's Books: Remembrances of a Woman's Life in the Seventeenth Century is an AHRC-funded research project (Ref: AH/V012738/1), in partnership with Durham Cathedral. The project has created an online digital edition of all four of Alice Thornton’s autobiographical Books as its main output. To date, our knowledge of Thornton’s life has largely been dependent on a nineteenth-century edition by Charles C. Jackson that selected materials from some of those manuscript Books to produce a single, chronological narrative of her life.
+
+### Context
+
 ![Alice Thornton’s Books missing volume](blogs-img/alice-thornton-manuscript.jpg)
 
 A presumed missing volume by 17th century Yorkshire woman Alice Thornton has been found at Durham Cathedral Picture.
-
-This AHRC-funded research project (Ref: AH/V012738/1), in partnership with Durham Cathedral, has created an online digital edition of all four of Alice Thornton’s autobiographical Books as its main output. To date, our knowledge of Thornton’s life has largely been dependent on a nineteenth-century edition by Charles C. Jackson that selected materials from some of those manuscript Books to produce a single, chronological narrative of her life.
-
-### Context
 
 Role: Digital accessibility specialist
 
