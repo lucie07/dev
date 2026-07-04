@@ -25,9 +25,19 @@ A presumed missing volume by 17th century Yorkshire woman Alice Thornton has bee
 
 By returning to the four manuscript Books themselves, the project makes it possible to explore Thornton’s writings in a fuller and more complex form. The digital edition provides access to the texts as distinct but connected works, supporting new ways of reading, searching and studying Thornton’s autobiographical writing.
 
+### Accessibility Process
+
 ![Alice Thornton Accessibility Statement page](blogs-img/alice_thornton--accessibility-statement-page.png) 
 
 Alice Thornton Accessibility Statement page
+
+I worked on Alice Thornton’s Books during my time at King’s Digital Lab, King’s College London, with a focus on digital accessibility. My role involved reviewing the website and digital edition to identify accessibility issues and suggest practical improvements. 
+
+I carried out accessibility audits across the site, using the Siteimprove browser plugin alongside manual checks. I tested the site interface and the main AT text viewer across different devices, browsers and user environments, paying attention to how it behaved in real use.
+
+As a digital accessibility specialist, I reviewed the interface against WCAG AA standards, identified accessibility issues, and worked closely with the Senior Research Software Engineer to discuss practical, technically feasible solutions. This included considering areas such as colour contrast, keyboard navigation, screen reader compatibility, responsive behaviour on smaller screens, and the clarity of interactive elements in the text viewer, especially when the page was zoomed in or navigated without a mouse. 
+
+Through this work, I contributed to improving accessible design and development practices and embedding them more actively into the project lifecycle. The findings were documented and published on the project’s Accessibility Statement page.
 
 ### Project Links
 
