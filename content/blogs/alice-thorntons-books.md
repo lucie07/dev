@@ -19,7 +19,7 @@ Alice Thornton's Books: Remembrances of a Woman's Life in the Seventeenth Centur
 
 ![Alice Thornton’s Books missing volume](blogs-img/alice-thornton-manuscript.jpg)
 
-A presumed missing volume by 17th century Yorkshire woman Alice Thornton has been found at Durham Cathedral Picture.
+A presumed missing volume by 17th century Yorkshire woman Alice Thornton has been found at [Durham Cathedral Picture](https://www.thenorthernecho.co.uk/news/17722614.lost-text-chronicling-fascinating-life-17th-century-yorkshire-woman-alice-thorton-found/#gallery1).
 
 [Alice Thornton](https://en.wikipedia.org/wiki/Alice_Thornton) was a seventeenth-century woman writer whose life writing offers rich insight into women’s lives, family history, religious experience, memory, illness, childbirth, and social networks in early modern England. To date, knowledge of Thornton’s life has largely been dependent on a nineteenth-century edition by Charles C. Jackson that selected materials from some of those manuscript Books to produce a single, chronological narrative of her life.
 
