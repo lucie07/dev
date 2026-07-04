@@ -9,6 +9,8 @@ tags: ['accessibility', 'WCAG', 'Siteimprove', 'manuscript', 'chronicle', 'Digit
 published: true
 ---
 
+**Role:** Digital Accessibility Specialist
+
 ### Overview
 
 ![Alice Thornton’s Books missing volume](blogs-img/alice-thornton-manuscript.jpg)
