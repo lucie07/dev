@@ -11,7 +11,9 @@ published: true
 
 ### Overview
 
-Inner Mongolia in images.
+This page is a growing image collection from Inner Mongolia. Some images come from family trips, some from holiday breaks, and some from quieter moments when I was between study, work, and different stages of life. I am adding to this page over time as I find more photographs from different years.
+
+I sometimes wish Inner Mongolia could be fully captured and recorded. My collection has grown in uneven ways over the years. Most of the times I was able to visit were during holidays or breaks, which often meant arriving in the hottest part of summer or the coldest part of winter. In my own archive, it almost feels as if Inner Mongolia only has two seasons, while spring and autumn are largely missing. So it always feels like a small surprise when I find older photographs from my teenage years and realise some were taken in March, October, or in small in-between moments I had nearly forgotten. 
 
 ![Wind turbines on the prairie](blogs-img/wind-turbines-on-the-prairie.jpg)
 
