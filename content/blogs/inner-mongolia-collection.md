@@ -9,7 +9,7 @@ tags: ['Inner Mongolia', 'photography']
 published: true
 ---
 
-### Overview
+### My time in Inner Mongolia
 
 This page is a growing image collection from Inner Mongolia. Some images come from family trips, some from holiday breaks, and some from quieter moments when I was between study, work, and different stages of life. I am adding to this page over time as I find more photographs from different years.
 
