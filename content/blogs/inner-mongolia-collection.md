@@ -1,5 +1,5 @@
 ---
-title: Inner Mongolia collection
+title: Inner Mongolia Collection
 date: 1st Aug 2014
 description: Inner Mongolia in images
 image: /blogs-img/mountain_feature-image.png
