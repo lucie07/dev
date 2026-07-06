@@ -1,7 +1,7 @@
 ---
 title: Inner Mongolia Collection
 date: 1st Aug 2014
-description: Inner Mongolia in images
+description: This page is a growing image collection from Inner Mongolia. Some images come from family trips, some from holiday breaks, and some from quieter moments when I was between study, work, and different stages of life..
 image: /blogs-img/mountain_feature-image.png
 alt: mountain
 ogImage: /blogs-img/mountain_feature-image.png
