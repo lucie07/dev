@@ -27,6 +27,6 @@ Rocky hillside. Bugthot, early July 2019. I took this not long after submitting 
 
 Mountain canyon. Bugthot, late July 2019. I loved disappearing into valleys like this. It was one of those moments when I could lie back on the grass, feel the sun on my face, and enjoy the rare quiet of doing nothing. 
 
-![Mountain](blogs-img/white-yurt.jpg)
+![White Mongolian yurt](blogs-img/white-yurt.jpg)
 
-Mongolian yurt
+White Mongolian yurt. Bugthot, early Aug 2019. This was perhaps one of the hottest days of the year in Inner Mongolia. The image was slightly overexposed, and I still think I should learn more on how to fix it properly. The sun was quite strong, but after spending nine or ten months in Ireland, I missed this kind of sunlight so much.
