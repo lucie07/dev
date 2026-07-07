@@ -10,11 +10,13 @@ useHead({
   // Google tag (gtag.js)
   script: [
     {
+      key: 'google-analytics-src',
       async: true,
       src: 'https://www.googletagmanager.com/gtag/js?id=G-2QHG33MEYY',
     },
     {
-      children: `
+      key: 'google-analytics-init',
+      innerHTML: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
