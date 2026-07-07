@@ -29,6 +29,10 @@ The need for a late-antique prosopography has long been recognised, with Theodor
 
 ### Technologies and Processes
 
+![cla map showing geolocated place entries](blogs-img/cla--map-index.png)
+
+CLA map showing geolocated place entries
+
 As part of the CLA team, in my role as a developer, I focused on the design and development of the project’s digital resources in eXist-db, incorporating the case studies, PLRE and PCBE. The CLA resource is integrated with the digital edition of the revised open-access Prosopography of the Later Roman Empire (PLRE), which is encoded and marked up in TEI XML.
 
 Working together with the project team and partners at Exeter, London and Bonn, my work involves the creation of an open, accessible and searchable database, with internal cross-references and the interlinked entities for persons, places and roles.  
