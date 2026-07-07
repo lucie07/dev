@@ -3,7 +3,7 @@ title: Brightening the Covenant Chain
 date: 25th Feb 2024
 description: Brightening the Covenant Chain investigates the cultures of diplomacy from 1677-1860 between the British Crown and the Six Nations of the Iroquois
 image: /blogs-img/bcc--feature-image.jpg
-alt: Brightening the Covenant map
+alt: Brightening the Covenant Chain map
 ogImage: /blogs-img/bcc--feature-image.jpg
 tags: ['Interactive Map', 'UX/UI', 'history', 'colonial history', 'North America', 'Digital Humanities', 'AHRC', "King’s College London"]
 published: true
