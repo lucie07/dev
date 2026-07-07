@@ -23,9 +23,9 @@ Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps on
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
 
-![Canyon](blogs-img/sunlit-mountain-canyon.jpg)
+![Mountain canyon](blogs-img/sunlit-mountain-canyon.jpg)
 
-Canyon
+Mountain canyon. Bugthot, late July 2019. I loved disappearing into valleys like this. It was one of those moments when I could lie back on the grass, feel the sun on my face, and enjoy the rare quiet of doing nothing. 
 
 ![Mountain](blogs-img/white-yurt.jpg)
 
