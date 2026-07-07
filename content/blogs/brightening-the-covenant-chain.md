@@ -17,11 +17,15 @@ I worked on the research project BCC during my time at King’s Digital Lab, Kin
 
 ### Context
 
-![Brightening the Covenant map](blogs-img/bcc--feature-image.jpg)
+![Brightening the Covenant Chain map](blogs-img/bcc--feature-image.jpg)
 
-Brightening the Covenant map
+Brightening the Covenant Chain map
 
 Brightening the Covenant Chain investigates the cultures of diplomacy from 1677-1860 between the British Crown and the Six Nations of the Iroquois – the dominant indigenous confederacy of the Northeastern Great Lakes and Canada – and in particular the Covenant Chain, a series of treaties that defined the bonds of alliance between the two. By analysing and bringing interpretative cohesion to a large, unstudied and dispersed set of UK and North American archives and material culture, the project hopes to reveal a new dimension of the British political, cultural and imperial past, and showcase examples of reciprocal ‘right relationship’ between nations.
+
+![Brightening the Covenant map](blogs-img/bcc--explore-mode-filter.png)
+
+Brightening the Covenant Chain explore mode filter
 
 ### Project Links
 
