@@ -21,7 +21,7 @@ It is being led by the University of Exeter in partnership with the [British Fil
 
 ![Continuity Supervisor Pamela Davies sits taking notes](blogs-img/womens-screen-work_feature-image.png)
 
-Continuity Supervisor Pamela Davies sits taking notes during the shooting of I Could Go on Singing (dir. Ronald Neame) Judy Garland is in the foreground with her back to the camera. Photo credit Bob Willoughby.  Image from the Pamela Davies collection and courtesy of the Bill Douglas Cinema Museum
+Continuity Supervisor Pamela Davies sits taking notes during the shooting of *I Could Go on Singing* (dir. Ronald Neame) Judy Garland is in the foreground with her back to the camera. Photo credit Bob Willoughby.  Image from the Pamela Davies collection and courtesy of the Bill Douglas Cinema Museum
 
 The lost legacy of women who’ve worked in the British film industry since the dawn of sound in the cinema is to be the focus of a new national research project.
 
