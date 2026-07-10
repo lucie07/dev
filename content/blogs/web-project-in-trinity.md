@@ -11,7 +11,7 @@ published: true
 
 ### Overview
 
-Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the [central IT department](https://www.tcd.ie/itservices/) and the Digital team at Trinity College Dublin.
+Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the IT department at Trinity College Dublin.
 
 ### Context
 
@@ -23,7 +23,11 @@ The landing page of the old SoM site
 
 The landing page of the new SoM site
 
-www.tcd.ie/medicine/ is one of the largest sites of the university with over 40 disciplines and 700 microsites in the sitemap. I was a key member of the team, and I trained my fellow colleagues in the School of Medicine, TCD. The new university’s public website uses a different system and database with a modern design/UI. During the project period, I have spent most of my time on the development, coding, sitemap and web inventory tracking, recreation of large volumes of engaging digital assets and other technical issues assistance. I used the tool Siteimprove and applied the best practice of Search Engine Optimisation, metadata, accessibility guidelines & W3C standards and user experience to optimise the site performance score. The outcome was positive, and the new site was launched in early 2023. 
+The School of Medicine website, www.tcd.ie/medicine/, was one of the university’s largest sites, with over 40 disciplines and around 700 microsites listed in the sitemap at the time of the project. As a key member of the School of Medicine team, I worked closely with colleagues across the school and provided training and technical support throughout the process.
+
+The new university public website was built on a different system and database, with a more modern design and user interface. My work focused on development and coding tasks, sitemap restructuring, web inventory tracking, the recreation and migration of large volumes of digital content and assets, and support with technical issues during the transition.
+
+I also used Siteimprove to review and improve site quality, applying best practices in search engine optimisation, metadata, accessibility, W3C standards and user experience. These improvements contributed to the overall site performance and supported the successful launch of the new School of Medicine website in early 2023.
 
 ### Project Links
 
