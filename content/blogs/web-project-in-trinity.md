@@ -9,6 +9,8 @@ tags: ['accessibility', 'WCAG', 'Siteimprove', 'School of Medicine', 'Trinity Co
 published: true
 ---
 
+**Role:** Web Admin and Digital Accessibility Specialist
+
 ### Overview
 
 Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the IT department at Trinity College Dublin.
