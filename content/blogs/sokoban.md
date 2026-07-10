@@ -2,9 +2,9 @@
 title: Sokoban
 date: 18th Feb 2020
 description: I made a small web-based version of Sokoban using HTML, CSS and JavaScript...
-image: /blogs-img/sokoban-background-light_feature-image.png
+image: /blogs-img/sokoban--gameboard.png
 alt: Sokoban
-ogImage: /blogs-img/sokoban-background-light_feature-image.png
+ogImage: /blogs-img/sokoban--gameboard.png
 tags: ['game', 'puzzle', 'classic']
 published: true
 ---
@@ -17,9 +17,9 @@ The game was designed in 1981 by Hiroyuki Imabayashi. Although the concept is ve
 
 ### Context
 
-![Sokoban](blogs-img/sokoban-background-light_feature-image.png)
+![Sokoban gameboard](blogs-img/sokoban--gameboard.png)
 
-Sokoban
+Sokoban gameboard
 
 I made a small web-based version of Sokoban using HTML, CSS and JavaScript. I wanted to recreate the core puzzle mechanics of the original game in a browser-based format, focusing on the board layout, player movement, box pushing logic and level progression.
 
