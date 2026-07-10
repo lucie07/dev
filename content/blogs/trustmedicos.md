@@ -2,9 +2,9 @@
 title: TRUSTMEDICOS
 date: 1st Sep 2025
 description: TRUSTMEDICOS project has received funding from the EuropeanUnion’s Horizon 2020 research and innovation programme. It aims to tackle health misinformation and achieve a trustworthy health information exchange.
-image: /blogs-img/TRUSTMEDICOS-feature-image.png
+image: /blogs-img/trustmedicos--logo-square.png
 alt: TRUSTMEDICOS logo
-ogImage: /blogs-img/TRUSTMEDICOS-feature-image.png
+ogImage: /blogs-img/trustmedicos--logo-square.png
 tags: ['Digital Health', 'Misinformation', 'Social Networks', 'Cognitive Bias']
 published: true
 ---
@@ -15,7 +15,7 @@ TRUSTMEDICOS project has received funding from the EuropeanUnion’s Horizon 202
 
 ### Context
 
-![TRUSTMEDICOS logo](blogs-img/TRUSTMEDICOS-feature-image.png)
+![TRUSTMEDICOS logo](blogs-img/trustmedicos--logo-square.png)
 
 TRUSTMEDICOS logo
 
