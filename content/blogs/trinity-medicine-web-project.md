@@ -13,7 +13,7 @@ published: true
 
 ### Overview
 
-Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the IT department at Trinity College Dublin.
+Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the [IT department](https://www.tcd.ie/itservices/) at Trinity College Dublin.
 
 ### Context
 
