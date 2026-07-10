@@ -1,5 +1,5 @@
 ---
-title: Web Project in Trinity
+title: Trinity Medicine Web Project
 date: 6th July 2022
 description: Aligning with Trinity Strategic Plan 2020-2025, I worked on a large-scale, long-planned web project from 2021 to 2022, collaborating with the IT department at Trinity College Dublin..
 image: /blogs-img/web-project-in-trinity-feature-image.png
