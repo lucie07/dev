@@ -1,7 +1,7 @@
 ---
 title: Inequality in Ireland – Data Visualisation
 date: 15th Jan 2026
-description: Inequality in Ireland is an interactive data visualisation developed within a team at Trinity College Dublin. The aim of the project is to raise awareness about socio-economic inequality in Ireland.
+description: Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master, MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin..
 image: /blogs-img/datavis-feature-image.jpg
 alt: View of Dublin
 ogImage: /blogs-img/datavis-feature-image.jpg
@@ -15,7 +15,7 @@ published: true
 
 View of Dublin
 
-Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master,  MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin. 
+Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master, MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin.
 
 The project was an interactive data visualisation developed collaboratively by a team of five. Its aim was to make complex social and demographic data more accessible, helping users understand how inequality can vary across local, regional and national contexts. The visualisation focused on indicators such as unemployment, education, housing, population change, social status and health. By presenting these datasets through an interactive interface, the project highlighted regional patterns of affluence and deprivation, and invited users to explore the factors that contribute to poverty and inequality in different parts of Ireland.
 
