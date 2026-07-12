@@ -9,9 +9,9 @@ tags: ['Interactive Map', 'UX/UI', 'history', 'colonial history', 'North America
 published: true
 ---
 
-### Overview
+**Role:** Designer
 
-Role: Contributing designer
+### Overview
 
 I worked on the research project BCC during my time at King’s Digital Lab, King’s College London. The project was funded by Arts and Humanities Research Council of the United Kingdom and Treatied Spaces Research Group based at the University of Hull.
 
