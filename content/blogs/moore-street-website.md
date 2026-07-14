@@ -13,7 +13,9 @@ published: true
 
 ### Overview
 
-Moore Street Website is a history research project. It traces Irish history back to 1916 Easter Rising and the story behind, showing Moore Street Dublin now and then. The project was created by a team, part of the MSc Interactive Digital Media at Trinity College Dublin. 
+Moore Street Website was a history research project created as part of my Master, MSc Interactive Digital Media at Trinity College Dublin. This collaborative project explores the historical significance of Moore Street in Dublin, tracing its connection to the 1916 Easter Rising and the events that shaped modern Irish history.
+
+The website brings together historical research, visual material and digital storytelling to explore Moore Street’s connection to the 1916 Easter Rising. It aims to make the street’s history more accessible while highlighting its continuing significance within Dublin’s urban landscape and Ireland’s cultural memory.
 
 ### Context
 
