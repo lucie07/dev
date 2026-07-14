@@ -9,6 +9,8 @@ tags: ['Moore Street', 'history', 'Easter Rising', 'Dublin', 'Ireland']
 published: true
 ---
 
+**Role:** Developer and Video Producer
+
 ### Overview
 
 Moore Street Website is a history research project. It traces Irish history back to 1916 Easter Rising and the story behind, showing Moore Street Dublin now and then. The project was created by a team, part of the MSc Interactive Digital Media at Trinity College Dublin. 
