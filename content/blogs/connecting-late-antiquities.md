@@ -19,7 +19,7 @@ Connecting Late Antiquities (CLA) is a collaborative project to create open, dig
 
 ![A group of late antiquite people](blogs-img/cla_feature-image.png)
 
-A group of late antiquite people
+Image: “[Luxor Tempel 26c](https://commons.wikimedia.org/wiki/File:Luxor_Tempel_26c.jpg)”, original photograph by Olaf Tausch; derivative work by JMCC1, via Wikimedia Commons, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Cropped for display.
 
 The pilot phase of Connecting Late Antiquities commenced in 2023 with two years of funding from the UK’s [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) and Germany’s [Deutsche Forschungsgemeinschaft](https://www.dfg.de/). Its main aim is the digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press.
 
