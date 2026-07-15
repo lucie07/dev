@@ -21,7 +21,7 @@ Funded by a grant of almost £1.5m from UK Research & Innovation’s Arts and Hu
 
 ![Valor Ecclesiasticus](blogs-img/tudor_domesday--feature-image.jpg)
 
-Valor Ecclesiasticus
+Title page of theValor Ecclesiasticus. [The National Archives](https://www.nationalarchives.gov.uk/), Kew, London.
 
 Rediscovering the Tudor Domesday will present the complete, nationwide survey on a free-to-access website. Users will be able to explore every locality in England and Wales as they were in Tudor times.
 
