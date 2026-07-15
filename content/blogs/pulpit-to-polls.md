@@ -19,7 +19,7 @@ Investigating individual and contextual role of religion in British electoral po
 
 ![A crowd with Union Jack flags and a cross](blogs-img/pulpit_to_polls--crowd-with-union-jack-flags.png)
 
-A crowd with Union Jack flags and a cross
+A crowd with Union Jack flags and a cross. Image created by [DeepAI](https://deepai.org/machine-learning-model/text2img).
 
 Pulpit to Polls puts religion back into the foreground of political science research and enhances our capacity for its analysis with new, much-needed data and methods. We rectify the shortage of usable data by developing the first dataset of individual and constituency level religious data in Britain by combining the individual data from the British Election Study (BES), Understanding Society (USoc) and ESRC/JSPS Covid-19 Study with aggregate level and spatial data from the 2021 Census, places of worship and faith schools for new constituency boundaries.
 
