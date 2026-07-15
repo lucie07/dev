@@ -5,7 +5,7 @@ description: Moore Street Website was a history research project created as part
 image: /blogs-img/moore-street-dublin-feature-image.jpg
 alt: Moore Street Dublin pencil sketch
 ogImage: /blogs-img/moore-street-dublin-feature-image.jpg
-tags: ['Moore Street', 'history', 'Easter Rising', 'Dublin', 'Ireland']
+tags: ['Moore Street', 'history', 'Irish history', 'Easter Rising', 'cultural heritage', 'Dublin', 'Ireland']
 published: true
 ---
 
