@@ -29,13 +29,9 @@ The Easter Rising began on Easter Monday, 24 April 1916, when Patrick Pearse rea
 
 Through this context, the project explores what makes Moore Street historically important, and how the events that took place in and around its buildings contributed to Ireland’s future.
 
-### The Rebellion and Hope – A brief history of the surrender
+### The Rebellion and Hope - A brief history of the surrender
 
-A short documentary was produced and integrated into the project, from the script development, voice recording, sound design and video editing.
-
-On Easter Monday, 24 April 1916, a group of Irish nationalists proclaimed the establishment of the Irish Republic, along with some 1,600 followers, staged a rebellion against the British government in Ireland. When the Easter Rising eventually began on Easter Monday, Patrick Pearse read the Proclamation of the Irish Republic from outside the General Post Office, the headquarters of the Rising. 
-
-Within a week, the members of the Provisional Government made the final decision at No. 16 Moore Street. They have agreed to an unconditional surrender in order to prevent further bloodshed.
+As part of the project, a short documentary was produced and integrated into the website. The video focused on the final stages of the Easter Rising and the surrender decision made at Moore Street. The production process included script development, voice recording, sound design and video editing. This helped make the historical narrative more accessible and engaging for visitors.
 
 ### Project Links
 
