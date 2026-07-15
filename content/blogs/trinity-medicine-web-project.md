@@ -25,9 +25,9 @@ The landing page of the old SoM site
 
 The landing page of the new SoM site
 
-The School of Medicine website, www.tcd.ie/medicine/, was one of the university’s largest sites, with over 40 disciplines and around 700 microsites listed in the sitemap at the time of the project. As a key member of the School of Medicine team, I worked closely with colleagues across the school and provided training and technical support throughout the process.
+The School of Medicine website, https://www.tcd.ie/medicine/, was one of the university’s largest sites, with over 40 disciplines and around 700 microsites listed in the sitemap at the time of the project. As a key member of the School of Medicine team, I worked closely with colleagues across the school, used Trello to map out project activities, and provided training and technical support throughout the process.
 
-The new university public website was built on a different system and database, with a more modern design and user interface. My work focused on development and coding tasks, sitemap restructuring, web inventory tracking, the recreation and migration of large volumes of digital content and assets, and support with technical issues during the transition.
+The new university public website was built on a different system and database, with a more modern design and user interface. My work focused on development and coding tasks, sitemap restructuring, web inventory tracking, the recreation and migration of large volumes of digital content and assets, and support with technical issues during the transition. I also supported the clean-up of legacy content by standardising file names, identifying outdated files and broken links, and repairing corrupted images and documents.
 
 I also used Siteimprove to review and improve site quality, applying best practices in search engine optimisation, metadata, accessibility, W3C standards and user experience. These improvements contributed to the overall site performance and supported the successful launch of the new School of Medicine website in early 2023.
 
