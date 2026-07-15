@@ -1,7 +1,7 @@
 ---
 title: Moore Street Website
 date: 5th June 2023
-description: Moore Street Website is a history research project. It traces Irish history back to 1916 Easter Rising and the story behind, showing Moore Street Dublin now and then.
+description: Moore Street Website was a history research project created as part of my Master, MSc Interactive Digital Media at Trinity College Dublin. This collaborative project explores the historical significance of Moore Street in Dublin..
 image: /blogs-img/moore-street-dublin-feature-image.jpg
 alt: A sketch of Moore Street Dublin 
 ogImage: /blogs-img/moore-street-dublin-feature-image.jpg
