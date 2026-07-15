@@ -3,7 +3,7 @@ title: Rediscovering the Tudor Domesday
 date: 11th March 2026
 description: National project launched to rediscover Henry VIII’s long-forgotten ‘Tudor Domesday Book’
 image: /blogs-img/tudor_domesday--feature-image.jpg
-alt: Valor Ecclesiasticus
+alt: Title page of the Valor Ecclesiasticus
 ogImage: /blogs-img/tudor_domesday--feature-image.jpg
 tags: ['eXist-db', 'XML', 'TEI', 'manuscript', 'UX/UI', 'archaeology', 'history', 'classics', 'Digital Humanities', 'AHRC', 'University of Exeter']
 published: true
@@ -19,9 +19,9 @@ Funded by a grant of almost £1.5m from UK Research & Innovation’s Arts and Hu
 
 ### Context
 
-![Valor Ecclesiasticus](blogs-img/tudor_domesday--feature-image.jpg)
+![Title page of the Valor Ecclesiasticus](blogs-img/tudor_domesday--feature-image.jpg)
 
-Title page of theValor Ecclesiasticus. [The National Archives](https://www.nationalarchives.gov.uk/), Kew, London.
+Title page of the Valor Ecclesiasticus. [The National Archives](https://www.nationalarchives.gov.uk/), Kew, London.
 
 Rediscovering the Tudor Domesday will present the complete, nationwide survey on a free-to-access website. Users will be able to explore every locality in England and Wales as they were in Tudor times.
 
