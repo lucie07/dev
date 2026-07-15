@@ -23,7 +23,11 @@ The website brings together historical research, visual material and digital sto
 
 A sketch of Moore Street Dublin
 
-Moore Street – located in central Dublin and often overlooked in current times, despite its rich history in the context of the 1916 Rising. But what exactly makes this street so important, and how did the events that took place in it and inside its buildings shape Ireland’s future?
+Moore Street is located in the centre of Dublin, yet its historical significance can be easy to miss in the everyday life of the city. During the 1916 Easter Rising, the street and its surrounding buildings became closely connected to the final stages of Easter Week. It was in this area that the leaders of the Rising gathered after leaving the General Post Office, and where important decisions were made as the situation became increasingly difficult.
+
+The Easter Rising began on Easter Monday, 24 April 1916, when Patrick Pearse read the Proclamation of the Irish Republic outside the General Post Office, which became the headquarters of the Rising. As the week progressed, the leaders later moved through the Moore Street area and established their final headquarters at No. 16 Moore Street. It was there that the decision to surrender was agreed, with the aim of preventing further loss of life.
+
+Through this context, the project explores what makes Moore Street historically important, and how the events that took place in and around its buildings contributed to Ireland’s future.
 
 ### The Rebellion and Hope – A brief history of the surrender
 
