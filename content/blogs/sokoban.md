@@ -3,7 +3,7 @@ title: Sokoban
 date: 18th Feb 2020
 description: I made a small web-based version of Sokoban using HTML, CSS and JavaScript...
 image: /blogs-img/sokoban--gameboard.png
-alt: Sokoban
+alt: Sokoban gameboard
 ogImage: /blogs-img/sokoban--gameboard.png
 tags: ['game', 'puzzle', 'classic']
 published: true
