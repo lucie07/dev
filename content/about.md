@@ -12,7 +12,7 @@ I am a Research IT Developer in the Research IT team, based in the [Digital Huma
 
 ### Before Exeter 
 
-Before joining the University of Exeter, I was a Research Software UI/UX Designer at [King's Digital Lab](https://kdl.kcl.ac.uk/), King’s College London. In this role, I worked on several AHRC/KCL-funded projects, including Brightening the Covenant Chain and King’s Past. Previously, I worked at Trinity College Dublin 2021-2022 as a Web Admin & e-Learning Technologist in the [School of Medicine](https://www.tcd.ie/medicine/). I spent the majority of my time there on a major Web Project centrally funded by the university. Alongside my university roles, I also spent time at [iBreve](https://www.ibreve.com/), a digital health startup. During this period, I contributed to TRUSTMEDICOS, an innovative project funded by EU Horizon 2020. 
+Before joining the University of Exeter, I was a Research Software UI/UX Designer at [King's Digital Lab](https://kdl.kcl.ac.uk/), King’s College London. In this role, I worked on several AHRC/KCL-funded projects, including Brightening the Covenant Chain and King’s Past. Previously, I worked at Trinity College Dublin 2021-2022 as a Web Admin & e-Learning Technologist in the [School of Medicine](https://www.tcd.ie/medicine/). I spent the majority of my time there on a major Web Project centrally funded by the university. Alongside my university roles, I also spent time at [iBreve](https://www.ibreve.com/), a digital health startup. During this period, I contributed to TRUSTMEDICOS, an innovation project funded by EU Horizon 2020. 
 
 ### What I Build 
 
