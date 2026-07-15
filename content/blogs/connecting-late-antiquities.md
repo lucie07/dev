@@ -3,7 +3,7 @@ title: Connecting Late Antiquities
 date: 15th May 2026
 description: Connecting Late Antiquities (CLA) is a collaborative project to create open, digital prosopographical resources for the Roman and post-Roman territories between the third and seventh centuries AD..
 image: /blogs-img/cla_feature-image.png
-alt: Connecting Late Antiquities
+alt: A weathered Byzantine fresco depicting a group of robed men inside Luxor Temple, Egypt
 ogImage: /blogs-img/cla_feature-image.png
 tags: ['eXist-db', 'XML', 'TEI', 'GeoJSON', 'mapping', 'geospatial data', 'UX/UI', 'Prosopography', 'colonial history', 'history', 'classics', 'Digital Humanities', 'AHRC', 'University of Exeter']
 published: true
@@ -17,9 +17,9 @@ Connecting Late Antiquities (CLA) is a collaborative project to create open, dig
 
 ### Context
 
-![A group of late antiquite people](blogs-img/cla_feature-image.png)
+![A weathered Byzantine fresco depicting a group of robed men inside Luxor Temple, Egypt](blogs-img/cla_feature-image.png)
 
-Image: “[Luxor Tempel 26c](https://commons.wikimedia.org/wiki/File:Luxor_Tempel_26c.jpg)”, original photograph by Olaf Tausch; derivative work by JMCC1, via Wikimedia Commons, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Cropped for display.
+A weathered Byzantine fresco depicting a group of robed men inside Luxor Temple, Egypt. Image: “[Luxor Tempel 26c](https://commons.wikimedia.org/wiki/File:Luxor_Tempel_26c.jpg)”, original photograph by Olaf Tausch; derivative work by JMCC1, via Wikimedia Commons, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Cropped for display.
 
 The pilot phase of Connecting Late Antiquities commenced in 2023 with two years of funding from the UK’s [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) and Germany’s [Deutsche Forschungsgemeinschaft](https://www.dfg.de/). Its main aim is the digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press.
 
