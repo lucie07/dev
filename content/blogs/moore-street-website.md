@@ -21,7 +21,7 @@ The website brings together historical research, visual material and digital sto
 
 ![A sketch of Moore Street Dublin](blogs-img/moore-street-dublin-feature-image.jpg)
 
-A sketch of Moore Street Dublin
+Moore Street Dublin pencil sketch by Irish artist [Desmond McCarthy](https://www.desmondmccarthy.com/)
 
 Moore Street is located in the centre of Dublin, yet its historical significance can be easy to miss in the everyday life of the city. During the 1916 Easter Rising, the street and its surrounding buildings became closely connected to the final stages of Easter Week. It was in this area that the leaders of the Rising gathered after leaving the General Post Office, and where important decisions were made as the situation became increasingly difficult.
 
