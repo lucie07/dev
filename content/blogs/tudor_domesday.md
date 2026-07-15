@@ -1,7 +1,7 @@
 ---
 title: Rediscovering the Tudor Domesday
 date: 11th March 2026
-description: National project launched to rediscover Henry VIII’s long-forgotten ‘Tudor Domesday Book’
+description: The survey, known as the Valor Ecclesiasticus, set out to discover the financial state of the Church of which the Tudor king had just made himself head in his Break with Rome..
 image: /blogs-img/tudor_domesday--feature-image.jpg
 alt: Title page of the Valor Ecclesiasticus
 ogImage: /blogs-img/tudor_domesday--feature-image.jpg
