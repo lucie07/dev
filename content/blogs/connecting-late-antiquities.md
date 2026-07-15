@@ -1,7 +1,7 @@
 ---
 title: Connecting Late Antiquities
 date: 15th May 2026
-description: The digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press. This three-volume reference work is being...
+description: Connecting Late Antiquities (CLA) is a collaborative project to create open, digital prosopographical resources for the Roman and post-Roman territories between the third and seventh centuries AD..
 image: /blogs-img/cla_feature-image.png
 alt: Connecting Late Antiquities
 ogImage: /blogs-img/cla_feature-image.png
