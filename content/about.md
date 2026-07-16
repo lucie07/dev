@@ -8,7 +8,7 @@ published: true
 
 ### About Me
 
-I am a Research IT Developer in the Research IT team, based in the [Digital Humanities Lab](https://www.exeter.ac.uk/research/digitalhumanities/digital-lab/) at the University of Exeter. My background brings together software development, design, and digital research. Over the past five years, my path has taken me through DH labs, universities and a startup in Ireland and the UK, where I have contributed to a wide range of multidisciplinary research and industrial projects. These projects have spanned various subject areas and disciplines, including cultural heritage, history, classics, languages and literature, art, film and media studies, as well as digital health technologies and the application of AI. 
+I am currently a Research IT Developer in the Research IT team, based in the [Digital Humanities Lab](https://www.exeter.ac.uk/research/digitalhumanities/digital-lab/) at the University of Exeter. My background brings together software development, design, and digital research. Over the past five years, my path has taken me through DH labs, universities and a startup in Ireland and the UK, where I have contributed to a wide range of multidisciplinary research and industrial projects. These projects have spanned various subject areas and disciplines, including cultural heritage, history, classics, languages and literature, art, film and media studies, as well as digital health technologies and the application of AI. 
 
 ### Before Exeter 
 
