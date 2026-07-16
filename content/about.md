@@ -1,6 +1,6 @@
 ---
 title: Lucie Mingmei Hao
-description: ""
+description: "I am currently a Research IT Developer in the Research IT team, based in the Digital Humanities Lab at the University of Exeter.."
 image: /lucie-mingmei-hao.jpg
 alt: Lucie Mingmei Hao profile image
 published: true
