@@ -1,7 +1,7 @@
 ---
 title: Learning Anglo-French
 date: 9th Jan 2026
-description: Learning Anglo-French, French Language-Learning Manuscripts in Britain, c.1200–c.1500 is an ERC/UKRI-funded research project based at the University of Exeter..
+description: French in medieval Britain was both a language of culture and power and a second mother tongue for a bilingual minority of the population..
 image: /blogs-img/laf_manuscript.jpg
 alt: Learning Anglo-French manuscript
 ogImage: /blogs-img/laf_manuscript.jpg
