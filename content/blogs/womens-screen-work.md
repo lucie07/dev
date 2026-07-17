@@ -1,7 +1,7 @@
 ---
 title: "Women's Screen Work in the Archives Made Visible"
 date: 26th Feb 2026
-description: Funded by the Arts and Humanities Research Council, the value of the four-year project is £1.49m. It will bring together archivists, curators, film directors and scholars to develop ways to make women’s work in film more discoverable and visible..
+description: The lost legacy of women who’ve worked in the British film industry since the dawn of sound in the cinema is to be the focus of a new national research project..
 image: /blogs-img/womens-screen-work_feature-image.png
 alt: Continuity Supervisor Pamela Davies sits taking notes
 ogImage: /blogs-img/womens-screen-work_feature-image.png
