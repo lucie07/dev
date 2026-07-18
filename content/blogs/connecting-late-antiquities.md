@@ -1,7 +1,7 @@
 ---
 title: Connecting Late Antiquities
 date: 15th May 2026
-description: Connecting Late Antiquities (CLA) is a collaborative project to create open, digital prosopographical resources for the Roman and post-Roman territories between the third and seventh centuries AD..
+description: Many of the resources used in the study of this ancient time involve prosopography – a form of research that brings together biographical information about particular individuals and groups in search of patterns and connections..
 image: /blogs-img/cla_feature-image.png
 alt: A weathered Byzantine fresco depicting a group of robed men inside Luxor Temple, Egypt
 ogImage: /blogs-img/cla_feature-image.png
