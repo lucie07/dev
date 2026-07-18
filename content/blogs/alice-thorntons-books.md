@@ -1,7 +1,7 @@
 ---
 title: "Alice Thornton’s Books"
 date: 28th Jan 2024
-description: Alice Thornton's Books - Remembrances of a Woman's Life in the Seventeenth Century is an AHRC-funded research project, in partnership with Durham Cathedral..
+description: By returning to the four manuscript Books themselves, the project makes it possible to explore Thornton’s writings in a fuller and more complex form..
 image: /blogs-img/alice-thornton-manuscript.jpg
 alt: A presumed missing volume by 17th century Yorkshire woman Alice Thornton has been found at Durham Cathedral Picture
 ogImage: /blogs-img/alice-thornton-manuscript.jpg
