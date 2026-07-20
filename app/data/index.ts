@@ -22,7 +22,7 @@ export const projectsPage = {
   description: 'This is a collection of projects I have worked on over time, spanning digital humanities, research software, interactive prototypes, games, film and music work, and creative digital practice.',
 }
 
-export const categoryPage = {
+export const themePage = {
   title: 'Themes',
   description: 'Explore themes created from tags across all projects.',
 }
