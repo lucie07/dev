@@ -10,7 +10,14 @@ const path = computed(() => route.fullPath.replace('/', ''))
       <div class="border-t-2 border-[#FFD77A]/60 dark:border-[#FFD77A]">
         <div class="py-9 md:py-10 flex items-center justify-center text-center">
           <p class="text-base font-medium text-zinc-700 dark:text-zinc-300">
-            © 2026 Lucie Mingmei Hao | Licensed under CC BY 4.0
+            © 2026 Lucie Mingmei Hao |
+            Licensed under
+            <a
+              href="https://creativecommons.org/licenses/by/4.0/"
+              class="underline hover:no-underline"
+            >
+              CC BY 4.0
+            </a>
           </p>
         </div>
       </div>
