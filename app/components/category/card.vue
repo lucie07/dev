@@ -21,7 +21,7 @@ const slugify = (value: string) =>
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '')
 
-const categoryPath = computed(() => `/categories/${slugify(props.title)}`)
+const categoryPath = computed(() => `/themes/${slugify(props.title)}`)
 </script>
 
 <template>
