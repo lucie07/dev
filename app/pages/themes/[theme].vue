@@ -13,14 +13,14 @@ const slugify = (value: string) =>
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
 
-const category = computed(() => {
-  const name = route.params.category || ''
+const theme = computed(() => {
+  const name = route.params.theme || ''
   const strName = Array.isArray(name) ? name.at(0) || '' : name
 
   return slugify(strName)
 })
 
-const { data } = await useAsyncData(`category-data-${category.value}`, () =>
+const { data } = await useAsyncData(`theme-data-${theme.value}`, () =>
   queryCollection('content')
     .all()
     .then((articles) =>
@@ -29,7 +29,7 @@ const { data } = await useAsyncData(`category-data-${category.value}`, () =>
         const tags = meta.tags || []
 
         return tags.some((tag) => {
-          return slugify(tag) === category.value
+          return slugify(tag) === theme.value
         })
       }),
     ),
@@ -53,22 +53,22 @@ const formattedData = computed(() => {
   }) || []
 })
 
-const displayCategory = computed(() => {
+const displayTheme = computed(() => {
   const posts = data.value || []
 
   for (const article of posts) {
     const meta = article.meta as unknown as BlogPost
     const tags = meta.tags || []
 
-    const matchedTag = tags.find((tag) => slugify(tag) === category.value)
+    const matchedTag = tags.find((tag) => slugify(tag) === theme.value)
 
     if (matchedTag) return matchedTag
   }
 
-  return category.value
+  return theme.value
 })
 
-const pageTitle = computed(() => displayCategory.value)
+const pageTitle = computed(() => displayTheme.value)
 
 useHead({
   title: pageTitle.value,
@@ -93,7 +93,7 @@ defineOgImage({
 
 <template>
   <main class="container max-w-5xl mx-auto text-zinc-600 px-4">
-    <CategoryTopic />
+    <ThemeTopic />
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       <BlogCard
