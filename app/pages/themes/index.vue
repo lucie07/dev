@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-const { data } = await useAsyncData('all-blog-post-by-category', () => queryCollection('content').all())
+const { data } = await useAsyncData('all-blog-post-by-theme', () => queryCollection('content').all())
 
 const allTags = new Map()
 
@@ -40,10 +40,10 @@ defineOgImage({
 
 <template>
   <main class="container max-w-5xl mx-auto text-zinc-600">
-    <CategoryHero />
+    <ThemeHero />
 
     <div class="flex flex-wrap px-6 mt-12 gap-3">
-      <CategoryCard
+      <ThemeCard
         v-for="topic in allTags"
         :key="topic[0]"
         :title="topic[0]"
