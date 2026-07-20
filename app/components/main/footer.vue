@@ -8,7 +8,7 @@ const path = computed(() => route.fullPath.replace('/', ''))
   <footer class="mt-10">
     <div class="px-6 container max-w-5xl mx-auto">
       <div class="border-t-2 border-[#FFD77A]/60 dark:border-[#FFD77A]">
-        <div class="py-9 md:py-10 flex items-center justify-center text-center">
+        <div class="py-9 md:py-10 flex flex-col items-center justify-center text-center gap-2">
           <p class="text-base font-medium text-zinc-700 dark:text-zinc-300">
             © 2026 Lucie Mingmei Hao |
             Licensed under
@@ -18,6 +18,24 @@ const path = computed(() => route.fullPath.replace('/', ''))
             >
               CC BY 4.0
             </a>
+          </p>
+
+          <p class="text-sm font-medium text-zinc-600 dark:text-zinc-400">
+            <NuxtLink
+              to="/accessibility"
+              class="underline hover:no-underline"
+            >
+              Accessibility Statement
+            </NuxtLink>
+
+            <span class="mx-2">|</span>
+
+            <NuxtLink
+              to="/privacy-policy"
+              class="underline hover:no-underline"
+            >
+              Privacy Policy
+            </NuxtLink>
           </p>
         </div>
       </div>
