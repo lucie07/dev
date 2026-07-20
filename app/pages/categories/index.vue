@@ -17,7 +17,7 @@ data.value?.forEach((blog) => {
 })
 
 useHead({
-  title: 'Categories',
+  title: 'Themes',
   meta: [
     {
       name: 'description',
@@ -31,7 +31,7 @@ const siteData = useSiteConfig()
 
 defineOgImage({
   props: {
-    title: 'Categories',
+    title: 'Themes',
     description: 'Browse projects by topic, including digital humanities, research software, web development, design, film, music, and creative digital practice.',
     siteName: siteData.url,
   },
