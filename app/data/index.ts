@@ -23,8 +23,8 @@ export const projectsPage = {
 }
 
 export const categoryPage = {
-  title: 'Categories',
-  description: 'Explore categories created from tags across all projects.',
+  title: 'Themes',
+  description: 'Explore themes created from tags across all projects.',
 }
 
 export const aboutPage = {
