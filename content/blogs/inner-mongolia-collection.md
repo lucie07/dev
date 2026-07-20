@@ -42,3 +42,7 @@ White Mongolian yurt. Bugthot, early Aug 2019. This was perhaps one of the hotte
 ![Layered hills](blogs-img/layered-hills.jpg)
 
 Layered hills dusted with snow beneath a bright, sunny winter sky. Hohhot, 23 Dec 2024. The photo was taken on 23 December 2024, one day before Christmas Eve. I still remember how excited I felt at that moment, after being away for a while. The last time I had been home was at Christmas in 2019, five whole years felt like a very long gap. As I travelled through Hohhot towards Bugthot, the journey began to feel almost unreal. I still couldn't believe it, Bugthot was suddenly so close that I felt I could almost sense it before I arrived. The cold, dry air and the bright winter sun were exactly as I remembered them. I was..more than happy to see those snow-dusted hills again.
+
+![Snow-dusted mountain](blogs-img/snow-dusted-mountain.jpg)
+
+Snow-dusted mountain. Hohhot, 24 Dec 2024. I had brought my coat, but it was colder than I expected. I had not worn boots, which I should have, my trainers were comfortable enough in aircraft cabins, but I think I had forgotten what below-zero temperatures actually felt like. A journey across half the world is always rather fascinating, with the changing time zones and long hours. The distance is roughly 5,000-5200 miles, or 8,100-8300 kilometres in total, and getting home usually takes a couple of days once the flights, connections, train journeys and waiting are all counted.
