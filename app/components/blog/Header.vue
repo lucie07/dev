@@ -58,7 +58,7 @@ const slugify = (value: string) =>
           <LogoTag />
 
           <template v-for="tag in tags" :key="tag">
-            <NuxtLink :to="`/categories/${slugify(tag)}`">
+            <NuxtLink :to="`/themes/${slugify(tag)}`">
               <span
                 class="bg-[#FFECC7] text-[#664700] dark:bg-[#996B00] dark:text-[#FFF4D6] rounded-md px-2 py-1 font-semibold hover:bg-[#FFE0A3] dark:hover:bg-[#664700] transition-colors duration-200"
               >
