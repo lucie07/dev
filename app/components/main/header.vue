@@ -100,11 +100,11 @@ watch(
 
         <li>
           <NuxtLink
-            to="/categories"
+            to="/themes"
             class="transition-colors duration-300"
-            :class="{ underline: isActive('/categories') }"
+            :class="{ underline: isActive('/themes') }"
           >
-            Categories
+            Themes
           </NuxtLink>
         </li>
 
