@@ -21,12 +21,12 @@ const slugify = (value: string) =>
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '')
 
-const categoryPath = computed(() => `/themes/${slugify(props.title)}`)
+const themePath = computed(() => `/themes/${slugify(props.title)}`)
 </script>
 
 <template>
   <NuxtLink
-    :to="categoryPath"
+    :to="themePath"
     class="block text-white bg-[#996B00] hover:bg-[#664700] px-5 py-3 rounded hover:underline hover:scale-[1.05] transition-all duration-500 text-lg font-extrabold"
   >
     <span>#{{ title }}({{ count }})</span>
