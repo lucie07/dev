@@ -23,6 +23,10 @@ Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps on
 
 A camel in the shade. Bugthot, 2010-2012. There were plenty of two-humped camels around, and for quite a long time I thought all camels looked like this. Even the camels I saw in films seemed to be double-humped, so I only discovered the one-humped dromedary, or Arabian camel, later through pictures in books. I have still never seen one in real life. The two-humped ones are Bactrian camels, the Mongolian camels I grew up seeing. They are usually gentle and friendly. I wish I had stepped a little closer when I took this photo.
 
+![Sand dunes](blogs-img/sand-dunes.jpg)
+
+Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
+
 ![Rocky hillside](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
