@@ -23,6 +23,10 @@ Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps on
 
 A camel in the shade. Bugthot, 2010-2012. There were plenty of two-humped camels around, and for quite a long time I thought all camels looked like this. Even the camels I saw in films seemed to be double-humped, so I only discovered the one-humped dromedary, or Arabian camel, later through pictures in books. I have still never seen one in real life. The two-humped ones are Bactrian camels, the Mongolian camels I grew up seeing. They are usually gentle and friendly. I wish I had stepped a little closer when I took this photo.
 
+![Tengger Stud-farm](blogs-img/tengger-stud-farm.jpg)
+
+Tengger Stud-farm. Sayhan Tala, Bugthot, 2011-2012. Well, I like to think of signs like this as an Inner Mongolian Rosetta Stone, except they are not rare at all: here, trilingual signs like this are everywhere. This wooden sign displays Mongolian script, Mandarin Chinese, and English, a combination I have seen on both official and privately made signs. It may be too simple to decide which should be called the local, ethnic, national, or international language, but from my biased perspective, the region’s linguistic landscape often feels distinctly trilingual. These signs have always been such an ordinary part of the city view that I barely noticed how unusual they might seem elsewhere.
+
 ![Sand dunes](blogs-img/sand-dunes.jpg)
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
