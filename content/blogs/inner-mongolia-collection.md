@@ -31,6 +31,10 @@ Tengger Stud-farm. Sayhan Tala, Bugthot, 2011-2012. Well, I like to think of sig
 
 An open-pit coal mine. Salaqi, Tumed Right Banner, 2010-2012. In Bugthot and the surrounding areas, thousands of homes including mine have relied on coal for heating for a very long time. People in Inner Mongolia love coals.. coal is deeply embedded in everyday life here. At my home, our boilers and pipework, particularly the heating system are built within the coal system. It is easy to say that homes should move towards electricity or renewable energy, or hybrid at least, but the change can be disruptive and expensive, when so much of the existing infrastructure was designed around coal.
 
+![A terraced coalfield of dark rock](blogs-img/coalfield-of-dark-rock.jpg)
+
+A terraced coalfield of dark rock. Salaqi, Tumed Right Banner, 2010-2012. Well, this is only one coalfield among many. At the same time, the surrounding landscape is already filled with wind turbines and solar panels, so old and new energy systems sit side by side in a rather uneasy way. Despite the visible shift towards greener energy, coal consumption in Inner Mongolia has remained substantial, while exports have continued to rise, and this dependence is unlikely to disappear quickly. The environmental cost is difficult to ignore, even if it has not always received the attention it deserves. It is painful to think that the land, air, and water may ultimately carry the price.. the sky seemed bluer when I was a child.
+
 ![Sand dunes](blogs-img/sand-dunes.jpg)
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
