@@ -43,6 +43,10 @@ Mountain canyon. Bugthot, late July 2019. I loved disappearing into valleys like
 
 Green hillside. Bugthot, late July 2019. In the valley, time felt slower. I was beginning to prepare for my master, and it felt like I had been given a small pause before everything moved forward again. 
 
+![Clouds over a shadowed mountain ridge](blogs-img/clouds-over-a-shadowed-mountain-ridge.jpg)
+
+Clouds over a shadowed mountain ridge. Bugthot, early Aug 2019. I have always loved seeing valleys in the rain. A thin veil of rain was almost hidden in the shadows. I saw rainbows beyond the ridge too, I’ll have to dig out that image later. I was excited that the autumn term was only a couple of weeks away, but also a little nervous about moving to a new university, a new city, and everything waiting ahead.
+
 ![White Mongolian yurt](blogs-img/white-yurt.jpg)
 
 White Mongolian yurt. Bugthot, early Aug 2019. This was perhaps one of the hottest days of the year in Inner Mongolia. The image was slightly overexposed, and I still think I should learn more on how to fix it properly. The sun was quite strong, but after spending nine or ten months in Ireland, I missed this kind of sunlight so much.
