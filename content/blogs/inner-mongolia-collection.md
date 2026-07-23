@@ -19,6 +19,10 @@ I sometimes wish Inner Mongolia could be fully captured and recorded. My collect
 
 Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps one of my strongest impressions of the place: wind turbines, and then more wind turbines. I never knew when they were built, but they seemed to have been there for a while, quietly becoming part of the grassland.  
 
+![Wetland with waterways and reeds](blogs-img/wetland-with-waterways.jpg)
+
+Wetland with waterways and reeds. Ergun, Hulunbuir, 2010-2011. The Ergun Wetlands are often described as among the largest wetland areas in Asia. The place is a mixture of nature, culture, and lots of fun. Each season brings a different colour to the landscape. Birdwatching is one of the joys of the area, as more than 300 bird species are said to live in the area, including the swan goose. I suspect they were hidden among the reeds when I took this photo. Whenever I see a swan goose, a song begins looping in my head. Swan Goose is a traditional Mongolian folk song. The genre is a Urad ballad, it seems to have originated in Bayannur along the Sino-Mongolian border. This ballad is rooted in my life and sung by many, I’ve been hearing the same old melody since childhood. In my heart, the swan goose has always felt like the unofficial bird of Inner Mongolia.
+
 ![A camel in the shade](blogs-img/camel-in-the-shade.jpg)
 
 A camel in the shade. Bugthot, 2010-2012. There were plenty of two-humped camels around, and for quite a long time I thought all camels looked like this. Even the camels I saw in films seemed to be double-humped, so I only discovered the one-humped dromedary, or Arabian camel, later through pictures in books. I have still never seen one in real life. The two-humped ones are Bactrian camels, the Mongolian camels I grew up seeing. They are usually gentle and friendly. I wish I had stepped a little closer when I took this photo.
