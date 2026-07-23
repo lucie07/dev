@@ -31,6 +31,10 @@ A camel in the shade. Bugthot, 2010-2012. There were plenty of two-humped camels
 
 Tengger Stud-farm. Sayhan Tala, Bugthot, 2011-2012. Well, I like to think of signs like this as an Inner Mongolian Rosetta Stone, except they are not rare at all: here, trilingual signs like this are everywhere. This wooden sign displays Mongolian script, Mandarin Chinese, and English, a combination I have seen on both official and privately made signs. It may be too simple to decide which should be called the local, ethnic, national, or international language, but from my biased perspective, the region’s linguistic landscape often feels distinctly trilingual. These signs have always been such an ordinary part of the city view that I barely noticed how unusual they might seem elsewhere.
 
+![Rows of solar panels](blogs-img/rows-of-solar-panels.jpg)
+
+Rows of solar panels stretch across the hillside. Ulanqab, 2010-2012. I suppose this image shows only the tip of the iceberg when it comes to the rapidly expanding footprint of solar farms. Projects like this generate thousands kilowatt of electricity for Inner Mongolia and other regions, and I hope they are making a meaningful contribution to renewable energy production. I don't yet know whether more solar farms mean less use of coal, and I still wonder how many of those familiar hillsides will disappear and eventually become rows of solar mountains.
+
 ![An open-pit coal mine](blogs-img/open-pit-coal-mine.jpg)
 
 An open-pit coal mine. Salaqi, Tumed Right Banner, 2010-2012. In Bugthot and the surrounding areas, thousands of homes including mine have relied on coal for heating for a very long time. People in Inner Mongolia love coals.. coal is deeply embedded in everyday life here. At my home, our boilers and pipework, particularly the heating system are built within the coal system. It is easy to say that homes should move towards electricity or renewable energy, or hybrid at least, but the change can be disruptive and expensive, when so much of the existing infrastructure was designed around coal.
