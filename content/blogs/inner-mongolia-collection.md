@@ -51,6 +51,10 @@ A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mong
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
 
+![Sand dunes with a fence line](blogs-img/sand-dunes-with-a-fence-line.jpg)
+
+Sand dunes with a fence line. Alashan Plateau, Gobi Desert, 2017-2018. I love sand sliding. It is especially fun on larger dunes, where the slope is long enough to build up a bit of speed before reaching the bottom. Dunes are formed by wind and sand, and each dune has a windward side and a slip face. The slip face is the best part for sliding. I do not have proper sandboards or sand sleds, but most of the time the sand is smooth enough for me. 
+
 ![Rocky hillside](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
