@@ -156,7 +156,7 @@ defineOgImage({
           >
             <Icon
               name="mdi:code-less-than"
-              size="30"
+              size="40"
               :class="pageNumber > 1
                 ? 'text-[#755200] dark:text-[#FFD77A]'
                 : 'text-[#996B00]/40 dark:text-[#FFECC7]/60'"
@@ -174,7 +174,7 @@ defineOgImage({
           >
             <Icon
               name="mdi:code-greater-than"
-              size="30"
+              size="40"
               :class="pageNumber < totalPage
                 ? 'text-[#755200] dark:text-[#FFD77A]'
                 : 'text-[#996B00]/40 dark:text-[#FFECC7]/60'"
