@@ -43,6 +43,10 @@ An open-pit coal mine. Salaqi, Tumed Right Banner, 2010-2012. In Bugthot and the
 
 A terraced coalfield of dark rock. Salaqi, Tumed Right Banner, 2010-2012. Well, this is only one coalfield among many. At the same time, the surrounding landscape is already filled with wind turbines and solar panels, so old and new energy systems sit side by side in a rather uneasy way. Despite the visible shift towards greener energy, coal consumption in Inner Mongolia has remained substantial, while exports have continued to rise, and this dependence is unlikely to disappear quickly. The environmental cost is difficult to ignore, even if it has not always received the attention it deserves. It is painful to think that the land, air, and water may ultimately carry the price.. the sky seemed bluer when I was a child.
 
+![A Mongolian ovoo with khadags](blogs-img/a-mongolian-ovoo-with-khadag.jpg)
+
+A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mongolian, is a stone cairn. This one was huge, larger than a yurt, I think. I have also seen wooden ovoos, and others tied with many different coloured khadags, which are silk scarves, but stone ovoos with blue khadags are the ones I remember most. Blue khadags are believed to be special and are often associated with the sky spirit Tengger. 
+
 ![Sand dunes](blogs-img/sand-dunes.jpg)
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
