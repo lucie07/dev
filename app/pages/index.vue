@@ -17,7 +17,7 @@ defineOgImageComponent('About', {
   headline: 'Hello there',
   title: navbarData.homeTitle,
   description: 'Web, research and design',
-  link: '/image-10-resized.png',
+  link: '/lucie-mingmei-hao.jpg',
 })
 </script>
 
