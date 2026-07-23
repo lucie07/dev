@@ -55,6 +55,10 @@ Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwes
 
 Sand dunes with a fence line. Alashan Plateau, Gobi Desert, 2017-2018. I love sand sliding. It is especially fun on larger dunes, where the slope is long enough to build up a bit of speed before reaching the bottom. Dunes are formed by wind and sand, and each dune has a windward side and a slip face. The slip face is the best part for sliding. I do not have proper sandboards or sand sleds, but most of the time the sand is smooth enough for me. 
 
+![Rippled sand dunes](blogs-img/rippled-sand-dunes.jpg)
+
+Rippled sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. The rippled dunes were not as soft as they looked.I found them quite hard to walk through; the wind-shaped ridges were firm underfoot, almost like climbing uneven stairs or hiking. The desert is a mix of soft and hard sand, and I learned that footwear matters a lot. In summer, I like wearing sandals, sometimes with socks, because the sand can pass through more easily. In winter, proper boots and cold-weather gear are definitely needed. The Gobi can be icy and windy, with cold air and snow coming down from the north. I’m tempted to capture the view of snow dunes and ice canyons, in early January next time I visit.
+
 ![Rocky hillside](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
