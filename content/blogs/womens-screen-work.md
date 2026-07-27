@@ -44,4 +44,5 @@ I am also exploring innovative ways to present the data and visualise the insigh
 ### Project Links
 
 - [Project URL](https://womensscreenwork.exeter.ac.uk/)
+- Project database: Currently under development and will be added once publicly available.
 - [UKRI Gateway to Research profile](https://gtr.ukri.org/projects?ref=AH%2FZ50595X%2F1#/tabOverview)
