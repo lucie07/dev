@@ -20,7 +20,7 @@ More recently, I have focused on collaborative computational projects for arts a
 
 ### Current Projects
 
-At Exeter, I am currently the developer for the AHRC-funded project Women's Screen Work in the Archives Made Visible, with Prof. Helen M Hanson (PI) and the project team; the ERC/UKRI-funded research project Learning Anglo-French, with Thomas Hinton (PI) and the project team; and the AHRC-funded project Rediscovering the Tudor Domesday, with Prof. James Clark (PI) and Dr. Charlotte Tupman (Co-I). I have also been the developer for the AHRC/DFG-funded project Connecting Late Antiquities, with Prof. Richard Flower (PI), Prof. Julia Hillner (PI), Dr. Charlotte Tupman (Co-I) and Dr Gabriel Bodard (Co-I).
+At Exeter, I am currently the developer for the AHRC-funded project [Women's Screen Work in the Archives Made Visible](/projects/womens-screen-work/), with Prof. Helen M Hanson (PI) and the project team; the ERC/UKRI-funded research project Learning Anglo-French, with Thomas Hinton (PI) and the project team; and the AHRC-funded project Rediscovering the Tudor Domesday, with Prof. James Clark (PI) and Dr. Charlotte Tupman (Co-I). I have also been the developer for the AHRC/DFG-funded project Connecting Late Antiquities, with Prof. Richard Flower (PI), Prof. Julia Hillner (PI), Dr. Charlotte Tupman (Co-I) and Dr Gabriel Bodard (Co-I).
 
 ### How I Work
 
