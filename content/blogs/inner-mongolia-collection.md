@@ -53,6 +53,10 @@ Bugthot literally means “place with deer” in the Mongolian language. “Baot
 
 A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mongolian, is a stone cairn. This one was huge, larger than a yurt, I think. I have also seen wooden ovoos, and others tied with many different coloured khadags, which are silk scarves, but stone ovoos with blue khadags are the ones I remember most. Blue khadags are believed to be special and are often associated with the sky spirit Tengger. 
 
+![Three sheep](blogs-img/three-sheep.jpg)
+
+Three sheep walk across a hillside. Ordos, around summer 2015. When I was packing for the new term for college, I took my mum's advice and put a cashmere jumper in my suitcase. It was not handmade but 100% produced in Bugthot, my favourite as always, cannot live without cashmere. In Ireland, it's not very common to encounter wool. The clearest trace I found was in knitting shops, with Irish yarn balls dyed in all sorts of colours. But in the town where I lived, most of the clothes I came across seemed to be cotton, synthetic fibres, or blends. Perhaps Dublin had more choice, and perhaps I was looking in the wrong places. Still, with so many sheep in Ireland, it's been a mystery to me: where had all the wool gone? Where on earth had it gone?
+
 ![Sand dunes](blogs-img/sand-dunes.jpg)
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
