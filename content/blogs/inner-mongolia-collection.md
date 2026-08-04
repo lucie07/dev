@@ -29,7 +29,7 @@ A frozen lake covered in snow. Nanhai Wetland, southeast of Bugthot. 2012-2014. 
 
 ![A crescent moon peeks through clouds at twilight](blogs-img/crescent-moon-at-twilight.jpg)
 
-A crescent moon peeks through clouds at twilight. Darhan Muminggan, Bugthot, 2014-2015. Winter is also the best time for stargazing. I loved sky gazing. I used to spend hours looking up at the night sky. It was exciting to spot dozens of star clusters and constellations with the naked eye. There is even a rare chance to see the Northern Lights here under clear and dark skies. It was one of my childhood dreams, though I have had no luck so far. I tried hunting for faint stars from the star maps, but I was more interested in the bigger questions of what else might be up there. I think I still carry some of that spark, along with plenty of unanswered questions from my earlier attempts at backyard astronomy..part of the winter’s mystery I guess.
+A crescent moon peeks through clouds at twilight. Darhan Muminggan, Bugthot, 2012-2014. Winter is also the best time for stargazing. I loved sky gazing. I used to spend hours looking up at the night sky. It was exciting to spot dozens of star clusters and constellations with the naked eye. There is even a rare chance to see the Northern Lights here under clear and dark skies. It was one of my childhood dreams, though I have had no luck so far. I tried hunting for faint stars from the star maps, but I was more interested in the bigger questions of what else might be up there. I think I still carry some of that spark, along with plenty of unanswered questions from my earlier attempts at backyard astronomy..part of the winter’s mystery I guess.
 
 ![Tengger Stud-farm](blogs-img/tengger-stud-farm.jpg)
 
