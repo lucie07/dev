@@ -13,6 +13,10 @@ published: true
 
 A small selection of artwork I created during an early part of my creative journey. These works capture a time when I was exploring various art forms with my pen.
 
+### Portrait of My Violin Teacher/Paganini
+
+![Portrait of My Violin Teacher/Paganini](blogs-img/man-and-the-violin.jpg)
+
 ### Botanic Garden in Bugthot
 
 ![Botanic Garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
