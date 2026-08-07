@@ -17,6 +17,10 @@ A small selection of artwork I created during an early part of my creative journ
 
 ![Portrait of My Violin Teacher/Paganini](blogs-img/man-and-the-violin.jpg)
 
+Portrait of My Violin Teacher/Paganini, c. 2005
+
+I don't remember everything from when I was little, but I think I made this pencil drawing of my violin teacher around 2005 in Bugthot. It was created on A3 paper. I most likely drew it in our old home, and I have no idea how it managed to survive. My violin teacher looks a little like the violinist Niccolò Paganini, at least as he appears in several nineteenth-century paintings and portraits. It was a resemblance I kept talking about at the time. I don't think I had ever tried to play any Caprices by that point, but the drawing feels like a small and unintentional homage to Paganini.
+
 ### Botanic Garden in Bugthot
 
 ![Botanic Garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
