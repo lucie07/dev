@@ -31,7 +31,7 @@ The need for a late-antique prosopography has long been recognised, with Theodor
 
 ![cla map showing geolocated place entries](blogs-img/cla--map-index.png)
 
-Connecting Late Antiquities interactive map, showing Illyricum selected and geolocated place entries across the database. Screenshot from the project website. Map data © OpenStreetMap contributors.
+Connecting Late Antiquities interactive map, showing Illyricum selected and geolocated place entries across the database. Screenshot from the CLA project website. Map data © OpenStreetMap contributors.
 
 As part of the CLA team, in my role as a developer, I focused on the design and development of the project’s digital resources in eXist-db, incorporating the case studies, PLRE and PCBE. The CLA resource is integrated with the digital edition of the revised open-access Prosopography of the Later Roman Empire (PLRE), which is encoded and marked up in TEI XML.
 
