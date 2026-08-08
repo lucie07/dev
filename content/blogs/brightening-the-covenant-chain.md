@@ -25,7 +25,7 @@ Brightening the Covenant Chain investigates the cultures of diplomacy from 1677-
 
 ![Brightening the Covenant map](blogs-img/bcc--explore-mode-filter.png)
 
-Brightening the Covenant Chain explore mode filter
+Brightening the Covenant Chain Explore Mode interface, showing the interactive map alongside filters for historical maps and mapped features, including Indigenous and European settlements and placenames. Screenshot from the BCC project website.
 
 ### Project Links
 
