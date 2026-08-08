@@ -29,7 +29,7 @@ By returning to the four manuscript Books themselves, the project makes it possi
 
 ![Alice Thornton Accessibility Statement page](blogs-img/alice_thornton--accessibility-statement-page.png) 
 
-Alice Thornton Accessibility Statement page
+Alice Thornton’s Books Accessibility Statement, as reviewed in January 2024, outlining accessibility testing, known issues and the website’s compliance status against WCAG 2.1 AA at the time. Screenshot from the AT project website.
 
 I worked on Alice Thornton’s Books during my time at King’s Digital Lab, King’s College London, with a focus on digital accessibility. My role involved reviewing the website and digital edition to identify accessibility issues and suggest practical improvements. 
 
