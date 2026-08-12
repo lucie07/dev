@@ -37,6 +37,12 @@ Mongolian Woman with a Camel, 2007
 
 I created this ink drawing of a Mongolian woman with a camel in 2007, in Inner Mongolia. At the time, I was interested in capturing the textures of traditional Mongolian clothing, the woman’s hair, and the rough form of the camel. The camel would likely have worn a wooden bell, often known as a camel bell, although it is not shown in much detail in the drawing.
 
+### Marcus Agrippa Plaster Cast
+
+![Marcus Agrippa Plaster Cast](blogs-img/marcus-agrippa-plaster-cast-drawing.jpg)
+
+Marcus Agrippa Plaster Cast, c. 2008
+
 ### Teen Portrait
 
 ![Teen Portrait](blogs-img/teen-portrait.jpg)
