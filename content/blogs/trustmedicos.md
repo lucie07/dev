@@ -19,7 +19,11 @@ TRUSTMEDICOS: Creating trust in health information on social networks by tacklin
 
 TRUSTMEDICOS @iBreve
 
-Health related misinformation can have devastating effects on individuals, their family and society at large. Although many great initiatives against misinformation exist, the problem remains unsolved to date. This white paper aims to better understand the causes & drivers of creating, distributing and consuming health misinformation. For this, key psychological and technological biases are analyzed regarding their impact on the consumption and distribution of health misinformation in social networks. Further their interplay with different solution approaches, namely the flagging & removal of misinformation versus the highlighting of high quality information, is explored. Following the research recommendations of public health authorities like the WHO, the TRUSTMEDICOS project strives to contribute to solving this problem with a transparent blockchain based trust and reputation model that uses a reporting & reviewing mechanism conducted by social network users and trusted health experts. The developed solution concept design and our research findings are presented and their potential to support the fight against misinformation is discussed.
+Trust is essential to society and as a species, humans are wired to trust one another. When using social media, we want to believe that the information appearing in our feeds is accurate and supported by evidence.
+
+Social media has become one of the most significant sources of health information, but it provides relatively few safeguards against misinformation. Health-related misinformation and distrust can be a particularly toxic combination, causing people to reject clinically proven interventions such as vaccines, disregard public health guidance, or try unproven and potentially dangerous therapies (WHO). 
+
+TRUSTMEDICOS aimed to create greater trust in health information, particularly on social networks, by tackling shared misinformation through a blockchain-based trust and reputation model.
 
 ### Project Links
 
