@@ -5,7 +5,7 @@ description: TRUSTMEDICOS - creating trust in health information on social netwo
 image: /blogs-img/trustmedicos--logo-square.png
 alt: TRUSTMEDICOS logo @iBreve
 ogImage: /blogs-img/trustmedicos--logo-square.png
-tags: ['Digital Health', 'Misinformation', 'Social networks', 'Digital trust', 'Cognitive biases', 'Blockchain', 'Decentralized solutions', 'Network infrastructure']
+tags: ['Digital Health', 'Misinformation', 'Social networks', 'Digital trust', 'Cognitive biases', 'Blockchain', 'Decentralized solutions', 'Network infrastructure', 'Research & Development']
 published: true
 ---
 
