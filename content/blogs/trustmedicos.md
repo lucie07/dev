@@ -17,7 +17,7 @@ published: true
 
 ![TRUSTMEDICOS logo @iBreve](blogs-img/trustmedicos--logo-square.png)
 
-**TRUST**MEDICOS @iBreve
+**TRUST**MEDICOS logo @iBreve
 
 Trust is essential to society and as a species, humans are wired to trust one another. When using social media, we want to believe that the information appearing in our feeds is accurate and supported by evidence.
 
