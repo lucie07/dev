@@ -1,7 +1,7 @@
 ---
 title: TRUSTMEDICOS
 date: 1st Sep 2025
-description: TRUSTMEDICOS project has received funding from the EuropeanUnion’s Horizon 2020 research and innovation programme. It aims to tackle health misinformation and achieve a trustworthy health information exchange.
+description: TRUSTMEDICOS - creating trust in health information on social networks by tackling shared misinformation project was funded by the European Union’s Horizon 2020 research and innovation programme..
 image: /blogs-img/trustmedicos--logo-square.png
 alt: TRUSTMEDICOS logo @iBreve
 ogImage: /blogs-img/trustmedicos--logo-square.png
