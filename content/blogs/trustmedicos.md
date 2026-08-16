@@ -27,7 +27,7 @@ Social media has become one of the most significant sources of health informatio
 
 ### Tackling health misinformation in social media: Understanding the role of psychological and technological biases in content moderation
 
-During my time at iBreve, a Dublin-based digital health startup founded in 2017, I worked across Innovation Management, Research & Technological Development. Working in a small multidisciplinary team alongside project leads and senior web developers, I contributed to the development of digital solutions for **TRUST**MEDICOS. 
+During my time at [iBreve](https://www.ibreve.com/), a Dublin-based digital health startup founded in 2017, I worked across Innovation Management, Research & Technological Development. Working in a small multidisciplinary team alongside project leads and senior web developers, I contributed to the development of digital solutions for **TRUST**MEDICOS. 
 
 My user research combined qualitative and quantitative approaches to investigate user behaviours, expectations and potential barriers to trust. I analysed use cases, mapped interactions between health experts and patients, and researched end users and markets across Ireland and the wider EU. These findings helped define the platform’s user requirements and informed its proposed decentralised and transparent blockchain-based model.
 
