@@ -11,7 +11,7 @@ published: true
 
 ### Overview
 
-TRUSTMEDICOS: Creating trust in health information on social networks by tackling shared misinformation project was funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 957228. It was selected as one of 45 funded projects funded through the TruBlo open calls, which supported innovative ideas toward “trustable content on future blockchains”. TruBlo was an EU-funded project and part of the NGI (Next Generation Internet) initiative. Within this wider programme, TRUSTMEDICOS aimed to tackle health misinformation and achieve a trustworthy health information exchange.
+**TRUST**MEDICOS: Creating trust in health information on social networks by tackling shared misinformation project was funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 957228. It was selected as one of 45 funded projects funded through the TruBlo open calls, which supported innovative ideas toward “trustable content on future blockchains”. TruBlo was an EU-funded project and part of the NGI (Next Generation Internet) initiative. Within this wider programme, TRUSTMEDICOS aimed to tackle health misinformation and achieve a trustworthy health information exchange.
 
 ### Context
 
