@@ -5,7 +5,7 @@ description: TRUSTMEDICOS project has received funding from the EuropeanUnion’
 image: /blogs-img/trustmedicos--logo-square.png
 alt: TRUSTMEDICOS logo @iBreve
 ogImage: /blogs-img/trustmedicos--logo-square.png
-tags: ['Digital Health', 'Misinformation', 'Social Networks', 'Cognitive Bias']
+tags: ['Digital Health', 'Misinformation', 'Social networks', 'Digital trust', 'Cognitive biases', 'Blockchain', 'Decentralized solutions', 'Network infrastructure']
 published: true
 ---
 
