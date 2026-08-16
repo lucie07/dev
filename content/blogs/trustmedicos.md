@@ -21,7 +21,7 @@ published: true
 
 Trust is essential to society and as a species, humans are wired to trust one another. When using social media, we want to believe that the information appearing in our feeds is accurate and supported by evidence.
 
-Social media has become one of the most significant sources of health information, but it provides relatively few safeguards against misinformation. Health-related misinformation and distrust can be a particularly toxic combination, causing people to reject clinically proven interventions such as vaccines, disregard public health guidance, or try unproven and potentially dangerous therapies (WHO). 
+Social media has become one of the most significant sources of health information, but it provides relatively few safeguards against misinformation. Health-related misinformation and distrust can be a particularly toxic combination, causing people to reject clinically proven interventions such as vaccines, disregard public health guidance, or try unproven and potentially dangerous therapies ([WHO](https://www.who.int/)). 
 
 **TRUST**MEDICOS aimed to create greater trust in health information, particularly on social networks, by tackling shared misinformation through a blockchain-based trust and reputation model.
 
