@@ -21,7 +21,7 @@ Connecting Late Antiquities (CLA) is a collaborative project to create open, dig
 
 A weathered Byzantine fresco depicting a group of robed men inside Luxor Temple, Egypt. Image: “[Luxor Tempel 26c](https://commons.wikimedia.org/wiki/File:Luxor_Tempel_26c.jpg)”, original photograph by Olaf Tausch; derivative work by JMCC1, via Wikimedia Commons, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Cropped for display.
 
-The pilot phase of Connecting Late Antiquities commenced in 2023 with two years of funding from the UK’s [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) and Germany’s [Deutsche Forschungsgemeinschaft](https://www.dfg.de/)(DFG, German Research Foundation). Its main aim is the digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press.
+The pilot phase of Connecting Late Antiquities commenced in 2023 with two years of funding from the UK’s [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) and Germany’s [Deutsche Forschungsgemeinschaft](https://www.dfg.de/) (DFG, German Research Foundation). Its main aim is the digitisation of the Prosopography of the Later Roman Empire, with permission from Cambridge University Press.
 
 Many of the resources used in the study of this ancient time involve prosopography – a form of research that brings together biographical information about particular individuals and groups in search of patterns and connections. But often, key texts, such as the Prosopography of the Later Roman Empire, have remained relatively inaccessible either as expensive print publications found in reference-only volumes in university libraries, or in the form of specialist databases.
 
