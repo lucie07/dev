@@ -43,7 +43,7 @@ onUnmounted(() => {
 
 // Get previous and next post navigation
 // Still uses internal /blogs/... path for now, as useBlogNavigation likely works with blog content paths.
-// const { previousPost, nextPost } = await useBlogNavigation(contentPath)
+const { previousPost, nextPost } = await useBlogNavigation(contentPath)
 
 const data = computed<BlogPost>(() => {
   const article = articles.value as ContentItem | null
