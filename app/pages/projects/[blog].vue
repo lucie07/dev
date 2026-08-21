@@ -75,71 +75,75 @@ const data = computed<BlogPost>(() => {
 
 const tocLinks = computed(() => (articles.value as ContentItem | null)?.body?.toc?.links || [])
 
-useHead(() => ({
-  title: data.value.title || '',
-  meta: [
-    {
-      name: 'description',
-      content: data.value.description,
-    },
-    // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
-    {
-      property: 'og:site_name',
-      content: navbarData.homeTitle,
-    },
-    {
-      property: 'og:type',
-      content: 'website',
-    },
-    {
-      property: 'og:url',
-      content: `${seoData.mySite}${publicPath.value}`,
-    },
-    {
-      property: 'og:title',
-      content: data.value.title,
-    },
-    {
-      property: 'og:description',
-      content: data.value.description,
-    },
-    {
-      property: 'og:image',
-      content: data.value.ogImage || data.value.image,
-    },
-    // Test on: https://cards-dev.twitter.com/validator or https://socialsharepreview.com/
-    {
-      name: 'twitter:site',
-      content: '@qdnvubp',
-    },
-    {
-      name: 'twitter:card',
-      content: 'summary_large_image',
-    },
-    {
-      name: 'twitter:url',
-      content: `${seoData.mySite}${publicPath.value}`,
-    },
-    {
-      name: 'twitter:title',
-      content: data.value.title,
-    },
-    {
-      name: 'twitter:description',
-      content: data.value.description,
-    },
-    {
-      name: 'twitter:image',
-      content: data.value.ogImage || data.value.image,
-    },
-  ],
-  link: [
-    {
-      rel: 'canonical',
-      href: `${seoData.mySite}${publicPath.value}`,
-    },
-  ],
-}))
+useHead(() => {
+  if (!articles.value) {
+    return {}
+  }
+
+  return {
+    title: data.value.title || '',
+    meta: [
+      {
+        name: 'description',
+        content: data.value.description,
+      },
+      {
+        property: 'og:site_name',
+        content: navbarData.homeTitle,
+      },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        property: 'og:url',
+        content: `${seoData.mySite}${publicPath.value}`,
+      },
+      {
+        property: 'og:title',
+        content: data.value.title,
+      },
+      {
+        property: 'og:description',
+        content: data.value.description,
+      },
+      {
+        property: 'og:image',
+        content: data.value.ogImage || data.value.image,
+      },
+      {
+        name: 'twitter:site',
+        content: '@qdnvubp',
+      },
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        name: 'twitter:url',
+        content: `${seoData.mySite}${publicPath.value}`,
+      },
+      {
+        name: 'twitter:title',
+        content: data.value.title,
+      },
+      {
+        name: 'twitter:description',
+        content: data.value.description,
+      },
+      {
+        name: 'twitter:image',
+        content: data.value.ogImage || data.value.image,
+      },
+    ],
+    link: [
+      {
+        rel: 'canonical',
+        href: `${seoData.mySite}${publicPath.value}`,
+      },
+    ],
+  }
+})
 
 // Generate OG Image
 const article = articles.value as ContentItem | null
