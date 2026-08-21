@@ -81,7 +81,7 @@ const data = computed<BlogPost>(() => {
 
 const tocLinks = computed(() => (articles.value as ContentItem | null)?.body?.toc?.links || [])
 
-useHead({
+useHead(() => ({
   title: data.value.title || '',
   meta: [
     {
@@ -99,7 +99,7 @@ useHead({
     },
     {
       property: 'og:url',
-      content: `${seoData.mySite}${publicPath}`,
+      content: `${seoData.mySite}${publicPath.value}`,
     },
     {
       property: 'og:title',
@@ -124,7 +124,7 @@ useHead({
     },
     {
       name: 'twitter:url',
-      content: `${seoData.mySite}${publicPath}`,
+      content: `${seoData.mySite}${publicPath.value}`,
     },
     {
       name: 'twitter:title',
@@ -142,10 +142,10 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `${seoData.mySite}${publicPath}`,
+      href: `${seoData.mySite}${publicPath.value}`,
     },
   ],
-})
+}))
 
 // Generate OG Image
 const article = articles.value as ContentItem | null
