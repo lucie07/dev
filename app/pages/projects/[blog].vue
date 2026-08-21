@@ -14,21 +14,15 @@ const projectKey = computed(() => `project-post-${slug.value}`)
 
 const { data: articles, error } = await useAsyncData(
   projectKey,
-  async () => {
-    const article = await queryCollection('content')
+  () =>
+    queryCollection('content')
       .path(contentPath.value)
       .first()
-
-    if (!article) {
-      throw createError({
-        statusCode: 404,
-        statusMessage: 'Project not found',
-      })
-    }
-
-    return article
-  }
 )
+
+if (error.value || !articles.value) {
+  await navigateTo('/404')
+}
 
 if (error.value) {
   throw error.value
