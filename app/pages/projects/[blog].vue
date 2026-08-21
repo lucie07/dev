@@ -4,17 +4,35 @@ import { navbarData, seoData } from '~/data'
 
 const route = useRoute()
 
-// Public URL shown to users, e.g. /projects/connecting-late-antiquities
-const publicPath = route.path
+const slug = computed(() => String(route.params.blog || ''))
 
-// Internal content path, as markdown still lives under content/blogs
-const contentPath = publicPath.replace(/^\/projects/, '/blogs')
+// Normalised public and content paths
+const publicPath = computed(() => `/projects/${slug.value}`)
+const contentPath = computed(() => `/blogs/${slug.value}`)
 
-const { data: articles, error } = await useAsyncData(`project-post-${contentPath}`, () =>
-  queryCollection('content').path(contentPath).first()
+const projectKey = computed(() => `project-post-${slug.value}`)
+
+const { data: articles, error } = await useAsyncData(
+  projectKey,
+  async () => {
+    const article = await queryCollection('content')
+      .path(contentPath.value)
+      .first()
+
+    if (!article) {
+      throw createError({
+        statusCode: 404,
+        statusMessage: 'Project not found',
+      })
+    }
+
+    return article
+  }
 )
 
-if (error.value) navigateTo('/404')
+if (error.value) {
+  throw error.value
+}
 
 // Reading progress (reuses Nuxt's built-in loading indicator via CSS var)
 const updateReadingProgress = () => {
