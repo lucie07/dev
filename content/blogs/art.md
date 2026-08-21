@@ -45,7 +45,7 @@ Marcus Agrippa Plaster Cast, c. 2008
 
 ### Teen Portrait
 
-![Teen Portrait](blogs-img/teen-portrait.jpg)
+![Teen Portrait](blogs-img/sketch-of-teen-portrait.jpg)
 
 Teen Portrait, 2012
 
