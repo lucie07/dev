@@ -146,13 +146,16 @@ useHead(() => {
 })
 
 // Generate OG Image
-const article = articles.value as ContentItem | null
-defineOgImageComponent('Test', {
-  headline: 'Lucie',
-  title: article?.seo?.title || data.value.title || '',
-  description: article?.seo?.description || data.value.description || '',
-  link: data.value.ogImage,
-})
+if (articles.value) {
+  const article = articles.value as ContentItem
+
+  defineOgImageComponent('Test', {
+    headline: 'Lucie',
+    title: article.seo?.title || data.value.title || '',
+    description: article.seo?.description || data.value.description || '',
+    link: data.value.ogImage,
+  })
+}
 </script>
 
 <template>
