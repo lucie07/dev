@@ -24,10 +24,6 @@ if (error.value || !articles.value) {
   await navigateTo('/404')
 }
 
-if (error.value) {
-  throw error.value
-}
-
 // Reading progress (reuses Nuxt's built-in loading indicator via CSS var)
 const updateReadingProgress = () => {
   const windowHeight = window.innerHeight
