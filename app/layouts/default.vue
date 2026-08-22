@@ -5,7 +5,7 @@ const isHomePage = computed(() => route.path === '/')
 </script>
 
 <template>
-  <div class="gd-container font-site">
+  <div class="gd-container font-global">
     <header
       class="fixed w-full z-10 transition-colors duration-300 ease-out"
       :class="isHomePage ? 'bg-transparent' : 'bg-[#F1F2F4] dark:bg-slate-950'"
