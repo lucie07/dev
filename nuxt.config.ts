@@ -33,7 +33,7 @@ export default defineNuxtConfig({
         name: 'Roboto',
         provider: 'local',
         weights: [300, 400, 500, 600, 700],
-        styles: ['normal'],
+        styles: ['normal', 'italic'],
       },
     ],
   },
