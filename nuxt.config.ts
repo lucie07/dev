@@ -27,6 +27,17 @@ export default defineNuxtConfig({
     '@stefanobartoletti/nuxt-social-share',
   ],
 
+  fonts: {
+    families: [
+      {
+        name: 'Roboto',
+        provider: 'local',
+        weights: [400, 500, 700],
+        styles: ['normal'],
+      },
+    ],
+  },
+
   llms: {
     domain: seoData.mySite,
     title: seoData.title,
