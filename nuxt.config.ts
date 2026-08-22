@@ -74,7 +74,7 @@ export default defineNuxtConfig({
     preset: 'github_pages',
     prerender: {
       crawlLinks: true,
-      routes: ['/', '/rss.xml'],
+      routes: ['/', '/404', '/rss.xml'],
     },
   },
 
