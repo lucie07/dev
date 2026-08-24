@@ -29,15 +29,15 @@ The need for a late-antique prosopography has long been recognised, with Theodor
 
 ### Technologies and Processes
 
-![cla map showing geolocated place entries](blogs-img/cla--map-index.png)
-
-Connecting Late Antiquities interactive map, showing Illyricum selected and geolocated place entries across the database. Screenshot from the CLA project website. Map data © OpenStreetMap contributors.
-
 As part of the CLA team, in my role as a developer, I focused on the design and development of the project’s digital resources in eXist-db, incorporating the case studies, PLRE and PCBE. The CLA resource is integrated with the digital edition of the revised open-access Prosopography of the Later Roman Empire (PLRE), which is encoded and marked up in TEI XML.
 
 Working together with the project team and partners at Exeter, London and Bonn, my work involves the creation of an open, accessible and searchable database, with internal cross-references and the interlinked entities for persons, places and roles.  
 
 For person entities, I designed database structures for people metadata using XQuery and XSLT, drawing raw data from the decoded XML. By employing a system of Uniform Resource Identifiers (URIs), I created stable and unique URIs for each person entry across three volumes of PLRE. Each individual URI resolves to an HTML page, allowing the entry to be cited, accessed and linked from many other digital projects. These person records bring together multiple types of information, including textual resources, dates active, stemmata and family connections. The data is rendered and displayed visually within central CLA interface, enriching the understanding of relationships and networks of people and the interconnectivity between different social strata.
+
+![cla map showing geolocated place entries](blogs-img/cla--map-index.png)
+
+Connecting Late Antiquities interactive map, showing Illyricum selected and geolocated place entries across the database. Screenshot from the CLA project website. Map data © OpenStreetMap contributors.
 
 Alongside person data, the major CLA entity, I also worked on mapping place entities as part of the process of building an interlinked, cross-referenced system. This involved using Pleiades IDs, QGIS, OpenStreetMap, location markers, and transforming the processed geographical data into GeoJSON datasets. I generated an array of Place JSON from extracted map data in Oxygen XML Editor, and deployed the outputs to eXist-db for use within the CLA web interface. The resulting place data includes metadata such as XML IDs, place names, coordinates and calculated text counts.
 
