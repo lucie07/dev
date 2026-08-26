@@ -26,7 +26,7 @@ defineOgImageComponent('About', {
         <div class="mt-2 h-2 bg-[#FFD77A]"></div>
       </div>
 
-      <h1 class="mt-6 text-2xl font-medium">
+      <h1 class="mt-10 text-xl font-normal">
         Page not found
       </h1>
     </div>
