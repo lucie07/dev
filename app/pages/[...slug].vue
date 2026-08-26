@@ -19,7 +19,12 @@ defineOgImageComponent('About', {
 <template>
   <div class="py-5">
     <div class="container max-w-xl mx-auto">
-      <Logo404 />
+      <NuxtImg
+        src="/404-image.png"
+        alt=""
+        width="500"
+        class="w-full h-auto"
+      />
     </div>
   </div>
 </template>
