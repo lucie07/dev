@@ -1,14 +1,8 @@
 <template>
-  <article class="group border dark:border-gray-800 m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700">
+  <article
+    class="group border dark:border-gray-800 m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700"
+  >
     <NuxtLink to="/">
-      <div
-        class="h-32 md:h-36 lg:h-48 w-full flex items-center justify-center"
-      >
-        <span class="text-5xl font-bold text-zinc-700 dark:text-zinc-300">
-          No posts
-        </span>
-      </div>
-
       <div class="p-5">
         <h2
           class="text-3xl font-semibold text-black dark:text-zinc-300 pb-1 group-hover:text-sky-700 dark:group-hover:text-sky-400"
@@ -16,7 +10,9 @@
           No Post Available
         </h2>
 
-        <div class="flex group-hover:underline text-sky-700 dark:text-sky-400 items-center pt-2">
+        <div
+          class="flex group-hover:underline text-sky-700 dark:text-sky-400 items-center pt-2"
+        >
           <p>Back To Home</p>
           <LogoArrow />
         </div>
