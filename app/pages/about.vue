@@ -33,7 +33,6 @@ defineOgImageComponent('About', {
       <NuxtImg
         src="/lucie-mingmei-hao.jpg"
         width="300"
-        height="300"
         quality="70"
         class="mb-2 h-auto"
       />
