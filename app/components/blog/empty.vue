@@ -1,8 +1,8 @@
 <template>
   <article
-    class="group border dark:border-gray-800 m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700"
+    class="group aspect-square border dark:border-gray-800 m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700"
   >
-    <NuxtLink to="/">
+    <NuxtLink to="/" class="flex h-full flex-col justify-end">
       <div class="p-5">
         <h2
           class="text-3xl font-semibold text-black dark:text-zinc-300 pb-1 group-hover:text-[#664700] dark:group-hover:text-[#FFECC7]"
