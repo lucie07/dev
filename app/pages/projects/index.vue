@@ -2,6 +2,8 @@
 import Fuse from 'fuse.js'
 import type { BlogPost } from '~/types/blog'
 
+const config = useRuntimeConfig()
+
 function parseCustomDate(dateStr?: string): Date {
   if (!dateStr) return new Date(0)
 
