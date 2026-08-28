@@ -141,11 +141,20 @@ defineOgImage({
           />
         </template>
 
-        <ArchiveCard
+        <article
           v-if="paginatedData.length <= 0"
-          title="No Post Found"
-          image="/404-image.png"
-        />
+          class="aspect-square border dark:border-[#5E5E5E] m-2 overflow-hidden rounded-2xl shadow-sm"
+        >
+          <div class="flex h-full items-center justify-center">
+            <div class="text-center">
+              <p class="text-3xl font-semibold text-black dark:text-zinc-300">
+                No results
+              </p>
+              <div class="mt-1 h-1 bg-[#FFD77A]"></div>
+            </div>
+          </div>
+        </article>
+        
       </div>
 
         <div class="flex justify-center items-center space-x-6 mt-8">
