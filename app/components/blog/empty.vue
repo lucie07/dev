@@ -1,6 +1,6 @@
 <template>
   <article
-    class="group aspect-square border dark:border-gray-800 m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700"
+    class="group aspect-square border dark:border-[#5E5E5E] m-2 rounded-2xl overflow-hidden shadow-lg text-zinc-700"
   >
     <NuxtLink to="/" class="flex h-full flex-col justify-end">
       <div class="p-5">
