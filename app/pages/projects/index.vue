@@ -2,8 +2,6 @@
 import Fuse from 'fuse.js'
 import type { BlogPost } from '~/types/blog'
 
-const config = useRuntimeConfig()
-
 function parseCustomDate(dateStr?: string): Date {
   if (!dateStr) return new Date(0)
 
@@ -40,9 +38,9 @@ const formattedData = computed(() => {
           path: articles.path?.replace(/^\/blogs/, '/projects'),
           title: articles.title || 'no-title available',
           description: articles.description || 'no-description available',
-          image: meta.image || `${config.app.baseURL}404-image.png`,
+          image: meta.image || '/404-image.png',
           alt: meta.alt || 'no alter data available',
-          ogImage: meta.ogImage || `${config.app.baseURL}404-image.png`,
+          ogImage: meta.ogImage || '/404-image.png',
           date: meta.date || 'not-date-available',
           tags: meta.tags || [],
           published: meta.published || false,
@@ -146,7 +144,7 @@ defineOgImage({
         <ArchiveCard
           v-if="paginatedData.length <= 0"
           title="No Post Found"
-          :image="`${config.app.baseURL}404-image.png`"
+          image="/404-image.png"
         />
       </div>
 
