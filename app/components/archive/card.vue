@@ -31,12 +31,17 @@ const publicPath = computed(() =>
 <template>
   <article class="group border dark:border-[#5E5E5E] m-2 overflow-hidden rounded-2xl shadow-sm text-zinc-700 dark:text-zinc-300">
     <NuxtLink :to="publicPath">
-      <img
+      <div
         v-if="image === '/404-image.png'"
-        src="/404-image.png"
-        alt=""
-        class="lg:h-48 md:h-36 w-full object-cover object-center rounded-t-2xl shadow-lg group-hover:scale-[1.02] transition-all duration-500"
-      />
+        class="lg:h-48 md:h-36 h-36 w-full flex items-center justify-center"
+      >
+        <div class="text-center">
+          <p class="text-3xl font-semibold text-black dark:text-zinc-300">
+            No results
+          </p>
+          <div class="mt-1 h-1 bg-[#FFD77A]"></div>
+        </div>
+      </div>
 
       <NuxtImg
         v-else
