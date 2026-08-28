@@ -40,9 +40,9 @@ const formattedData = computed(() => {
           path: articles.path?.replace(/^\/blogs/, '/projects'),
           title: articles.title || 'no-title available',
           description: articles.description || 'no-description available',
-          image: meta.image || '/404-image.png',
+          image: meta.image || `${config.app.baseURL}404-image.png`,
           alt: meta.alt || 'no alter data available',
-          ogImage: meta.ogImage || '/404-image.png',
+          ogImage: meta.ogImage || `${config.app.baseURL}404-image.png`,
           date: meta.date || 'not-date-available',
           tags: meta.tags || [],
           published: meta.published || false,
@@ -146,7 +146,7 @@ defineOgImage({
         <ArchiveCard
           v-if="paginatedData.length <= 0"
           title="No Post Found"
-          image="/404-image.png"
+          :image="`${config.app.baseURL}404-image.png`"
         />
       </div>
 
