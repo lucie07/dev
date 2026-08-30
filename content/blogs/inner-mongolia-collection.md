@@ -15,19 +15,13 @@ This page is a growing image collection from Inner Mongolia. Some images come fr
 
 I sometimes wish Inner Mongolia could be fully captured and recorded. My collection has grown in uneven ways over the years. Most of the times I was able to visit were during holidays or breaks, which often meant arriving in the hottest part of summer or the coldest part of winter. In my own archive, it almost feels as if Inner Mongolia only has two seasons, while spring and autumn are largely missing. So it always feels like a small surprise when I find older photographs from my teenage years and realise some were taken in March, October, or in small in-between moments I had nearly forgotten. 
 
-### Wind turbines on the prairie
-
 ![Wind turbines on the prairie](blogs-img/wind-turbines-on-the-prairie.jpg)
 
 Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps one of my strongest impressions of the place: wind turbines, and then more wind turbines. I never knew when they were built, but they seemed to have been there for a while, quietly becoming part of the grassland.  
 
-### Wetland with waterways and reeds
-
 ![Wetland with waterways and reeds](blogs-img/wetland-with-waterways.jpg)
 
 Wetland with waterways and reeds. Ergun, Hulunbuir, 2010-2011. The Ergun Wetlands are often described as among the largest wetland areas in Asia. The place is a mixture of nature, culture, and lots of fun. Each season brings a different colour to the landscape. Birdwatching is one of the joys of the area, as more than 300 bird species are said to live in the area, including the swan goose. I suspect they were hidden among the reeds when I took this photo. Whenever I see a swan goose, a song begins looping in my head. Swan Goose is a traditional Mongolian folk song. The genre is a Urad ballad, it seems to have originated in Bayannur along the Sino-Mongolian border. This ballad is rooted in my life and sung by many, I’ve been hearing the same old melody since childhood. In my heart, the swan goose has always felt like the unofficial bird of Inner Mongolia.
-
-### Frozen lake
 
 ![Frozen lake](blogs-img/frozen-lake.jpg)
 
