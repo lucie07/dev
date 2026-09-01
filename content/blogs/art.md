@@ -43,6 +43,12 @@ I created this ink drawing of a Mongolian woman with a camel in 2007, in Inner M
 
 Marcus Agrippa Plaster Cast, c. 2008
 
+### Seated Teen
+
+![Seated Teen](blogs-img/sketch-of-a-seated-teen-in-profile.jpg)
+
+Seated Teen, c. 2010
+
 ### Teen Portrait
 
 ![Teen Portrait](blogs-img/sketch-of-teen-portrait.jpg)
