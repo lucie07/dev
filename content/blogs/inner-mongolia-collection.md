@@ -91,6 +91,8 @@ Sand dunes with a fence line. Alashan Plateau, Gobi Desert, 2017-2018. I love sa
 
 Rippled sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. The rippled dunes were not as soft as they looked.I found them quite hard to walk through; the wind-shaped ridges were firm underfoot, almost like climbing uneven stairs or hiking. The desert is a mix of soft and hard sand, and I learned that footwear matters a lot. In summer, I like wearing sandals, sometimes with socks, because the sand can pass through more easily. In winter, proper boots and cold-weather gear are definitely needed. The Gobi can be icy and windy, with cold air and snow coming down from the north. I’m tempted to capture the view of snow dunes and ice canyons, in early January next time I visit.
 
+![Thorny shrub in the desert](blogs-img/thorny-shrub-in-the-desert.jpg)
+
 ![A lone moon glows in the dark night sky](blogs-img/lone-moon-in-dark-night-sky.jpg)
 
 The total lunar eclipse of 27 July 2018. Bugthot, 28 July local time. Totality lasted for around 104 minutes, making it the longest total lunar eclipse of the 21st century. I watched it from Bugthot in the UTC+8 time zone. I think I took the picture sometime between maximum eclipse and the later partial phase. The Moon looks rather ordinary here, nothing more like a typical full moon, which I'm quite happy to blame on my shabby equipment and poor photography skills. Photography aside, it was magical to witness the eclipse and see some of the orange, red, and perhaps mixed deep tones of the "Blood Moon". What a special moment in time. An eclipse like that does not come along very often, so I suppose I have had a good excuse ever since to upgrade my equipment to try to capture something a little more interesting.
