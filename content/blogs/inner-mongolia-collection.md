@@ -93,6 +93,8 @@ Rippled sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. The rippled dunes w
 
 ![Thorny shrub in the desert](blogs-img/thorny-shrub-in-the-desert.jpg)
 
+![Green desert shrubs](blogs-img/green-desert-shrubs.jpg)
+
 ![A lone moon glows in the dark night sky](blogs-img/lone-moon-in-dark-night-sky.jpg)
 
 The total lunar eclipse of 27 July 2018. Bugthot, 28 July local time. Totality lasted for around 104 minutes, making it the longest total lunar eclipse of the 21st century. I watched it from Bugthot in the UTC+8 time zone. I think I took the picture sometime between maximum eclipse and the later partial phase. The Moon looks rather ordinary here, nothing more like a typical full moon, which I'm quite happy to blame on my shabby equipment and poor photography skills. Photography aside, it was magical to witness the eclipse and see some of the orange, red, and perhaps mixed deep tones of the "Blood Moon". What a special moment in time. An eclipse like that does not come along very often, so I suppose I have had a good excuse ever since to upgrade my equipment to try to capture something a little more interesting.
