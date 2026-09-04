@@ -5,6 +5,7 @@ description: Bits and pieces of music that I wanted..
 image: /blogs-img/vivaldi-rv356-allegro-p46.jpg
 alt: Excerpt from the solo violin part of Antonio Vivaldi’s Violin Concerto in A minor, RV 356, I. Allegro
 ogImage: /blogs-img/vivaldi-rv356-allegro-p46.jpg
+tags: ['music', 'violin', 'Inner Mongolia', 'Ireland']
 published: true
 ---
 
