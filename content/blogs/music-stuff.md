@@ -3,12 +3,12 @@ title: Music Stuff
 date: 16th March 2026
 description: some description
 image: /blogs-img/vivaldi-rv356-allegro-p46.jpg
-alt: alt text
+alt: Excerpt from the solo violin part of Antonio Vivaldi’s Violin Concerto in A minor, RV 356, I. Allegro
 ogImage: /blogs-img/vivaldi-rv356-allegro-p46.jpg
 published: true
 ---
 
-![Excerpt from Antonio Vivaldi’s Violin Concerto in A minor](blogs-img/vivaldi-rv356-allegro-p46.jpg)
+![Excerpt from the solo violin part of Antonio Vivaldi’s Violin Concerto in A minor, RV 356, I. Allegro](blogs-img/vivaldi-rv356-allegro-p46.jpg)
 
 Excerpt from the solo violin part of Antonio Vivaldi’s Violin Concerto in A minor, RV 356, I. Allegro.
 
