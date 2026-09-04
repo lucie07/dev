@@ -5,7 +5,7 @@ description: This research paper explores how algorithms, computer-assisted meth
 image: /blogs-img/research_paper--feature-image.jpg
 alt: Research Proposal Draft
 ogImage: /blogs-img/research_paper--feature-image.jpg
-tags: ['computer music', 'machine creativity', 'algorithmic composition', 'Human-Computer Interaction', 'Artificial Intelligence', 'MSc Interactive Digital Media', 'Trinity College Dublin']
+tags: ['computer music', 'music', 'machine creativity', 'algorithmic composition', 'Human-Computer Interaction', 'Artificial Intelligence', 'MSc Interactive Digital Media', 'Trinity College Dublin']
 published: true
 ---
 
