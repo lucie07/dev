@@ -1,6 +1,6 @@
 ---
 title: Music Stuff
-date: 16th March 2026
+date: 7th March 2010
 description: Bits and pieces of music that I wanted..
 image: /blogs-img/vivaldi-rv356-allegro-p46.jpg
 alt: Excerpt from the solo violin part of Antonio Vivaldi’s Violin Concerto in A minor, RV 356, I. Allegro
