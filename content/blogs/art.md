@@ -2,9 +2,9 @@
 title: Art
 date: 19th Sep 2012
 description: A small selection of artwork I created during an early part of my creative journey. These works capture a time when I was exploring various art forms with my pen..
-image: /blogs-img/mongolian-woman-with-a-camel-high-res_feature-image.jpg
+image: /blogs-img/mongolian-woman-with-a-camel_feature-image.jpg
 alt: Some artwork I created 
-ogImage: /blogs-img/mongolian-woman-with-a-camel-high-res_feature-image.jpg
+ogImage: /blogs-img/mongolian-woman-with-a-camel_feature-image.jpg
 tags: ['art', 'sketch', 'Inner Mongolia']
 published: true
 ---
