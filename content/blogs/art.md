@@ -31,7 +31,7 @@ I drew this quick ink sketch in summer 2007 during a visit to a botanic garden n
 
 ### Mongolian Woman with a Camel
 
-![Mongolian Woman with a Camel](blogs-img/mongolian-woman-with-a-camel-high-res.jpg)
+![Mongolian Woman with a Camel](blogs-img/mongolian-woman-with-a-camel.jpg)
 
 Mongolian Woman with a Camel, 2007
 
