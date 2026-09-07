@@ -23,7 +23,7 @@ I don't remember everything from when I was little, but I think I made this penc
 
 ### Botanic Garden in Bugthot
 
-![Botanic Garden in Bugthot](blogs-img/ink-sketch-of-trees-high-res.jpg)
+![Botanic Garden in Bugthot](blogs-img/ink-sketch-of-trees.jpg)
 
 Botanic Garden in Bugthot, 2007
 
