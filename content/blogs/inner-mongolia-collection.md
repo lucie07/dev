@@ -73,6 +73,8 @@ A pyramid-shaped monument with carvings of running deer. Sayhan Tala, 2012-2014.
 
 A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mongolian, is a stone cairn. This one was huge, larger than a yurt, I think. I have also seen wooden ovoos, and others tied with many different coloured khadags, which are silk scarves, but stone ovoos with blue khadags are the ones I remember most. Blue khadags are believed to be special and are often associated with the sky spirit Tengger. 
 
+![A sunflower head with loads of seeds](blogs-img/a-sunflower-head-with-loads-of-seeds.jpg)
+
 ![Three sheep](blogs-img/three-sheep.jpg)
 
 Three sheep walk across a hillside. Ordos, around summer 2015. When I was packing for the new term for college, I took my mum's advice and put a cashmere jumper in my suitcase. It was not handmade but 100% produced in Bugthot, my favourite as always, cannot live without cashmere. In Ireland, it's not very common to encounter wool. The clearest trace I found was in knitting shops, with Irish yarn balls dyed in all sorts of colours. But in the town where I lived, most of the clothes I came across seemed to be cotton, synthetic fibres, or blends. Perhaps Dublin had more choice, and perhaps I was looking in the wrong places. Still, with so many sheep in Ireland, it's been a mystery to me: where had all the wool gone? Where on earth had it gone?
