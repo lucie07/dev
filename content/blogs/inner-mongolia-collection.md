@@ -15,6 +15,8 @@ This page is a growing image collection from Inner Mongolia. Some images come fr
 
 I sometimes wish Inner Mongolia could be fully captured and recorded. My collection has grown in uneven ways over the years. Most of the times I was able to visit were during holidays or breaks, which often meant arriving in the hottest part of summer or the coldest part of winter. In my own archive, it almost feels as if Inner Mongolia only has two seasons, while spring and autumn are largely missing. So it always feels like a small surprise when I find older photographs from my teenage years and realise some were taken in March, October, or in small in-between moments I had nearly forgotten. 
 
+### 2009-2011
+
 ![Wind turbines on the prairie](blogs-img/wind-turbines-on-the-prairie.jpg)
 
 Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps one of my strongest impressions of the place: wind turbines, and then more wind turbines. I never knew when they were built, but they seemed to have been there for a while, quietly becoming part of the grassland.  
