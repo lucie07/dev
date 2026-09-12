@@ -121,6 +121,8 @@ The total lunar eclipse of 27 July 2018. Bugthot, 28 July local time. Totality l
 
 Moon and Mars. Bugthot, 28 July 2018. I do have another terrible picture to show. Mars appeared just below the Moon in the evening sky and was the brightest object I could see, apart from the Moon itself, so I knew immediately that it was no ordinary star. To the naked eye it had a reddish colour (the original colour of the planet), which looked good beside the eclipsed Moon. I captured Mars and Moon pairing and visible in the same part of the sky, at least. Mars was so bright, and it felt really close to me-its closest approach to Earth came only a few days later, on 31 July, the nearest it had been for about fifteen years. It was also sitting in Capricornus, which gave me another reason to stare at that part of the sky for a bit longer: Capricornus is my zodiac constellation, it has always felt special and significant to me, and I had been hoping to photograph it properly for years. Astrophotography is not my strong point though, I still hope to photograph a full Moon or a detailed Mars with Martians..in my dreams.
 
+### 2019
+
 ![Rocky hillside](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
