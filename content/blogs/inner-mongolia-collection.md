@@ -97,6 +97,8 @@ A herd of sheep walking and grazing. Sayhan Tala, Bugthot, around summer 2015. W
 
 ![A stream flowing over river stones](blogs-img/a-stream-flowing-over-river-stones.jpg)
 
+### 2017
+
 ![Bicycles covered in snow](blogs-img/bicycles-covered-in-snow.jpg)
 
 ![Sand dunes](blogs-img/sand-dunes.jpg)
