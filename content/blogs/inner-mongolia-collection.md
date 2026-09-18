@@ -97,6 +97,8 @@ A herd of sheep walking and grazing. Sayhan Tala, Bugthot, around summer 2015. W
 
 ![A stream flowing over river stones](blogs-img/a-stream-flowing-over-river-stones.jpg)
 
+![Bicycles covered in snow](blogs-img/bicycles-covered-in-snow.jpg)
+
 ![Sand dunes](blogs-img/sand-dunes.jpg)
 
 Sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. Alashan covers the southwest part of the Gobi. Gobi in Mongolian means the dryland. When dust storms happen, I am reminded that I grew up close to one of the largest deserts in the world. This area is also considered "singing dunes" by local people. Song of dunes is caused by wind passing over the dune or by someone walking near the crest.To me, it sounded like a low-pitched rumble, almost as if the dune itself was moving and vibrating. This is a natural sound phenomenon that still feels slightly mysterious, and I hope I can record it properly next time I visit. 
