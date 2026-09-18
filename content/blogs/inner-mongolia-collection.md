@@ -29,7 +29,7 @@ Wetland with waterways and reeds. Ergun, Hulunbuir, 2010-2011. The Ergun Wetland
 
 ![Frozen lake](blogs-img/frozen-lake.jpg)
 
-A frozen lake covered in snow. Nanhai Wetland, southeast of Bugthot. 2012-2014. Winter has always fascinated me. When I was a child, it felt full of fun. I suppose winter has always been my favourite season. There was so much to do, and perhaps I feel attached to it because I was born in the depths of winter. January is typically the coldest month in Inner Mongolia, and according to my mum, the day I was born was one of the most freezing days of that year. The snow was falling heavily, several inches deep. That was how I arrived.
+A frozen lake covered in snow. Nanhai Wetland, southeast of Bugthot. 2012-2014. Winter has always fascinated me. When I was a child, it felt full of fun. I suppose winter has always been my favourite season. Blue has always been my favourite colour. There was so much to do, and perhaps I feel attached to it because I was born in the depths of winter. January is typically the coldest month in Inner Mongolia, and according to my mum, the day I was born was one of the most freezing days of that year. The snow was falling heavily, several inches deep. That was how I arrived.
 
 ![A crescent moon peeks through clouds at twilight](blogs-img/crescent-moon-at-twilight.jpg)
 
@@ -37,7 +37,7 @@ A crescent moon peeks through clouds at twilight. Darhan Muminggan, Bugthot, 201
 
 ![Backyard in snow](blogs-img/backyard-in-snow.jpg)
 
-Backyard in snow. At home, Bugthot, 2012-2014. In Inner Mongolia, snow often stays for days or even weeks because the temperatures remain low enough to keep it from melting. Everything becomes frozen and still, and I enjoy losing myself in that endless sense of peace. Blue has always been my favourite colour. I love being surrounded by a snowy landscape and its silence. What draws me most is the untouched, raw beauty of it. When the landscape begins to blur into white and blue, I know it is that time of year again, to feel a little closer to nature.
+Backyard in snow. At home, Bugthot, 2012-2014. In Inner Mongolia, snow often stays for days or even weeks because the temperatures remain low enough to keep it from melting. Everything becomes frozen and still, and I enjoy losing myself in that endless sense of peace. I love being surrounded by a snowy landscape and its silence. What draws me most is the untouched, raw beauty of it. When the landscape begins to blur into white and blue, I know it is that time of year again, to feel a little closer to nature.
 
 ![Tengger Stud-farm](blogs-img/tengger-stud-farm.jpg)
 
