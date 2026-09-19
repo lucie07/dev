@@ -45,7 +45,7 @@ Tengger Stud-farm. Sayhan Tala, Bugthot, 2011-2012. Well, I like to think of sig
 
 ![A bronze statue of a Mongolian rider](blogs-img/mongolian-rider.jpg)
 
-A bronze statue of a Mongolian rider. Hondlon, Bugthot, 2014-2015. This is another trilingual sign, although its layout does not make the Mongolian especially easy to read. Traditional Mongolian script is written vertically, with the columns arranged from left to right. In Inner Mongolia, an extraordinary number of places, objects and displays are named after or associated with Genghis Khan, and this is one more example. I feel as though I have seen more than a hundred different portrayals of him in local museums, monuments, historical records and collections. Sometimes he appears as a ruler, a warrior, an ancestor, or almost a brand name. Over time, I have developed my own opinions about how he is portrayed and how his image is used within Mongolian cultural memory.
+A bronze statue of a Mongolian rider. Hondlon, Bugthot, 2011-2012. This is another trilingual sign, although its layout does not make the Mongolian especially easy to read. Traditional Mongolian script is written vertically, with the columns arranged from left to right. In Inner Mongolia, an extraordinary number of places, objects and displays are named after or associated with Genghis Khan, and this is one more example. I feel as though I have seen more than a hundred different portrayals of him in local museums, monuments, historical records and collections. Sometimes he appears as a ruler, a warrior, an ancestor, or almost a brand name. Over time, I have developed my own opinions about how he is portrayed and how his image is used within Mongolian cultural memory.
 
 ![A camel in the shade](blogs-img/camel-in-the-shade.jpg)
 
