@@ -25,7 +25,7 @@ Wind turbines on the prairie. Bayan Obo, Bugthot, 2009-2011. This was perhaps on
 
 Wetland with waterways and reeds. Ergun, Hulunbuir, 2010-2011. The Ergun Wetlands are often described as among the largest wetland areas in Asia. The place is a mixture of nature, culture, and lots of fun. Each season brings a different colour to the landscape. Birdwatching is one of the joys of the area, as more than 300 bird species are said to live in the area, including the swan goose. I suspect they were hidden among the reeds when I took this photo. Whenever I see a swan goose, a song begins looping in my head. Swan Goose is a traditional Mongolian folk song. The genre is a Urad ballad, it seems to have originated in Bayannur along the Sino-Mongolian border. This ballad is rooted in my life and sung by many, I’ve been hearing the same old melody since childhood. In my heart, the swan goose has always felt like the unofficial bird of Inner Mongolia.
 
-### 2012
+### 2012-2013
 
 ![Frozen lake](blogs-img/frozen-lake.jpg)
 
