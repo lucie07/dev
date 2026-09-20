@@ -101,6 +101,8 @@ A herd of sheep walking and grazing. Sayhan Tala, Bugthot, around summer 2015. W
 
 ### 2017
 
+![Mountain saddle](blogs-img/mountain-saddle.jpg)
+
 ![Leafless trees covered in snow](blogs-img/leafless-trees-covered-in-snow.jpg)
 
 ![Bicycles covered in snow](blogs-img/bicycles-covered-in-snow.jpg)
