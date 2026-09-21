@@ -105,6 +105,8 @@ A herd of sheep walking and grazing. Sayhan Tala, Bugthot, around summer 2015. W
 
 ![Wet meadows](blogs-img/wet-meadows.jpg)
 
+![Marsh pool and open water habitat](blogs-img/marsh-pool-and-open-water-habitat.jpg)
+
 ![Leafless trees covered in snow](blogs-img/leafless-trees-covered-in-snow.jpg)
 
 ![Bicycles covered in snow](blogs-img/bicycles-covered-in-snow.jpg)
