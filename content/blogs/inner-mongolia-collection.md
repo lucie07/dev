@@ -182,3 +182,5 @@ Trees across a snowy landscape. Hohhot, 23 Dec 2024. I had brought my coat, but 
 ![Snow dusted farmland with distant mountains](blogs-img/snow-dusted-farmland-with-distant-mountains.jpg)
 
 ![Another snowy winter landscape](blogs-img/another-snowy-winter-landscape.jpg)
+
+![Snow dusted mountain](blogs-img/snow-dusted-mountain.jpg)
