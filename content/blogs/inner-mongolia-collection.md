@@ -180,3 +180,5 @@ Layered hills dusted with snow beneath a bright, sunny winter sky. Hohhot, 23 De
 Trees across a snowy landscape. Hohhot, 23 Dec 2024. I had brought my coat, but it was colder than I expected. I had not worn boots, which I should have, my trainers were comfortable enough in aircraft cabins, but I think I had forgotten what below-zero temperatures actually felt like. A journey across half the world is always rather fascinating, with the changing time zones and long hours. The distance is roughly 5,000-5200 miles, or 8,100-8300 kilometres in total, and getting home usually takes a couple of days once the flights, connections, train journeys and waiting are all counted.
 
 ![Snow dusted farmland with distant mountains](blogs-img/snow-dusted-farmland-with-distant-mountains.jpg)
+
+![Another snowy winter landscape](blogs-img/another-snowy-winter-landscape.jpg)
