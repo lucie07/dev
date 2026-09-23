@@ -97,6 +97,8 @@ A herd of sheep walking and grazing. Sayhan Tala, Bugthot, around summer 2015. W
 
 ![Wetland with a distant city skyline](blogs-img/wetland-with-a-distant-city-skyline.jpg)
 
+![A kite flies high in the vast sky](blogs-img/a-kite-flies-high-in-the-vast-sky.jpg)
+
 ![A stream flowing over colorful rocks](blogs-img/a-stream-flowing-over-colorful-rocks.jpg)
 
 ![A stream flowing over river stones](blogs-img/a-stream-flowing-over-river-stones.jpg)
