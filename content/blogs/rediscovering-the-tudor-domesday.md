@@ -31,7 +31,7 @@ Valor Ecclesiasticus counted 8,000 parish churches, 650 monasteries, 22 cathedra
 
 ### Technologies and Processes
 
-As part of the Tudor Domesday team, in my role as a developer, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the Tudor Domesday project also involves the creation of an eXist-db site - the project's database for the texts.
+As part of the TTD team, in my role as a developer, I work on the design and development of the project’s WordPress web interface, which is used for blogging and public engagement. My role on the Tudor Domesday project also involves the creation of an eXist-db site - the project's database for the texts.
 
 Working together with the project team and partners at The National Archives, I will be looking at how the Valor Ecclesiasticus materials can be captured, structured, modelled and displayed within an XML and eXist-db framework. This work involves thinking carefully about how textual resources and possible paratextual features can be represented in an accessible, searchable and sustainable digital format. By building and interlinking data contained in the Valor Ecclesiasticus, I will create a highly customised research resource that brings the survey data and manuscript materials together as open, modern and discoverable records.
 
