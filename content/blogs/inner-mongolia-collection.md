@@ -3,7 +3,7 @@ title: Inner Mongolia Collection
 date: 1st Aug 2014
 description: This page is a growing image collection from Inner Mongolia. Some images come from family trips, some from holiday breaks, and some from quieter moments when I was between study, work, and different stages of life..
 image: /blogs-img/mountain_feature-image.png
-alt: mountain
+alt: A rocky hillside with sparse trees and shrubs rises beneath a clear blue sky
 ogImage: /blogs-img/mountain_feature-image.png
 tags: ['Inner Mongolia', 'photography']
 published: true
