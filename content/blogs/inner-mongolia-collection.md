@@ -155,7 +155,7 @@ Moon and Mars. Bugthot, 28 July 2018. I do have another terrible picture to show
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
 
-![Mountain canyon](blogs-img/sunlit-mountain-canyon.jpg)
+![A sunlit mountain canyon beneath a clear blue sky](blogs-img/sunlit-mountain-canyon.jpg)
 
 Mountain canyon. Bugthot, late July 2019. I loved disappearing into valleys like this. It was one of those moments when I could lie back on the grass, feel the sun on my face, and enjoy the rare quiet of doing nothing. 
 
