@@ -77,6 +77,8 @@ A pyramid-shaped monument with carvings of running deer. Sayhan Tala, 2012-2014.
 
 A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mongolian, is a stone cairn. This one was huge, larger than a yurt, I think. I have also seen wooden ovoos, and others tied with many different coloured khadags, which are silk scarves, but stone ovoos with blue khadags are the ones I remember most. Blue khadags are believed to be special and are often associated with the sky spirit Tengger. 
 
+![Grapes](blogs-img/grapes.jpg)
+
 ![A sunflower head with loads of seeds](blogs-img/a-sunflower-head-with-loads-of-seeds.jpg)
 
 ![A bitter melon on the vine](blogs-img/a-bitter-melon-on-the-vine.jpg)
