@@ -151,7 +151,7 @@ Moon and Mars. Bugthot, 28 July 2018. I do have another terrible picture to show
 
 ### 2019
 
-![Rocky hillside](blogs-img/mountain_feature-image.png)
+![A rocky hillside with sparse trees and shrubs rises beneath a clear blue sky](blogs-img/mountain_feature-image.png)
 
 Rocky hillside. Bugthot, early July 2019. I took this not long after submitting my dissertation. I remember feeling a small sense of relief here. The summer air was breezy, the hillside was quiet, and I finally had space to breathe.
 
