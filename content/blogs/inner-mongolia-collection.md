@@ -135,6 +135,8 @@ Rippled sand dunes. Alashan Plateau, Gobi Desert, 2017-2018. The rippled dunes w
 
 ![Thorny shrub in the desert](blogs-img/thorny-shrub-in-the-desert.jpg)
 
+Thorny shrub in the desert. Alashan Plateau, Gobi Desert, 2017-2018. Shrubs are perhaps the most common vegetation I remember seeing in the Gobi. They survive in a dry, waterless landscape where the temperature can change quickly between day and night, summer and winter. I was impressed by how they live with very little.
+
 ![Green desert shrubs](blogs-img/green-desert-shrubs.jpg)
 
 ![Train through the dunes](blogs-img/train-through-the-dunes.jpg)
