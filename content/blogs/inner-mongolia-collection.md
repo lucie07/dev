@@ -139,6 +139,8 @@ Thorny shrub in the desert. Alashan Plateau, Gobi Desert, 2017-2018. Shrubs are 
 
 ![Green desert shrubs](blogs-img/green-desert-shrubs.jpg)
 
+Green desert shrubs. Alashan Plateau, Gobi Desert, 2017-2018. The Gobi is also home to many green plants, grasses and herbs. This area is a semi-desert, and because it is near the great northern loop of the Yellow River, there is enough moisture for vegetation to survive. I don't think sea buckthorn, a spiny shrub, appears in this image, but I still want to mention it, there is plenty of it in the region. I absolutely love sea buckthorn berries and juice. 
+
 ![Train through the dunes](blogs-img/train-through-the-dunes.jpg)
 
 ![More sand dunes](blogs-img/lone-flag-among-the-dunes.jpg)
