@@ -83,6 +83,8 @@ Colourful khadags on top of an ovoo. Sayhan Tala, Bugthot, 2012-2014. In additio
 
 ![A distant ovoo with a central pole](blogs-img/a-distant-ovoo-with-a-tug.jpg)
 
+A distant ovoo with a central pole. Sayhan Tala, Bugthot, 2012–2014. The long brown tassel hanging from the top of the ovoo is a tug, usually made from horse or yak tail hair. Like many other names and symbols I came across growing up, the tug is often associated with Genghis Khan and the Mongol Empire. I have seen the spirit banners in similar forms in many other places too.
+
 ![Grapes](blogs-img/grapes.jpg)
 
 ![A sunflower head with loads of seeds](blogs-img/a-sunflower-head-with-loads-of-seeds.jpg)
