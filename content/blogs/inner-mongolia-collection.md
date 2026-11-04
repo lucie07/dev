@@ -79,6 +79,8 @@ A Mongolian ovoo with khadags. Sayhan Tala, Bugthot, 2012-2014. An ovoo, in Mong
 
 ![Colourful khadags on top of an ovoo](blogs-img/colourful-khadags.jpg)
 
+Colourful khadags on top of an ovoo. Sayhan Tala, Bugthot, 2012-2014. In addition to blue, other colours are also used: green for the land, yellow for the sun, red for fire and white for dairy products. Ovoos also carry wishes for a safe journey. The scarves here were made of polyester rather than silk, though.
+
 ![A distant ovoo with a central pole](blogs-img/a-distant-ovoo-with-a-tug.jpg)
 
 ![Grapes](blogs-img/grapes.jpg)
