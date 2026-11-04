@@ -26,3 +26,5 @@ Oisín.
 ![Maple violin](blogs-img/maple-the-violin.jpg)
 
 Maple.
+
+![Baroque violin](blogs-img/baroque-violin.jpg)
