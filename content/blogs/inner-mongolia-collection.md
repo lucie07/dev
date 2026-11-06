@@ -151,6 +151,8 @@ Green desert shrubs. Alashan Plateau, Gobi Desert, 2017-2018. The Gobi is also h
 
 ![Train through the dunes](blogs-img/train-through-the-dunes.jpg)
 
+Train through the dunes. Hobq Desert, part of Ordos Desert, 2017-2018. This is one of the ecoregions. The deserts are not empty as they seem. I should also mention camels, though they are not in this image. I think they were wandering around somewhere on the other side of the dunes.
+
 ![More sand dunes](blogs-img/lone-flag-among-the-dunes.jpg)
 
 ### 2018
