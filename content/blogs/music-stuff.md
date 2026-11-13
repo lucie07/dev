@@ -21,6 +21,8 @@ The unnamed.
 
 The unnamed. This piece of antique has been with me for over twenty years. I can't think of anything else I've owned for more than two decades in my life. I got it when I was ten, after my violin teacher told my mum that my arms had grown long enough for a full-size instrument. So I welcomed my brand-new “unnamed”. It was my first 4/4 violin, and my previous 1/2 and 1/4 violins were officially retired and locked in the deepest of our storeroom since then. The unnamed was of pretty good quality, possibly made locally in Inner Mongolia, although the details of its make and model have sadly been lost. It survived through the years, and I still love playing it. I never gave it a name, though. It has a scratch on its left side, which I suspect happened one day when I was in a hurry to get to dinner after finishing my last piece of practice.. the violin ended up with a permanent scar.
 
+The bows were less lucky. I’ve had several bows. One was tragically broken in half right in the middle and had to be retired. Another remained in one piece but suffered serious hair loss. At its worst, it would lose three or four hairs for every hour of playing. I wasn't good at looking after my bows and I didn’t have a good habit of remembering to loosen the hair after practising. Sometimes I would leave it tightened overnight or for several days. Never counted every bow I used. There were probably six of them. The one in the picture has been luckier and is still the main bow for the unnamed.
+
 ![Oisín violin](blogs-img/oisin.jpg)
 
 Oisín.
