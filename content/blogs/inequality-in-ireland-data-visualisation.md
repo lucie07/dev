@@ -11,9 +11,9 @@ published: true
 
 ### Overview
 
-![View of Dublin](blogs-img/datavis-feature-image.jpg)
+![View of Dublin](blogs-img/datavis--base-map.png)
 
-View of Dublin
+Inequality in Ireland base map
 
 Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master, MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin.
 
