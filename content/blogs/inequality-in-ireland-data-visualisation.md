@@ -11,7 +11,7 @@ published: true
 
 ### Overview
 
-![View of Dublin](blogs-img/datavis--base-map.png)
+![Inequality in Ireland base map](blogs-img/datavis--base-map.png)
 
 Inequality in Ireland base map
 
