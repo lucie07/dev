@@ -2,9 +2,9 @@
 title: Inequality in Ireland – Data Visualisation
 date: 15th Jan 2026
 description: Inequality in Ireland was a social science research project. It was developed as the summer major project for my Master, MSc Interactive Digital Media at the School of Computer Science and Statistics, Trinity College Dublin..
-image: /blogs-img/datavis-feature-image.jpg
+image: /blogs-img/datavis--base-map.png
 alt: View of Dublin
-ogImage: /blogs-img/datavis-feature-image.jpg
+ogImage: /blogs-img/datavis--base-map.png
 tags: ['Data Visualisation', 'Interactive Map', 'GeoJSON', 'mapping', 'geospatial data', 'Mapbox', 'Census', 'Deprivation Index', 'survey data', 'storytelling', 'Social Science', 'MSc Interactive Digital Media', 'Trinity College Dublin', 'Dublin', 'Ireland']
 published: true
 ---
